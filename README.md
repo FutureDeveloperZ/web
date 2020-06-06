@@ -13,6 +13,7 @@
 * Custom Website for Obama Bot
 * Built using Bulma.
 * At least 3 commits every few days.
+* Thanks to [@TrackRunny](https://github.com/TrackRunny) for the awesome README design :3
 
 <!-- CONTRIBUTING HEADER -->
 ## ⇁ Contributing
@@ -28,4 +29,3 @@ This project is licensed under the MIT license.
 ## ⇁ Questions / Contact me
 
 * Discord Account: `lichKing112#8803`<br/>
-Ty 2 `TrackRunny#0001` for ReadMe.
