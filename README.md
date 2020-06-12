@@ -18,7 +18,7 @@
 * Animate on Scroll - [https://github.com/michalsnik/aos](https://github.com/michalsnik/aos)
 * Normalize.css - [https://github.com/necolas/normalize.css/](https://github.com/necolas/normalize.css/)
 * Google Fonts - [https://fonts.google.com/](https://fonts.google.com/)
-* Typed.js - 
+* Typed.js - [https://github.com/mattboldt/typed.js](https://github.com/mattboldt/typed.js/)
 * jQuery - [https://github.com/jquery/jquery](https://github.com/jquery/jquery)
 
 
