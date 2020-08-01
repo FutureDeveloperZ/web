@@ -1,120 +1,70 @@
 <!DOCTYPE html>
 <html>
-<head>
-	  <!-- Search Engine Optimizations -->
-      	
-      <meta charset="utf-8" />
-      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-      <meta name="viewport" content="width=device-width, initial-scale=1" />
-      <meta name="author" content="lichKing112#8803">
-      	
-      <meta property="og:site_name" content="Obama Bot" />
-      <meta property="og:type" content="website" />
-      <meta property="og:description" content="Obama is a Moderation & Fun bot with Special abilities."/>
-      
-      <title>Obama Bot</title>
-      
-      <!-- Libraries and Paths -->
-      	
-      <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-ico">
-      <link rel="icon" href="assets/img/favicon.ico" type="image/x-icon">
-      
-      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
-      <link rel="stylesheet" href="https://unpkg.com/bulma@0.8.0/css/bulma.min.css" />
-      <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css">
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
-      
-      <link rel="stylesheet" type="text/css" href="assets/css/style.css">
-</head>
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="author" content="lichKing112#8803">
 
-<body>
-	
-    <section class="hero is-default">
-        <div class="hero-head">
-            <nav class="navbar">
-                <div class="container">
-                    <div class="navbar-brand">
-                        <a class="navbar-item" href="index.html">Home</a>
-                        <a class="navbar-item" href="support.html">Support</a>
-                        <a class="navbar-item" href="commands.html">Commands & Info</a>
+        <meta property="og:site_name" content="ObamaBot" />
+        <meta property="og:type" content="website" />
+        <meta property="og:description" content="Obama is Discord bot with Moderation and Fun capabilities."/>
+
+        <title>Obama - Discord Bot</title>
+
+        <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-ico">
+        <link rel="icon" href="assets/img/favicon.ico" type="image/x-icon">>
+      
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" integrity="sha256-h20CPZ0QyXlBuAw7A+KluUYx/3pK+c7lYEpqLTlxjYQ=" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.0/css/bulma.min.css" integrity="sha256-aPeK/N8IHpHsvPBCf49iVKMdusfobKo2oxF8lRruWJg=" crossorigin="anonymous">
+
+        <link rel="stylesheet" type="text/css" href="assets/style/style.css">
+    </head>
+    <body>
+        <section class="section">
+            <div class="container">
+                <div class="hero">
+
+                    <div class="hero-body">
+                        <div class="columns">
+                            <div class="column is-three-fifths">
+                                <div class="hero-body-text">
+                                    <h1 class="title" style="color: #228B22">
+                                        Obama
+                                    </h1>
+                                    <p class="subtitle" style="color: #228B22">
+                                        A multi purpose Discord bot that is actually not useful but fun to use.
+                                    </p>
+                                    <span class="button add-to-discord">
+                                        <a href="" style="color: #228B22"><i class='fab fa-discord' style='font-size:24px'></i>Add to Discord</a>
+                                    </span>
+                                    <span class="button support-server">
+                                        <a href="" style="color: #228B22">Support Server</a>
+                                    </span>
+                                    
+                                    
+                                </div>
+                            </div>
+                            <div class="column is-offset-1">
+                                <figure class="image hero-body-image">
+                                    <img src="https://cdn.discordapp.com/avatars/444463875908304901/9a9a51f86e0562fafda973f8693036d5.webp?size=512" alt="" class="image is-rounded">
+                                </figure>
+                            </div>
+                        </div>
                     </div>
-                </div>
-            </nav>
-        </div>
-        
-        <br/>
-        
-        <div class="hero-body" data-aos="zoom-in">
-        	<hr/>
-            <div class="container has-text-centered">
-                <div class="columns box is-vcentered">
-                    <div class="column  is-5">
-                        <figure class="image">
-                            <img class="image is-rounded" src="https://images-ext-2.discordapp.net/external/Zs--g3KkqwUND2q8VDFUVz_P5E4mmfNLmFLO4txrWPs/%3Fsize%3D512/https/cdn.discordapp.com/avatars/444463875908304901/9a9a51f86e0562fafda973f8693036d5.webp" alt="Description">
-                        </figure>
+
+                    <div class="hero-foot">
+                        <div class="columns has-text-centered">
+                            <div class="column">
+                                <span class="button commands">
+                                    <a href="commands.html" style="color: #228B22">View my commands list here</a>
+                                </span>
+                            </div>
+                        </div>
                     </div>
-                    <div class="column is-6 is-offset-1">
-                        <h5 class="title obama is-5">
-                            Obama#2040
-                        </h5>
-                        <h1 class="subtitle"><span id="word"></span></h1>
-                        <br/>
-                        <p class="has-text-centered">
-                            <a class="button is-medium is-info is-outlined" href="https://discordapp.com/oauth2/authorize?client_id=444463875908304901&scope=bot&permissions=2146958591">
-                                Invite to Discord
-                            </a>
-                        </p>
-                    </div>
+
                 </div>
             </div>
-            <hr/>
-        </div>
-	</section>
-	
-        <div class="container">
-            <div class="content section-heading">
-                <div class="is-centered">
-                    <hr/>
-                    
-                    <div class="box" data-aos="fade-up">
-                    	<h4 class="title">Simple Moderation</h4>
-                    	<h6 class="subtitle">Simples Moderation Commands for ur server like kick or ban to keep those pesky rules breakers</h6>
-                    	<img src="https://cdn.discordapp.com/attachments/705759155952287765/718297359812919326/SmartSelect_20200604-225618_Kiwi_Browser.jpg"/>
-                    </div>
-                    <div class="box" data-aos="fade-up">
-                    	<h4 class="title">Customize Your Server</h4>
-                    	<h6 class="subtitle">Customize ur server with these utility commands like Embeds or ascii for ur Announcements or Rules!</h6>
-                    	<img src="https://cdn.discordapp.com/attachments/705759155952287765/718296074854334504/SmartSelect_20200604-225107_Kiwi_Browser.jpg"/>
-                    </div>
-                    <div class="box" data-aos="fade-up">
-                    	<h4 class="title">Fun Commands</h4>
-                    	<h6 class="subtitle">Fun commands like 8ball or search up your roblox profile picture and much more.</h6>
-                    	<img src="https://cdn.discordapp.com/attachments/705759155952287765/718294796602441728/SmartSelect_20200604-224645_Kiwi_Browser.jpg"/>
-                    </div>
-                    
-                    <hr/>
-                </div>
-            </div>
-        </div>
-        
-      <footer id="footer">
-       <div class="section-heading">
-		<ul class="copyright">
-			<li>&copy; Wolfkid#4125</li><li>Design: LICHKING112#8803</li>
-		</ul>
-	   </div>
-      </footer>
-                    
-                   
-                    	
-                    		
-    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-	<script async type="text/javascript" src="assets/js/script.js"></script>
-	<script>
-      AOS.init();
-	</script>
-</body>
-
+        </section>
+    </body>
 </html>
