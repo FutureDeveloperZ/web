@@ -1,107 +1,144 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,600&family=Poppins:ital,wght@0,400;1,500&display=swap");
-body {
-  background-color: #131b21;
-  font-family: "Poppins", sans-serif;
+@import url("https://fonts.googleapis.com/css2?family=Alata&display=swap");
+.section-one {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 750px;
+  background-image: url("https://cdn.wallpapersafari.com/19/58/qWzYdN.jpg");
 }
 
-nav {
-  background-color: #110f33;
+.navbar .navbar-item {
+  color: white;
+  font-family: 'Alata', sans-serif;
+  overflow: hidden;
 }
 
-nav .navbar-item {
-  color: #228B22;
-  font-weight: 800;
-  font-size: 18px;
-  position: relative;
-  top: 0;
-  -webkit-transition: top ease 0.2s;
-  transition: top ease 0.2s;
+.navbar .is-fixed-top .navbar-item {
+  background-color: black;
 }
 
-nav .navbar-item:hover {
-  color: #7e7171;
-  top: -10px;
+.navbar .is-fixed-top .navbar-start .background-black {
+  background-color: black;
 }
 
 .hero-body {
-  padding-top: 120px;
+  padding-top: 45px;
+  padding-bottom: 25px;
 }
 
-.hero-body .hero-body-text {
-  padding-top: 100px;
-  padding-bottom: 100px;
+.hero-body .header-title-image {
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+  height: 100%;
 }
 
-.hero-body .hero-body-text .title {
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 888;
-  letter-spacing: 1.4px;
+.hero-body .header-title-text {
+  background-color: rgba(0, 0, 0, 0.4);
+  padding-top: 12px;
   padding-bottom: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
 }
 
-.hero-body .hero-body-text .subtitle {
-  letter-spacing: 2px;
-  padding-bottom: 14px;
+.hero-body .header-title-text .title,
+.hero-body .header-title-text .subtitle {
+  color: white;
+  font-family: 'Alata', sans-serif;
+  font-size: 38px;
 }
 
-.hero-body .hero-body-image {
-  width: 320px;
-  height: 320px;
+.hero-body .header-title-text .code {
+  font-family: monospace;
+  font-size: 33px;
 }
 
-.button {
-  background-color: #110f33;
-  border: 0;
-  border-radius: 20px;
-  -webkit-box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
-          box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
-  color: #228B22;
-  font-size: 21px;
-  font-weight: 800;
-  padding: 16px 42px;
-  letter-spacing: 1px;
-  line-height: 21px;
+.hero-body .cmd-category .title,
+.hero-body .cmd-category .subtitle {
+  color: white;
+  font-family: 'Alata', sans-serif;
+  font-size: 28px;
 }
 
-.button .fa-discord {
-  font-size: 17px;
-  line-height: 21px;
-  padding-right: 8px;
-  letter-spacing: 3px;
+.hero-body .invite-button {
+  font-weight: 600;
+  padding: 1.2rem 3.6rem;
+  border-radius: .2rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
 }
 
-.support-server {
-  background-color: #222050;
-  border: 0;
-  border-radius: 12px;
-  color: #228B22;
-  font-size: 21px;
-  font-weight: 800;
-  padding: 12px 12px;
-  letter-spacing: 1px;
-  margin-left: 18px;
+.hero-body .invite-button a {
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 12px 18px 12px 18px;
+  border-radius: 4px;
+  color: white;
+  font-size: 24px;
+  -webkit-box-shadow: 10px 10px rgba(0, 0, 0, 0.4);
+          box-shadow: 10px 10px rgba(0, 0, 0, 0.4);
 }
 
-.commands {
-  background-color: #17143f;
-  border: 0;
-  border-radius: 22px;
-  color: #228B22;
-  font-size: 21px;
-  font-weight: 800;
-  padding: 19px 28px;
-  letter-spacing: 1px;
-  margin-left: 18px;
-  margin-top: 12px;
+.hero-body .invite-button a:hover {
+  font-weight: 400;
 }
 
-@media only screen and (max-width: 600px) {
-  .support-server {
-    margin-top: 12px;
-  }
-  .hero-body-image {
-    visibility: hidden;
-    display: none;
-  }
+.section {
+  -webkit-box-shadow: -1px -5px 5px -2px rgba(0, 0, 0, 0.45);
+          box-shadow: -1px -5px 5px -2px rgba(0, 0, 0, 0.45);
+}
+
+.main .main-title-text {
+  padding-top: 44px;
+  padding-bottom: 44px;
+  font-family: 'Alata', sans-serif;
+}
+
+.main .columns {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.footer {
+  background-color: #323437;
+}
+
+.footer .button {
+  background-color: #323437;
+  color: white;
+  border-color: #323437;
+}
+
+.footer .buttons {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  list-style-type: none;
+  padding-top: 44px;
+  padding-bottom: 10px;
+  font-family: 'Alata', sans-serif;
+}
+
+.footer a:hover {
+  color: aqua;
 }
 /*# sourceMappingURL=style.css.map */
