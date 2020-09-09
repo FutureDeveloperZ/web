@@ -12,7 +12,7 @@
 
 ## ー Customization
 
-* coming soon
+* Customize `commands.html`'s command list in [/assets/data/](https://github.com/FutureDeveloperZ/ObamaBot-Website/tree/master/assets/data)
 
 ## ー License
 
