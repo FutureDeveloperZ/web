@@ -9,6 +9,8 @@ function loadCommands() {
     loadNsfw();
 }
 
+// @todo: Merge the 8 function into a 1 function.
+// p.s seems impossible at my current understanding of XMLHttpRequest
 function loadAnime() {
   var xhr = new XMLHttpRequest();
   xhr.open("GET", "/assets/data/anime.txt", true);
