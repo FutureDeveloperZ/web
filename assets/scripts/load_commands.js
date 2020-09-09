@@ -1,5 +1,12 @@
 function loadCommands() {
     loadAnime();
+    loadImages();
+    loadFun();
+    loadUtilities();
+    loadModeration();
+    loadGif();
+    loadSearch();
+    loadNsfw();
 }
 
 function loadAnime() {
