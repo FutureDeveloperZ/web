@@ -1,31 +1,23 @@
-# Obama Bot
+# ★ Obama Bot Website
 
-<img align="right" src="https://cdn.discordapp.com/avatars/444463875908304901/85bd372928d86d65e41571cbb885956a.png?size=256" width=30%>
+<img align="right" src="https://images-ext-1.discordapp.net/external/ot0MSM01GVrxBNY25Qy26kVM_lx79aYMwEo4wB3TgVA/%3Fsize%3D256/https/cdn.discordapp.com/avatars/444463875908304901/9a9a51f86e0562fafda973f8693036d5.webp" width=30%>
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 <img src="https://bulma.io/images/made-with-bulma.png" width=96 height=20>
 
-## — Information
+## ー Information
 
-* Custom Website for [@Obama Bot](https://discordbotlist.com/bots/obama)
-* Maintained by [@LichKing112](https://github.com/LichKing112)
-* View it [https://obamabot.ml/](https://obamabot.ml/)
+* Official Source Code for Obama Bot Website
+* Made and possibly maintained by [@LichKing112](https://github.com/LichKing112)
 
-### — Additional Information
+## ー Customization
 
-* Bulma - [https://github.com/jgthms/bulma](https://github.com/jgthms/bulma)
-* FontAwesome - [https://github.com/FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
-* Animate on Scroll - [https://github.com/michalsnik/aos](https://github.com/michalsnik/aos)
-* Normalize.css - [https://github.com/necolas/normalize.css/](https://github.com/necolas/normalize.css/)
-* Google Fonts - [https://fonts.google.com/](https://fonts.google.com/)
-* Typed.js - [https://github.com/mattboldt/typed.js](https://github.com/mattboldt/typed.js/)
-* jQuery - [https://github.com/jquery/jquery](https://github.com/jquery/jquery)
+* coming soon
 
+## ー License
 
-## — License
+This project is licensed under the [MIT license](https://github.com/FutureDeveloperZ/ObamaBot-Website/blob/master/LICENSE)
 
-This project is licensed under [the MIT license](https://github.com/FutureDeveloperZ/ObamaBot-Website/blob/master/LICENSE)
+## ー Contact
 
-## — Contributors
-
-* Discord Account: `lichKing112#8803`
+* Discord Account: `izu.#8803`
