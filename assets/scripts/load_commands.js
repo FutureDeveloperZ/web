@@ -7,6 +7,9 @@ function loadCommands() {
     loadGif();
     loadSearch();
     loadNsfw();
+    loadRoleplay();
+    loadGames();
+    loadMemes();
 }
 
 // @todo: Merge the 8 function into a 1 function.
@@ -194,6 +197,69 @@ function loadNsfw() {
   };
 
   xhr.onerror = function () {
+    console.log("Request Error!");
+  };
+
+  xhr.send();
+}
+
+function loadRoleplay() {
+  var xhr = new XMLHttpRequest();
+  xhr.open("GET", "/assets/data/roleplay.txt", true);
+
+  xhr.onload = function () {
+    if (this.status == 200) {
+      document.getElementById(
+        "roleplay"
+      ).innerHTML = `${this.responseText}`;
+    } else if ((this.status = 404)) {
+      document.getElementById("roleplay").innerText = "Not Found";
+    }   
+ };
+
+ xhr.onerror = function () {
+    console.log("Request Error!");
+  };
+
+  xhr.send();
+}
+
+function loadGames() {
+  var xhr = new XMLHttpRequest();
+  xhr.open("GET", "/assets/data/games.txt", true);
+
+  xhr.onload = function () {
+    if (this.status == 200) {
+      document.getElementById(
+        "games"
+      ).innerHTML = `${this.responseText}`;
+    } else if ((this.status = 404)) {
+      document.getElementById("games").innerText = "Not Found";
+    }   
+ };
+
+ xhr.onerror = function () {
+    console.log("Request Error!");
+  };
+
+  xhr.send();
+}
+
+function loadMemes() {
+  var xhr = new XMLHttpRequest();
+  xhr.open("GET", "/assets/data/memes.txt", true);
+
+  xhr.onload = function () {
+    if (this.status == 200) {
+      document.getElementById(
+        "memes"
+      ).innerHTML = `${this.responseText}`;
+    } else if ((this.status = 404)) {
+      document.getElementById("memes").innerText = "Not Found";
+    }   
+ };
+
+ xhr.onerror = function () {
     console.log("Request Error!");
   };
 
