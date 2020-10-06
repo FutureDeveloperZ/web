@@ -1,1 +1,1 @@
-<span class="code">changelog, commands, donate, embed, help, invite, ping, say, server, stats, upvote, user</span>
+<span class="code">commands, donate, embed, help, invite, ping, say, server, stats, suggestion, upvote, user</span>
