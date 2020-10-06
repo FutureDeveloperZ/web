@@ -1,1 +1,1 @@
-<span class="code">anime, character, genre, kitsu, manga, ranime, rmanga, schedule, scrap</span>
+<span class="code">anime, character, genre, kitsu, manga, scrap</span>
