@@ -1,1 +1,1 @@
-<span class="code">cat, cuddle, dog, kiss, pat</span>
+<span class="code">cat, dog</span>
