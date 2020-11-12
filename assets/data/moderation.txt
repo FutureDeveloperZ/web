@@ -1,1 +1,0 @@
-<span class="code">ban, kick, mute, nuke, poll, prefix, purge, report, role, ticket</span>

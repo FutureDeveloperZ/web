@@ -10,14 +10,7 @@
 * Official Source Code for Obama Bot Website
 * Made and possibly maintained by [@LichKing112](https://github.com/LichKing112)
 
-## ー Customization
-
-* Customize `commands.html`'s command list in [/assets/data/](https://github.com/FutureDeveloperZ/ObamaBot-Website/tree/master/assets/data)
-
 ## ー License
 
 This project is licensed under the [MIT license](https://github.com/FutureDeveloperZ/ObamaBot-Website/blob/master/LICENSE)
 
-## ー Contact
-
-* Discord Account: `izu.#8803`

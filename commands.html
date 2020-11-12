@@ -10,7 +10,7 @@
         <meta property="og:type" content="website" />
         <meta property="og:description" content="Obama is Discord bot with Moderation and Fun capabilities."/>
 
-        <title>Commands | Obama Discord Bot</title>
+        <title>Obama</title>
 
         <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-ico">
         <link rel="icon" href="assets/img/favicon.ico" type="image/x-icon">
@@ -18,213 +18,54 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" integrity="sha256-h20CPZ0QyXlBuAw7A+KluUYx/3pK+c7lYEpqLTlxjYQ=" crossorigin="anonymous">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.0/css/bulma.min.css" integrity="sha256-aPeK/N8IHpHsvPBCf49iVKMdusfobKo2oxF8lRruWJg=" crossorigin="anonymous">
 
-        <link rel="stylesheet" type="text/css" href="assets/style/style.css">
+        <link rel="stylesheet" type="text/css" href="resources/css/style.css">
+        <script src="https://discordbotlist.com/widget/index.js" async></script>
     </head>
-    <body onload="loadCommands()">
-        <section class="section section-one">
-            <div class="hero">
-                <div class="hero-head">
+    <body>
 
-                    <nav class="navbar container" role="navigation" aria-label="main navigation">
-                            
-                        <div class="navbar navbar-start">
-                            <a href="" target="_blank" class="navbar-item">
-                                Obama Bot Official Website
-                            </a>
-                        </div>  
-
-                        <br>
-
-                        <div id="navbarMenu" class="navbar">
-                            <div class="navbar-end">
-                                <a href="index.html" target="_blank" class="navbar-item">
-                                    Home
-                                </a>
-                                <a href="commands.html" target="_blank" class="navbar-item">
-                                    Commands
-                                </a>
-                                <a href="https://discordapp.com/oauth2/authorize?client_id=444463875908304901&scope=bot&permissions=2146958591" target="_blank" class="navbar-item">
-                                    Invite
-                                </a>
-                                <a href="https://discord.gg/ZU8zFx8" target="_blank" class="navbar-item">
-                                    Support Server
-                                </a>
-                            </div>
-                        </div>
-                    </nav>
-
-                    <header>
-                        <div class="columns">
-                            <div class="hero-body container">
-                                <!-- <div class="header-title-image content"></div> -->
-
-                                <div class="header-title-text">
-                                    <h4 class="title"><span id="typed"></span>Full Command List<br></h4>
-                                    <p class="subtitle">Default Prefixes: <span class="code">f;</span></p>
-                                    <br>
-                                    <h5 class="subtitle">Syntax Style<br>
-                                        Syntax: <span class="code">&lt;&gt;, []</span><br><br>
-                                        
-                                        <span class="code">[]</span> - Optional argument. This isn't required to use the command.<br>
-                                        <span class="code">&lt;&gt;</span> - Required argument. The command will not work without it.</h5><br>
-                                </div>
-
-                                <br>
-                                <br>
-                                <br>
-
-                                <div class="header-title-text cmd-category">
-                                    <h4 class="title"><span id="typed"></span>Anime Category<br></h4><br>
-                                    <p class="subtitle" id="anime"></p>
-                                    </p>
-                                </div>
-
-                                <br>
-                                <br>
-                                <br>
-
-                                <div class="header-title-text cmd-category">
-                                    <h4 class="title"><span id="typed"></span>Images Category<br></h4><br>
-                                    <p class="subtitle" id="images"><</p>
-                                    </p>
-                                </div>
-
-                                <br>
-                                <br>
-                                <br>
-
-                                <div class="header-title-text cmd-category">
-                                    <h4 class="title"><span id="typed"></span>Fun Category<br></h4><br>
-                                    <p class="subtitle" id="fun"></p>
-                                    </p>
-                                </div>
-
-                                <br>
-                                <br>
-                                <br>
-
-                                <div class="header-title-text cmd-category">
-                                    <h4 class="title"><span id="typed"></span>Utilities Category<br></h4><br>
-                                    <p class="subtitle" id="utilities"></p>
-                                    </p>
-                                </div>
-
-                                <br>
-                                <br>
-                                <br>
-
-                                <div class="header-title-text cmd-category">
-                                    <h4 class="title"><span id="typed"></span>Moderation Category<br></h4><br>
-                                    <p class="subtitle" id="moderation"></p>
-                                    </p>
-                                </div>
-
-                                <br>
-                                <br>
-                                <br>
-
-                                <div class="header-title-text cmd-category">
-                                    <h4 class="title"><span id="typed"></span>GIF Category<br></h4><br>
-                                    <p class="subtitle" id="gif"></p>
-                                    </p>
-                                </div>
-
-                                <br>
-                                <br>
-                                <br>
-
-                                <div class="header-title-text cmd-category">
-                                    <h4 class="title"><span id="typed"></span>Search Category<br></h4><br>
-                                    <p class="subtitle" id="search"></p>
-                                    </p>
-                                </div
-
-                                <br>
-                                <br>
-                                <br>
-
-                                <div class="header-title-text cmd-category">
-                                    <h4 class="title"><span id="typed"></span>NSFW Category<br></h4><br>
-                                    <p class="subtitle" id="nsfw"></p>
-                                    </p>
-                                </div
-                                
-
-                                <br>
-                                <br>
-                                <br>
-
-                                <div class="header-title-text cmd-category">
-                                    <h4 class="title"><span id="typed"></span>Game Category<br></h4><br>
-                                    <p class="subtitle" id="games"></p>
-                                    </p>
-                                </div>
-
-                                <br>
-                                <br>
-                                <br>
-
-                                <div class="header-title-text cmd-category">
-                                    <h4 class="title"><span id="typed"></span>RolePlay Category<br></h4><br>
-                                    <p class="subtitle" id="roleplay"></p>
-                                    </p>
-                                </div>
-
-                                <br>
-                                <br>
-                                <br>
-
-                                <div class="header-title-text cmd-category">
-                                    <h4 class="title"><span id="typed"></span>Memes Category<br></h4><br>
-                                    <p class="subtitle" id="memes"></p>
-                                    </p>
-                                </div>
-
-                                <br>
-
-                            </div>
-                        </div>
-                    </header>
-
-                </div>
-            </div>
-        </section>
-
-        <section class="section-footer site-footer" id="footer">
-            <!-- Footer - Start -->
-            <div class="container">
-                <div class="columns">
-                    <div class="column is-10">
-                        <h6 class="title">Obama</h6>
-                        <p class="subtitle">
-                            Made with ❤️ by <a href="https://github.com/LichKing112" target="_blank">izu.#8803</a> <br>
-                            Fork this site at <a href="https://github.com/FutureDeveloperZ/ObamaBot-Website" target="_blank">github.com/FutureDeveloperZ/ObamaBot-Website</a>
-                            <p class="subtitle" id="mobile-alert"></p>
-                        </p>
-                    </div>
-                    <div class="column is-one-fifth">
-                        <h6 class="title">Categories</h6>
-                        <ul class="footer-links">
-                            <li><a href="index.html">Home</a></li>
-                            <li><a href="maintenance.html">Gallery</a></li>
-                            <li><a href="maintenance.html">Server Status</a></li>
-                        </ul>
+        <section class="hero has-text-centered">
+            <div class="hero-head">
+                <!-- Begin - Navbar -->
+                <nav class="navbar is-fixed-top is-transparent" role="navigation" aria-label="main navigation" height: 100px; >
+                    <div class="navbar-brand">
+                        <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarMenu">
+                            <span aria-hidden="true"></span>
+                            <span aria-hidden="true"></span>
+                            <span aria-hidden="true"></span>
+                        </a>
                     </div>
                     
-                </div>
-                <div class="container">
-                    <div class="columns">
-                        <div class="column is-full">
-                            <p class="copyright"><a class="copyright-a" href="https://github.com/LichKing112" target="_blank" style="color: #000 !important;">Copyright &copy; 2020 All Rights Reserved by FutureDeveloperZ</a></p> <br>
+                    <div id="navbarMenu" class="navbar-menu">
+                        <div class="navbar-start">
+                            <a class="navbar-item navbar-title" href="index.html">Obama</a>
+                            <a class="navbar-item" href="https://discord.com/oauth2/authorize?client_id=444463875908304901&scope=bot&permissions=268823782">Invite</a>
+                            <a class="navbar-item" href="#about">Commands</a>
+                        </div>
+                        <div class="navbar-end">
+                            <a class="navbar-item" href="stats.html">Stats</a>
                         </div>
                     </div>
-                </div>
+                </nav>
+                <!-- End - Navbar -->
             </div>
-            <!-- Footer - End -->
-        </section>
+            <div class="hero-body">
+                <h2 class="title">
+                    Hello there, visitors.
+                </h2>
+                <hr class="blackhr">
+                <p class="subtitle">
+                    The content you're looking for is not available right now!<br>
+                    <p class="liz">Liz, Website Developer</p>
+                </p>
 
+                <div class="stats">
+                    <strong>Obama</strong> is in <strong><dbl-stat bot-id="bot-444463875908304901" stat="guilds">Loading..</dbl-stat></strong> guilds! with a grand total of <strong><dbl-stat bot-id="bot-444463875908304901" stat="users">Loading..</dbl-stat></strong> users!
+                </div>
+                
+            </div>
+        </section>
+        
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
-        <script src="assets/scripts/load_commands.js"></script>
         <script src="assets/scripts/script.js"></script>
     </body>
 </html>
