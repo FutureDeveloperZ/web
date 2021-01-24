@@ -1,43 +1,51 @@
 <tbody>
 						<tr>
-<th>addxp</th>
+
+				<th>addxp</th>
 				<td>Add XP to user.</td>
-				<td>{PREFIX}addxp <@user|userID> <amount></td>
+				<td>f;addxp <@user|userID> <amount></td>
 						</tr>
 						
-<th>getxp</th>
+
+				<th>getxp</th>
 				<td>Get xp of a user</td>
-				<td>{PREFIX}getxp [user]</td>
+				<td>f;getxp [user]</td>
 						</tr>
 						
-<th>rankchannel</th>
+
+				<th>rankchannel</th>
 				<td>set rank channel or disable rank channel.
  U can use `{user}` an `{level}` inside your message</td>
-				<td>{PREFIX}rankchannel <reply|channel|disable> <channel></td>
+				<td>f;rankchannel <reply|channel|disable> <channel></td>
 						</tr>
 						
-<th>removexp</th>
+
+				<th>removexp</th>
 				<td>Remove XP from user.</td>
-				<td>{PREFIX}removexp <@user|userID> <amount></td>
+				<td>f;removexp <@user|userID> <amount></td>
 						</tr>
 						
-<th>removexprole</th>
+
+				<th>removexprole</th>
 				<td>Remove XP from user.</td>
-				<td>{PREFIX}removexprole <@user|userID> <amount></td>
+				<td>f;removexprole <@user|userID> <amount></td>
 						</tr>
 						
-<th>setmultiplier</th>
+
+				<th>setmultiplier</th>
 				<td>Set Multiplier to your server</td>
-				<td>{PREFIX}setmultiplier <number></td>
+				<td>f;setmultiplier <number></td>
 						</tr>
 						
-<th>togglexpsystem</th>
+
+				<th>togglexpsystem</th>
 				<td>Turn on your system or turn off it</td>
-				<td>{PREFIX}togglexpsystem <on/off/enable/disable></td>
+				<td>f;togglexpsystem <on/off/enable/disable></td>
 						</tr>
 						
-<th>xpleaderboard</th>
+
+				<th>xpleaderboard</th>
 				<td>Shows the top level users out of the server. if u want to show global leaderboard do -gl</td>
-				<td>{PREFIX}xpleaderboard [-gl]</td>
+				<td>f;xpleaderboard [-gl]</td>
 						</tr>
 						</tbody>
