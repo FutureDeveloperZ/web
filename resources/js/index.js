@@ -36,18 +36,6 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   }
 
-// Initialize all elements with carousel class.
-const carousels = bulmaCarousel.attach('.carousel', options);
-
-// To access to bulmaCarousel instance of an element
-const element = document.querySelector('#my-element');
-if (element && element.bulmaCarousel) {
-	// bulmaCarousel instance is available as element.bulmaCarousel
-	element.bulmaCarousel.on('show', function(bulmaCarouselInstance) {
-		console.log(bulmaCarouselInstance.index);
-	});
-}
-
 $('a[href*="#"]')
   .not('[href="#"]')
   .not('[href="#0"]')
@@ -75,3 +63,18 @@ $('a[href*="#"]')
       }
     }
   });
+
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    }
+  });
+}
