@@ -1,0 +1,741 @@
+
+
+<button class="accordion">Anime</button>
+<div class="panel">
+			<p>anime</p>
+				</div>
+<div class="panel">
+			<p>character</p>
+				</div>
+<div class="panel">
+			<p>doujin (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>genre</p>
+				</div>
+<div class="panel">
+			<p>genshin</p>
+				</div>
+<div class="panel">
+			<p>kitsu</p>
+				</div>
+<div class="panel">
+			<p>kitsulink</p>
+				</div>
+<div class="panel">
+			<p>manga</p>
+				</div>
+<div class="panel">
+			<p>scrap (Owner-Only)</p>
+				</div>
+<div class="panel">
+			<p>osulink</p>
+				</div>
+
+
+<button class="accordion">Automation</button>
+<div class="panel">
+			<p>antilink</p>
+				</div>
+<div class="panel">
+			<p>chatbot</p>
+				</div>
+<div class="panel">
+			<p>goodbye</p>
+				</div>
+<div class="panel">
+			<p>invitechannel (Owner-Only)</p>
+				</div>
+<div class="panel">
+			<p>logchannel</p>
+				</div>
+<div class="panel">
+			<p>welcome</p>
+				</div>
+
+
+<button class="accordion">Economy</button>
+<div class="panel">
+			<p>account</p>
+				</div>
+<div class="panel">
+			<p>adminpay (Owner-Only)</p>
+				</div>
+<div class="panel">
+			<p>block (Owner-Only)</p>
+				</div>
+<div class="panel">
+			<p>coinbet</p>
+				</div>
+<div class="panel">
+			<p>create</p>
+				</div>
+<div class="panel">
+			<p>daily</p>
+				</div>
+<div class="panel">
+			<p>gamble</p>
+				</div>
+<div class="panel">
+			<p>leaderboard</p>
+				</div>
+<div class="panel">
+			<p>pay</p>
+				</div>
+<div class="panel">
+			<p>profile</p>
+				</div>
+<div class="panel">
+			<p>shop</p>
+				</div>
+<div class="panel">
+			<p>work</p>
+				</div>
+
+
+<button class="accordion">Fun</button>
+<div class="panel">
+			<p>8ball</p>
+				</div>
+<div class="panel">
+			<p>advice</p>
+				</div>
+<div class="panel">
+			<p>age</p>
+				</div>
+<div class="panel">
+			<p>ash</p>
+				</div>
+<div class="panel">
+			<p>avatar</p>
+				</div>
+<div class="panel">
+			<p>bond</p>
+				</div>
+<div class="panel">
+			<p>coinflip</p>
+				</div>
+<div class="panel">
+			<p>cowsay</p>
+				</div>
+<div class="panel">
+			<p>discrim</p>
+				</div>
+<div class="panel">
+			<p>editsnipe</p>
+				</div>
+<div class="panel">
+			<p>emoji</p>
+				</div>
+<div class="panel">
+			<p>fban</p>
+				</div>
+<div class="panel">
+			<p>gayrate</p>
+				</div>
+<div class="panel">
+			<p>hack</p>
+				</div>
+<div class="panel">
+			<p>heightcalculator</p>
+				</div>
+<div class="panel">
+			<p>image</p>
+				</div>
+<div class="panel">
+			<p>joke</p>
+				</div>
+<div class="panel">
+			<p>oompa</p>
+				</div>
+<div class="panel">
+			<p>pp</p>
+				</div>
+<div class="panel">
+			<p>qr</p>
+				</div>
+<div class="panel">
+			<p>quiz</p>
+				</div>
+<div class="panel">
+			<p>rate</p>
+				</div>
+<div class="panel">
+			<p>reverse</p>
+				</div>
+<div class="panel">
+			<p>roast</p>
+				</div>
+<div class="panel">
+			<p>sacrifice</p>
+				</div>
+<div class="panel">
+			<p>screenshot</p>
+				</div>
+<div class="panel">
+			<p>snipe</p>
+				</div>
+<div class="panel">
+			<p>twig</p>
+				</div>
+<div class="panel">
+			<p>yomama</p>
+				</div>
+<div class="panel">
+			<p>instagram (Owner-Only)</p>
+				</div>
+
+
+<button class="accordion">Games</button>
+<div class="panel">
+			<p>akinator</p>
+				</div>
+<div class="panel">
+			<p>connect4</p>
+				</div>
+<div class="panel">
+			<p>fight</p>
+				</div>
+<div class="panel">
+			<p>guess</p>
+				</div>
+<div class="panel">
+			<p>gunfight</p>
+				</div>
+<div class="panel">
+			<p>imposter</p>
+				</div>
+<div class="panel">
+			<p>island</p>
+				</div>
+<div class="panel">
+			<p>mafia</p>
+				</div>
+<div class="panel">
+			<p>poker</p>
+				</div>
+<div class="panel">
+			<p>rps</p>
+				</div>
+<div class="panel">
+			<p>rr</p>
+				</div>
+<div class="panel">
+			<p>typingrace</p>
+				</div>
+
+
+<button class="accordion">Images</button>
+<div class="panel">
+			<p>3000</p>
+				</div>
+<div class="panel">
+			<p>achievement</p>
+				</div>
+<div class="panel">
+			<p>approved</p>
+				</div>
+<div class="panel">
+			<p>beautiful</p>
+				</div>
+<div class="panel">
+			<p>brazzers</p>
+				</div>
+<div class="panel">
+			<p>caption</p>
+				</div>
+<div class="panel">
+			<p>challenger</p>
+				</div>
+<div class="panel">
+			<p>crush</p>
+				</div>
+<div class="panel">
+			<p>deepfry</p>
+				</div>
+<div class="panel">
+			<p>demotivational</p>
+				</div>
+<div class="panel">
+			<p>dexter</p>
+				</div>
+<div class="panel">
+			<p>drip</p>
+				</div>
+<div class="panel">
+			<p>eject</p>
+				</div>
+<div class="panel">
+			<p>gruplan</p>
+				</div>
+<div class="panel">
+			<p>horny</p>
+				</div>
+<div class="panel">
+			<p>jar</p>
+				</div>
+<div class="panel">
+			<p>kyon</p>
+				</div>
+<div class="panel">
+			<p>lisa</p>
+				</div>
+<div class="panel">
+			<p>machine</p>
+				</div>
+<div class="panel">
+			<p>meme</p>
+				</div>
+<div class="panel">
+			<p>paint</p>
+				</div>
+<div class="panel">
+			<p>petpet</p>
+				</div>
+<div class="panel">
+			<p>photograph</p>
+				</div>
+<div class="panel">
+			<p>plankton</p>
+				</div>
+<div class="panel">
+			<p>rejected</p>
+				</div>
+<div class="panel">
+			<p>stickbug</p>
+				</div>
+<div class="panel">
+			<p>yousuck</p>
+				</div>
+<div class="panel">
+			<p>youtube</p>
+				</div>
+
+
+<button class="accordion">Utilities</button>
+<div class="panel">
+			<p>afk</p>
+				</div>
+<div class="panel">
+			<p>changelog</p>
+				</div>
+<div class="panel">
+			<p>donate</p>
+				</div>
+<div class="panel">
+			<p>embed</p>
+				</div>
+<div class="panel">
+			<p>help</p>
+				</div>
+<div class="panel">
+			<p>invite</p>
+				</div>
+<div class="panel">
+			<p>ping</p>
+				</div>
+<div class="panel">
+			<p>say</p>
+				</div>
+<div class="panel">
+			<p>scan</p>
+				</div>
+<div class="panel">
+			<p>server</p>
+				</div>
+<div class="panel">
+			<p>spotify</p>
+				</div>
+<div class="panel">
+			<p>stats</p>
+				</div>
+<div class="panel">
+			<p>suggestion</p>
+				</div>
+<div class="panel">
+			<p>upvote</p>
+				</div>
+<div class="panel">
+			<p>usage</p>
+				</div>
+<div class="panel">
+			<p>user</p>
+				</div>
+
+
+<button class="accordion">Memes</button>
+<div class="panel">
+			<p>animemes</p>
+				</div>
+<div class="panel">
+			<p>cursedcomments</p>
+				</div>
+<div class="panel">
+			<p>dankmemes</p>
+				</div>
+<div class="panel">
+			<p>history</p>
+				</div>
+<div class="panel">
+			<p>jokes</p>
+				</div>
+<div class="panel">
+			<p>necro</p>
+				</div>
+<div class="panel">
+			<p>popular</p>
+				</div>
+<div class="panel">
+			<p>programmerhumor</p>
+				</div>
+<div class="panel">
+			<p>reddit</p>
+				</div>
+<div class="panel">
+			<p>showerthoughts</p>
+				</div>
+<div class="panel">
+			<p>til</p>
+				</div>
+
+
+<button class="accordion">Moderation</button>
+<div class="panel">
+			<p>ban</p>
+				</div>
+<div class="panel">
+			<p>kick</p>
+				</div>
+<div class="panel">
+			<p>mute</p>
+				</div>
+<div class="panel">
+			<p>nuke</p>
+				</div>
+<div class="panel">
+			<p>poll</p>
+				</div>
+<div class="panel">
+			<p>purge</p>
+				</div>
+<div class="panel">
+			<p>role</p>
+				</div>
+<div class="panel">
+			<p>ticket (Owner-Only)</p>
+				</div>
+<div class="panel">
+			<p>unmute</p>
+				</div>
+<div class="panel">
+			<p>warn</p>
+				</div>
+<div class="panel">
+			<p>warnings</p>
+				</div>
+
+
+<button class="accordion">Music</button>
+<div class="panel">
+			<p>loop</p>
+				</div>
+<div class="panel">
+			<p>np</p>
+				</div>
+<div class="panel">
+			<p>pause</p>
+				</div>
+<div class="panel">
+			<p>play</p>
+				</div>
+<div class="panel">
+			<p>queue</p>
+				</div>
+<div class="panel">
+			<p>remove</p>
+				</div>
+<div class="panel">
+			<p>resume</p>
+				</div>
+<div class="panel">
+			<p>shuffle</p>
+				</div>
+<div class="panel">
+			<p>skip</p>
+				</div>
+<div class="panel">
+			<p>skipto</p>
+				</div>
+<div class="panel">
+			<p>stop</p>
+				</div>
+<div class="panel">
+			<p>volume</p>
+				</div>
+
+
+<button class="accordion">Nsfw</button>
+<div class="panel">
+			<p>4k (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>amateur (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>anal (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>ass (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>asshole (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>bbw (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>bdsm (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>bikinis (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>blonde (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>bottomless (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>brunette (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>college (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>cosplay (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>curvy (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>dick (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>ecchi (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>furrynsfw (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>gonewild (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>lewd (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>milf (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>moreporn (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>neko (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>nsfw (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>nude (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>onoff (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>petite (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>porn (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>porngif (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>public (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>pussy (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>redheads (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>redtube (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>rule34 (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>snapchat (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>tattoos (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>tits (NSFW)</p>
+				</div>
+<div class="panel">
+			<p>uniform (NSFW)</p>
+				</div>
+
+
+<button class="accordion">Owner</button>
+<div class="panel">
+			<p>activity (Owner-Only)</p>
+				</div>
+<div class="panel">
+			<p>docs (Owner-Only)</p>
+				</div>
+<div class="panel">
+			<p>eval (Owner-Only)</p>
+				</div>
+<div class="panel">
+			<p>execute (Owner-Only)</p>
+				</div>
+<div class="panel">
+			<p>generate-commands (Owner-Only)</p>
+				</div>
+<div class="panel">
+			<p>globalblock (Owner-Only)</p>
+				</div>
+<div class="panel">
+			<p>leave (Owner-Only)</p>
+				</div>
+<div class="panel">
+			<p>reload (Owner-Only)</p>
+				</div>
+<div class="panel">
+			<p>shutdown (Owner-Only)</p>
+				</div>
+
+
+<button class="accordion">Roleplay</button>
+<div class="panel">
+			<p>cat</p>
+				</div>
+<div class="panel">
+			<p>cuddle</p>
+				</div>
+<div class="panel">
+			<p>divorce</p>
+				</div>
+<div class="panel">
+			<p>dog</p>
+				</div>
+<div class="panel">
+			<p>hug</p>
+				</div>
+<div class="panel">
+			<p>kiss</p>
+				</div>
+<div class="panel">
+			<p>marry</p>
+				</div>
+<div class="panel">
+			<p>pat</p>
+				</div>
+<div class="panel">
+			<p>wife</p>
+				</div>
+
+
+<button class="accordion">Search</button>
+<div class="panel">
+			<p>fortnite</p>
+				</div>
+<div class="panel">
+			<p>googleplay</p>
+				</div>
+<div class="panel">
+			<p>hypixel</p>
+				</div>
+<div class="panel">
+			<p>imdb</p>
+				</div>
+<div class="panel">
+			<p>lyrics</p>
+				</div>
+<div class="panel">
+			<p>ng</p>
+				</div>
+<div class="panel">
+			<p>osu</p>
+				</div>
+<div class="panel">
+			<p>query</p>
+				</div>
+<div class="panel">
+			<p>recent</p>
+				</div>
+<div class="panel">
+			<p>roblox</p>
+				</div>
+<div class="panel">
+			<p>skyblock</p>
+				</div>
+<div class="panel">
+			<p>translate</p>
+				</div>
+<div class="panel">
+			<p>urban</p>
+				</div>
+<div class="panel">
+			<p>wiki</p>
+				</div>
+
+
+<button class="accordion">Settings</button>
+<div class="panel">
+			<p>command</p>
+				</div>
+<div class="panel">
+			<p>disable</p>
+				</div>
+<div class="panel">
+			<p>enable</p>
+				</div>
+<div class="panel">
+			<p>prefix</p>
+				</div>
+<div class="panel">
+			<p>settings</p>
+				</div>
+<div class="panel">
+			<p>youtubers</p>
+				</div>
+
+
+<button class="accordion">XP</button>
+<div class="panel">
+			<p>addxp</p>
+				</div>
+<div class="panel">
+			<p>getxp</p>
+				</div>
+<div class="panel">
+			<p>rankchannel</p>
+				</div>
+<div class="panel">
+			<p>removexp</p>
+				</div>
+<div class="panel">
+			<p>removexprole</p>
+				</div>
+<div class="panel">
+			<p>setmultiplier</p>
+				</div>
+<div class="panel">
+			<p>togglexpsystem</p>
+				</div>
+<div class="panel">
+			<p>xpleaderboard</p>
+				</div>
