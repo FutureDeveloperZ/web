@@ -1,52 +1,62 @@
 <tbody>
 						<tr>
-<th>anime</th>
+
+				<th>anime</th>
 				<td>Shows Anime Info</td>
-				<td>{PREFIX}anime <anime name></td>
+				<td>f;anime <anime name></td>
 						</tr>
 						
-<th>character</th>
+
+				<th>character</th>
 				<td>Shows Anime Character Info</td>
-				<td>{PREFIX}character <name></td>
+				<td>f;character <name></td>
 						</tr>
 						
-<th>doujin (NSFW)</th>
+
+				<th>doujin (NSFW)</th>
 				<td>Search for good sauce</td>
-				<td>{PREFIX}doujin <number></td>
+				<td>f;doujin <number></td>
 						</tr>
 						
-<th>genre</th>
+
+				<th>genre</th>
 				<td>Search up Genres of Anime or Manga</td>
-				<td>{PREFIX}genre <anime | manga></td>
+				<td>f;genre <anime | manga></td>
 						</tr>
 						
-<th>genshin</th>
+
+				<th>genshin</th>
 				<td>Search Genshin Impact stuff releated</td>
-				<td>{PREFIX}genshin <weapons/characters> <names></td>
+				<td>f;genshin <weapons/characters> <names></td>
 						</tr>
 						
-<th>kitsu</th>
+
+				<th>kitsu</th>
 				<td>Shows Kitsu Profile Info</td>
-				<td>{PREFIX}kitsu [name]</td>
+				<td>f;kitsu [name]</td>
 						</tr>
 						
-<th>kitsulink</th>
+
+				<th>kitsulink</th>
 				<td>Links your Kitsu Profile</td>
-				<td>{PREFIX}kitsulink <slug></td>
+				<td>f;kitsulink <slug></td>
 						</tr>
 						
-<th>manga</th>
+
+				<th>manga</th>
 				<td>Shows Manga Info</td>
-				<td>{PREFIX}manga <Manga name></td>
+				<td>f;manga <Manga name></td>
 						</tr>
 						
-<th>scrap (Owner-Only)</th>
+
+				<th>scrap (Owner-Only)</th>
 				<td>Scrap any anime direct link from gogoanime</td>
-				<td>{PREFIX}scrap scrap <anime | episode number></td>
+				<td>f;scrap scrap <anime | episode number></td>
 						</tr>
 						
-<th>osulink</th>
+
+				<th>osulink</th>
 				<td>Link OSU Account</td>
-				<td>{PREFIX}osulink <slug></td>
+				<td>f;osulink <slug></td>
 						</tr>
 						</tbody>
