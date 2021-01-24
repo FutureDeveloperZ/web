@@ -131,7 +131,7 @@
                     <button class="tablinks" onclick="openCity(event, 'Memes')">Memes</button>
                     <button class="tablinks" onclick="openCity(event, 'Moderation')">Moderation</button>
                     <button class="tablinks" onclick="openCity(event, 'Music')">Music</button>
-                    <button class="tablinks" onclick="openCity(event, 'Owner')">Owner</button>
+                    <!-- <button class="tablinks" onclick="openCity(event, 'Owner')">Owner</button> -->
                     <button class="tablinks" onclick="openCity(event, 'Roleplay')">Roleplay</button>
                     <button class="tablinks" onclick="openCity(event, 'Search')">Search</button>
                     <button class="tablinks" onclick="openCity(event, 'Fun')">Fun</button>
@@ -213,7 +213,7 @@
                     .then(function () {
                     });
 
-                    axios.get('/cmd/roleplay-cmd.txt')
+                    axios.get('/cmd/Roleplay-cmd.txt')
                     .then(function (response) {
                         $(".table-roleplay").append(response.data);
                     })
