@@ -1,62 +1,74 @@
 <tbody>
 						<tr>
-<th>akinator</th>
+
+				<th>akinator</th>
 				<td>Play Connect4 With friends</td>
-				<td>{PREFIX}akinator</td>
+				<td>f;akinator</td>
 						</tr>
 						
-<th>connect4</th>
+
+				<th>connect4</th>
 				<td>Play Connect4 With friends</td>
-				<td>{PREFIX}connect4</td>
+				<td>f;connect4</td>
 						</tr>
 						
-<th>fight</th>
+
+				<th>fight</th>
 				<td>Fight to the death with your enemy</td>
-				<td>{PREFIX}fight [opponent]</td>
+				<td>f;fight [opponent]</td>
 						</tr>
 						
-<th>guess</th>
+
+				<th>guess</th>
 				<td>guessing game</td>
-				<td>{PREFIX}guess</td>
+				<td>f;guess</td>
 						</tr>
 						
-<th>gunfight</th>
+
+				<th>gunfight</th>
 				<td>Engage in a western gunfight against another user. High noon.</td>
-				<td>{PREFIX}gunfight <opponent></td>
+				<td>f;gunfight <opponent></td>
 						</tr>
 						
-<th>imposter</th>
+
+				<th>imposter</th>
 				<td>Fight to the death with your enemy</td>
-				<td>{PREFIX}imposter</td>
+				<td>f;imposter</td>
 						</tr>
 						
-<th>island</th>
+
+				<th>island</th>
 				<td>Who will be the final two left on the island after a series of vote-kicks?</td>
-				<td>{PREFIX}island</td>
+				<td>f;island</td>
 						</tr>
 						
-<th>mafia</th>
+
+				<th>mafia</th>
 				<td>Setup a mafia game, must have at least 4 reactors.</td>
-				<td>{PREFIX}mafia</td>
+				<td>f;mafia</td>
 						</tr>
 						
-<th>poker</th>
+
+				<th>poker</th>
 				<td>Fight to the death with your enemy</td>
-				<td>{PREFIX}poker</td>
+				<td>f;poker</td>
 						</tr>
 						
-<th>rps</th>
+
+				<th>rps</th>
 				<td>Play Rock Paper and Scissors with the bot</td>
-				<td>{PREFIX}rps</td>
+				<td>f;rps</td>
 						</tr>
 						
-<th>rr</th>
+
+				<th>rr</th>
 				<td>play a game of Rousian Roullete</td>
-				<td>{PREFIX}rr [user]</td>
+				<td>f;rr [user]</td>
 						</tr>
 						
-<th>typingrace</th>
+
+				<th>typingrace</th>
 				<td>Race a user to see who can type a sentence faster.</td>
-				<td>{PREFIX}typingrace <opponent></td>
+				<td>f;typingrace <opponent></td>
 						</tr>
 						</tbody>
