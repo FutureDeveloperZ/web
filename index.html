@@ -18,16 +18,14 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" integrity="sha256-h20CPZ0QyXlBuAw7A+KluUYx/3pK+c7lYEpqLTlxjYQ=" crossorigin="anonymous">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.0/css/bulma.min.css" integrity="sha256-aPeK/N8IHpHsvPBCf49iVKMdusfobKo2oxF8lRruWJg=" crossorigin="anonymous">
 
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.4/dist/css/bulma-carousel.min.css">
-        <link rel="stylesheet" type="text/css" href="resources/css/style.css">
+        <link rel="stylesheet" type="text/css" href="src/stylesheets/style.css">
         <script src="https://discordbotlist.com/widget/index.js" async></script>
     </head>
     <body>
 
         <section class="hero columns">
             <div class="hero-head column">
-                <!-- Begin - Navbar -->
-                <nav class="navbar is-fixed-top is-transparent" role="navigation" aria-label="main navigation" height: 100px; >
+                <nav class="navbar is-fixed-top is-transparent container" role="navigation" aria-label="main navigation" height: 100px; >
                     <div class="navbar-brand">
                         <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarMenu">
                             <span aria-hidden="true"></span>
@@ -37,103 +35,22 @@
                     </div>
                     
                     <div id="navbarMenu" class="navbar-menu">
-                        <div class="navbar-start">
-                            <a class="navbar-item navbar-title" href="index.html">Obama</a>
-                            <a class="navbar-item" href="https://discord.com/oauth2/authorize?client_id=444463875908304901&scope=bot&permissions=268823782">Invite</a>
-                            <a class="navbar-item" href="commands.html">Commands</a>
-                        </div>
                         <div class="navbar-end">
-                            <a class="navbar-item" href="index.html">ObamaTeam</a>
+                            <a class="navbar-item" href="index.html">Home</a>
+                            <a class="navbar-item" href="index.html">Invite</a>
+                            <a class="navbar-item" href="index.html">Commands</a>
                         </div>
                     </div>
                 </nav>
-                <!-- End - Navbar -->
             </div>
-            <div class="hero-body column columns">
-                <div class="text column is-four-fifths">
-                    <h2 class="title">
-                        Obama
-                    </h2>
-                    <p class="subtitle">
-                        A feature-rich multipurpose discord bot equipped with <br> variety of features to suit your server needs.<br>
-                    </p>
-                    <hr>
-                    <p class="subtitle">
-                        <div class="button button-invite">
-                            <a href="https://discord.com/oauth2/authorize?client_id=444463875908304901&scope=bot&permissions=268823782">
-                                <i class="fas fa-user-plus"></i>
-                                Invite Obama
-                            </a>
-                        </div>
-                        <div class="button button-discord">
-                            <a href="https://discord.gg/ZU8zFx8">
-                                <i class="fab fa-discord"></i>
-                                Join our Discord
-                            </a>
-                        </div>
-                    </p>
-                </div>
-
-                <div class="obama-image hide-on-mobile column">
-                    <figure class="image is-128x128">
-                        <img class="is-rounded" src="https://images-ext-2.discordapp.net/external/SXIkIgGOWHo1mDYdkNdoxc1sxqG-54D0kwuOLVVrNyw/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/444463875908304901/c80877e5cfcce9c4b3884ee24c95fa25.webp?width=498&height=498">
-                    </figure>
-               </div>
-
+            <div class="hero-body">
+                
         
             </div>
         </section>
 
-        <section class="section stats">
-          <nav class="level">
-            <div class="level-item has-text-centered">
-              <div>
-                <p class="heading">Guilds</p>
-                <p class="title"><strong><dbl-stat bot-id="bot-444463875908304901" stat="guilds"></dbl-stat></strong>  </p>
-              </div>
-            </div>
-            <div class="level-item has-text-centered">
-              <div>
-                <p class="heading">Total Members</p>
-                <p class="title"><strong><dbl-stat bot-id="bot-444463875908304901" stat="users"></dbl-stat></strong></p>
-              </div>
-            </div>
-            <!-- <div class="level-item has-text-centered">
-              <div>
-                <p class="heading">Followers</p>
-                <p class="title">456K</p>
-              </div>
-            </div>
-            <div class="level-item has-text-centered">
-              <div>
-                <p class="heading">Likes</p>
-                <p class="title">789</p>
-              </div>
-            </div> -->
-          </nav>
-        </section>
-
-
-        <section class="section container has-text-centered">
-            <div class="title is-6">
-                Made with ❤️ by LichKing112
-            </div>
-        </section>
-
-
-        
-
-        
-        <script src="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.4/dist/js/bulma-carousel.min.js"></script>
-		<!-- <script>
-		bulmaCarousel.attach('#my-element', {
-			slidesToScroll: 1,
-            slidesToShow: 3,
-            infinite: true
-		});
-		</script> -->
 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
-        <script src="resources/js/index.js"></script>
+        <script src="src/javascripts/script.js"></script>
     </body>
 </html>
