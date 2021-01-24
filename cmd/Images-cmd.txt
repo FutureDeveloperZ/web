@@ -1,0 +1,142 @@
+<tbody>
+						<tr>
+<th>3000</th>
+				<td>Is been 3,000 Years</td>
+				<td>{PREFIX}3000 <user></td>
+						</tr>
+						
+<th>achievement</th>
+				<td>Get a Achievement image</td>
+				<td>{PREFIX}achievement <text></td>
+						</tr>
+						
+<th>approved</th>
+				<td>Get a approved overlay image</td>
+				<td>{PREFIX}approved [user]</td>
+						</tr>
+						
+<th>beautiful</th>
+				<td>Are u beautiful?</td>
+				<td>{PREFIX}beautiful <user></td>
+						</tr>
+						
+<th>brazzers</th>
+				<td>Get a Brazzers overlay image</td>
+				<td>{PREFIX}brazzers [user]</td>
+						</tr>
+						
+<th>caption</th>
+				<td>Generates a meme from an image (separate top/bottom text with a comma)</td>
+				<td>{PREFIX}caption [text]</td>
+						</tr>
+						
+<th>challenger</th>
+				<td>Get a Challenger image</td>
+				<td>{PREFIX}challenger [user]</td>
+						</tr>
+						
+<th>crush</th>
+				<td>He's you're crush </td>
+				<td>{PREFIX}crush <user></td>
+						</tr>
+						
+<th>deepfry</th>
+				<td>Deepfry a Image</td>
+				<td>{PREFIX}deepfry <image></td>
+						</tr>
+						
+<th>demotivational</th>
+				<td>Get a Demotivational image</td>
+				<td>{PREFIX}demotivational demotivational <title | text></td>
+						</tr>
+						
+<th>dexter</th>
+				<td>Get a Dexter image</td>
+				<td>{PREFIX}dexter dexter [user]</td>
+						</tr>
+						
+<th>drip</th>
+				<td>Eject your Friend</td>
+				<td>{PREFIX}drip <user | image></td>
+						</tr>
+						
+<th>eject</th>
+				<td>Eject your Friend</td>
+				<td>{PREFIX}eject <user></td>
+						</tr>
+						
+<th>gruplan</th>
+				<td>Make a meme with the Gru Plan Template</td>
+				<td>{PREFIX}gruplan <text | text | text></td>
+						</tr>
+						
+<th>horny</th>
+				<td>Get your own License to be horny</td>
+				<td>{PREFIX}horny <image/avatar></td>
+						</tr>
+						
+<th>jar</th>
+				<td>Is just a Jar</td>
+				<td>{PREFIX}jar <user></td>
+						</tr>
+						
+<th>kyon</th>
+				<td>Get a get kyon gun pointed at a image</td>
+				<td>{PREFIX}kyon [user]</td>
+						</tr>
+						
+<th>lisa</th>
+				<td>Make a presentation with lisa template</td>
+				<td>{PREFIX}lisa <text></td>
+						</tr>
+						
+<th>machine</th>
+				<td>Is it a machine?</td>
+				<td>{PREFIX}machine <user></td>
+						</tr>
+						
+<th>meme</th>
+				<td>Generates a meme from an image (separate top/bottom text with a comma)</td>
+				<td>{PREFIX}meme [top text], {bottom text}</td>
+						</tr>
+						
+<th>paint</th>
+				<td>Bobross made your profile?</td>
+				<td>{PREFIX}paint <user></td>
+						</tr>
+						
+<th>petpet</th>
+				<td>petpet someone :D</td>
+				<td>{PREFIX}petpet <image></td>
+						</tr>
+						
+<th>photograph</th>
+				<td>Look at my Photograph</td>
+				<td>{PREFIX}photograph <user></td>
+						</tr>
+						
+<th>plankton</th>
+				<td>Make a meme with the Plankton Plan Template</td>
+				<td>{PREFIX}plankton <text | text | text></td>
+						</tr>
+						
+<th>rejected</th>
+				<td>Get a rejected overlay image</td>
+				<td>{PREFIX}rejected [user]</td>
+						</tr>
+						
+<th>stickbug</th>
+				<td>Get stick bug or something idk</td>
+				<td>{PREFIX}stickbug <image></td>
+						</tr>
+						
+<th>yousuck</th>
+				<td>Basically u just suck</td>
+				<td>{PREFIX}yousuck <user></td>
+						</tr>
+						
+<th>youtube</th>
+				<td>Make a youtube image</td>
+				<td>{PREFIX}youtube <text></td>
+						</tr>
+						</tbody>

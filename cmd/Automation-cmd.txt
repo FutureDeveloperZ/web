@@ -1,0 +1,32 @@
+<tbody>
+						<tr>
+<th>antilink</th>
+				<td>Configuration For server</td>
+				<td>{PREFIX}antilink <on/off/enable/disable></td>
+						</tr>
+						
+<th>chatbot</th>
+				<td>chat witht he bot</td>
+				<td>{PREFIX}chatbot <on/off/enable/disable/channel> <channelID></td>
+						</tr>
+						
+<th>goodbye</th>
+				<td>Enable the Goodbye plugin to be able to post your own goodbye message</td>
+				<td>{PREFIX}goodbye <on|off|channel|text> <channel|text></td>
+						</tr>
+						
+<th>invitechannel (Owner-Only)</th>
+				<td>Configuration For server</td>
+				<td>{PREFIX}invitechannel <on|off|enable|disable|channel> <channel></td>
+						</tr>
+						
+<th>logchannel</th>
+				<td>Configuration For server</td>
+				<td>{PREFIX}logchannel <on|off|enable|disable|channel> <channel></td>
+						</tr>
+						
+<th>welcome</th>
+				<td>Enable the Welcome plugin to be able to post your own welcome message</td>
+				<td>{PREFIX}welcome <on/off/channel/text> <text></td>
+						</tr>
+						</tbody>

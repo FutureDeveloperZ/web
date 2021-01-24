@@ -1,0 +1,72 @@
+<tbody>
+						<tr>
+<th>fortnite</th>
+				<td>Get info of your Fortnite Stats</td>
+				<td>{PREFIX}fortnite <username></td>
+						</tr>
+						
+<th>googleplay</th>
+				<td>Get Info from google play apps</td>
+				<td>{PREFIX}googleplay <app></td>
+						</tr>
+						
+<th>hypixel</th>
+				<td>Displays your hypixel stats</td>
+				<td>{PREFIX}hypixel <username></td>
+						</tr>
+						
+<th>imdb</th>
+				<td>Get info about series and movies from imdb</td>
+				<td>{PREFIX}imdb <movie></td>
+						</tr>
+						
+<th>lyrics</th>
+				<td>Search Lyrics of songs</td>
+				<td>{PREFIX}lyrics <song>, [cancer]</td>
+						</tr>
+						
+<th>ng</th>
+				<td>Search up your nethergames stats</td>
+				<td>{PREFIX}ng <username></td>
+						</tr>
+						
+<th>osu</th>
+				<td>Search Osu profile</td>
+				<td>{PREFIX}osu <user></td>
+						</tr>
+						
+<th>query</th>
+				<td>Displays your minecraft server info only bedrock editon </td>
+				<td>{PREFIX}query <ip> [port]</td>
+						</tr>
+						
+<th>recent</th>
+				<td>Search recent players games</td>
+				<td>{PREFIX}recent <user></td>
+						</tr>
+						
+<th>roblox</th>
+				<td>Search up your roblox profile</td>
+				<td>{PREFIX}roblox <username></td>
+						</tr>
+						
+<th>skyblock</th>
+				<td>Search up your skyblock(hypixel) stats</td>
+				<td>{PREFIX}skyblock <username></td>
+						</tr>
+						
+<th>translate</th>
+				<td>Translate Stuff for u</td>
+				<td>{PREFIX}translate <your words></td>
+						</tr>
+						
+<th>urban</th>
+				<td>Searches up Urban Dictionary</td>
+				<td>{PREFIX}urban <your search></td>
+						</tr>
+						
+<th>wiki</th>
+				<td>Search Stuff on the wikipedia</td>
+				<td>{PREFIX}wiki <term></td>
+						</tr>
+						</tbody>

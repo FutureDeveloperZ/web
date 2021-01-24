@@ -1,0 +1,57 @@
+<tbody>
+						<tr>
+<th>animemes</th>
+				<td>Send Anime Memes!</td>
+				<td>{PREFIX}animemes</td>
+						</tr>
+						
+<th>cursedcomments</th>
+				<td>Send Cursed Comments!</td>
+				<td>{PREFIX}cursedcomments</td>
+						</tr>
+						
+<th>dankmemes</th>
+				<td>send Dank Memes!</td>
+				<td>{PREFIX}dankmemes</td>
+						</tr>
+						
+<th>history</th>
+				<td>Send History memes!</td>
+				<td>{PREFIX}history</td>
+						</tr>
+						
+<th>jokes</th>
+				<td>Send Jokes memes!</td>
+				<td>{PREFIX}jokes</td>
+						</tr>
+						
+<th>necro</th>
+				<td>Send Comedy Necromacy!</td>
+				<td>{PREFIX}necro</td>
+						</tr>
+						
+<th>popular</th>
+				<td>Send Popular Memes!</td>
+				<td>{PREFIX}popular</td>
+						</tr>
+						
+<th>programmerhumor</th>
+				<td>Send Programmer Humor!</td>
+				<td>{PREFIX}programmerhumor</td>
+						</tr>
+						
+<th>reddit</th>
+				<td>Gives u top meme from a big subreddit!</td>
+				<td>{PREFIX}reddit</td>
+						</tr>
+						
+<th>showerthoughts</th>
+				<td>Send Shower Thoughts!</td>
+				<td>{PREFIX}showerthoughts</td>
+						</tr>
+						
+<th>til</th>
+				<td>Today I Learned!</td>
+				<td>{PREFIX}til</td>
+						</tr>
+						</tbody>

@@ -1,0 +1,152 @@
+<tbody>
+						<tr>
+<th>8ball</th>
+				<td>Ask a question and get and answer</td>
+				<td>{PREFIX}8ball <question></td>
+						</tr>
+						
+<th>advice</th>
+				<td>get and advice from me</td>
+				<td>{PREFIX}advice</td>
+						</tr>
+						
+<th>age</th>
+				<td>get you're age from me</td>
+				<td>{PREFIX}age</td>
+						</tr>
+						
+<th>ash</th>
+				<td>sus</td>
+				<td>{PREFIX}ash</td>
+						</tr>
+						
+<th>avatar</th>
+				<td>Displays the avatar of a user</td>
+				<td>{PREFIX}avatar [user]</td>
+						</tr>
+						
+<th>bond</th>
+				<td>Bond with you're wify</td>
+				<td>{PREFIX}bond [user]</td>
+						</tr>
+						
+<th>coinflip</th>
+				<td>Coinflip and wait for the coin to flip</td>
+				<td>{PREFIX}coinflip</td>
+						</tr>
+						
+<th>cowsay</th>
+				<td>Makes cow say</td>
+				<td>{PREFIX}cowsay [text]</td>
+						</tr>
+						
+<th>discrim</th>
+				<td>Displays Discrim from users</td>
+				<td>{PREFIX}discrim <number></td>
+						</tr>
+						
+<th>editsnipe</th>
+				<td>Get a edited message lol</td>
+				<td>{PREFIX}editsnipe</td>
+						</tr>
+						
+<th>emoji</th>
+				<td>Expand emoji</td>
+				<td>{PREFIX}emoji <emoji></td>
+						</tr>
+						
+<th>fban</th>
+				<td>Fake ban a user lol</td>
+				<td>{PREFIX}fban [user]</td>
+						</tr>
+						
+<th>gayrate</th>
+				<td>How gay are u or your friend</td>
+				<td>{PREFIX}gayrate [user]</td>
+						</tr>
+						
+<th>hack</th>
+				<td>Hack a user</td>
+				<td>{PREFIX}hack <user></td>
+						</tr>
+						
+<th>heightcalculator</th>
+				<td>Calculate your height only supports cm!</td>
+				<td>{PREFIX}heightcalculator</td>
+						</tr>
+						
+<th>image</th>
+				<td>Search images in the internet</td>
+				<td>{PREFIX}image <search></td>
+						</tr>
+						
+<th>joke</th>
+				<td>Tells u a dad joke</td>
+				<td>{PREFIX}joke</td>
+						</tr>
+						
+<th>oompa</th>
+				<td>sus</td>
+				<td>{PREFIX}oompa</td>
+						</tr>
+						
+<th>pp</th>
+				<td>How big is pp</td>
+				<td>{PREFIX}pp [user]</td>
+						</tr>
+						
+<th>qr</th>
+				<td>Make a qr</td>
+				<td>{PREFIX}qr <text></td>
+						</tr>
+						
+<th>quiz</th>
+				<td>start a quiz</td>
+				<td>{PREFIX}quiz</td>
+						</tr>
+						
+<th>rate</th>
+				<td>Rate something idk</td>
+				<td>{PREFIX}rate <something></td>
+						</tr>
+						
+<th>reverse</th>
+				<td>Reverse Text boi</td>
+				<td>{PREFIX}reverse [text]</td>
+						</tr>
+						
+<th>roast</th>
+				<td>Roats your haters</td>
+				<td>{PREFIX}roast <user></td>
+						</tr>
+						
+<th>sacrifice</th>
+				<td>Sacrifice a friend or someone</td>
+				<td>{PREFIX}sacrifice <user></td>
+						</tr>
+						
+<th>screenshot</th>
+				<td>Takes a screenshot from a website</td>
+				<td>{PREFIX}screenshot <user></td>
+						</tr>
+						
+<th>snipe</th>
+				<td>Get a delete message lol</td>
+				<td>{PREFIX}snipe</td>
+						</tr>
+						
+<th>twig</th>
+				<td>SECRET</td>
+				<td>{PREFIX}twig SECRET</td>
+						</tr>
+						
+<th>yomama</th>
+				<td>get a yomama joke</td>
+				<td>{PREFIX}yomama</td>
+						</tr>
+						
+<th>instagram (Owner-Only)</th>
+				<td>Find out some nice instagram statistics</td>
+				<td>{PREFIX}instagram <username></td>
+						</tr>
+						</tbody>
