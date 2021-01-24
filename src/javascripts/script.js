@@ -23,18 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
 
-  window.onscroll = function() {scrollFunction()};
 
-  function scrollFunction() {
-    var $nav = $(".navbar");
-    var $navitem = $(".navbar-item")
-    if (document.body.scrollTop > 80 || document.documentElement.scrollTop > 80) {
-      $nav.css("background-color", "#fff");   
-    } else {
-      $nav.css("background-color", "transparent");
-      $navitem.css("background-color", "transparent");
-    }
-  }
 
 $('a[href*="#"]')
   .not('[href="#"]')
@@ -64,17 +53,16 @@ $('a[href*="#"]')
     }
   });
 
-var acc = document.getElementsByClassName("accordion");
-var i;
-
-for (i = 0; i < acc.length; i++) {
-  acc[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var panel = this.nextElementSibling;
-    if (panel.style.maxHeight) {
-      panel.style.maxHeight = null;
-    } else {
-      panel.style.maxHeight = panel.scrollHeight + "px";
-    }
-  });
+function openCity(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
 }

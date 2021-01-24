@@ -1,24 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;1,200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Heebo:wght@200;400;500;600;700;800&display=swap");
 * {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Heebo', sans-serif;
 }
 
 html {
   background: #1C1C1C;
   background-attachment: fixed;
   background-size: cover;
-}
-
-.navbar .navbar-item {
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-top: 20px;
-  font-weight: 450;
-}
-
-.navbar .navbar-title {
-  font-size: 28px;
-  font-weight: 500;
 }
 
 hr {
@@ -34,76 +23,239 @@ hr {
   margin-right: 25% !important;
 }
 
+.highlight {
+  color: #82b974;
+}
+
+.highlight:hover {
+  color: #4e6f46;
+  transition: all .3s ease-in-out;
+}
+
+.icon {
+  font-size: 64px;
+  color: #131313;
+  line-height: 2px;
+}
+
+.custom-shape-divider-top-1611483095 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1611483095 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 134px;
+}
+
+.custom-shape-divider-top-1611483095 .shape-fill {
+  fill: #90CE81;
+}
+
+.custom-shape-divider-bottom-1611483236 {
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
+
+.custom-shape-divider-bottom-1611483236 .section {
+  padding-top: 120px;
+  background-color: #90CE81;
+}
+
+.custom-shape-divider-bottom-1611483236 svg {
+  position: relative;
+  display: block;
+  width: calc(159% + 1.3px);
+  height: 114px;
+}
+
+.custom-shape-divider-bottom-1611483236 .shape-fill {
+  fill: #90CE81;
+}
+
 .hero-body {
-  padding-top: 210px;
+  padding-top: 250px;
   padding-left: 90px;
   padding-right: 110px;
 }
 
-.hero-body .button-invite {
-  background: #1ad9dd;
-  background: linear-gradient(0deg, #1ad9dd 0%, #30da97 100%);
+.hero-body .title {
+  color: #f1f1f1;
+  font-weight: 750;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  transition: all .3s ease-in-out;
 }
 
-.hero-body .button-invite a {
-  filter: drop-shadow(0px 1px 1px #001);
-  color: #fff;
-  font-family: 'Poppins', sans-serif;
-  line-height: 21px;
-  font-weight: 400;
-  font-size: 18px;
+.hero-body .subtitle {
+  color: #f1f1f1;
+  letter-spacing: 1px;
+  transition: all .3s ease-in-out;
 }
 
-.hero-body .button-discord {
-  background: #3a41c6;
-  background: linear-gradient(90deg, #3a41c6 35%, #7289da 100%);
+.navbar .navbar-item {
+  padding-left: 20px;
+  padding-right: 40px;
+  padding-top: 20px;
+  font-weight: 450;
+  letter-spacing: 1px;
 }
 
-.hero-body .button-discord a {
-  filter: drop-shadow(0px 1px 1px #001);
-  color: #fff;
-  font-family: 'Poppins', sans-serif;
-  line-height: 21px;
-  font-weight: 400;
-  font-size: 18px;
+.navbar .navbar-item:hover {
+  color: #141414 !important;
+  transition: all .3s ease-in-out;
 }
 
-.hero-body .button-invite:hover {
-  background: #1fafb3;
-  background: linear-gradient(0deg, #1fafb3 0%, #13b173 100%);
+.navbar .navbar-title {
+  font-size: 28px;
+  font-weight: 500;
 }
 
-.hero-body .button-discord:hover {
-  background: #3f66f0;
-  background: linear-gradient(0deg, #3f66f0 0%, #5e61a4 100%);
+.section-footer {
+  padding: 45px 0 20px;
+  font-size: 15px;
+  line-height: 24px;
+  color: #121212;
+  padding: 30px 12px 0px 12px;
+  padding-bottom: 46px;
+  padding-top: 140px;
 }
 
-.hero-body .obama-image {
-  filter: drop-shadow(0px 1px 1px #001);
+.section-footer h6, .section-footer p {
+  color: #121212;
 }
 
-.commands {
-  padding-top: 260px;
+.section-footer a {
+  color: #121212;
 }
 
-.about-obama {
-  padding-top: 184px;
+.section-footer a:hover {
+  color: #000;
 }
 
-.carousel-main {
-  padding-top: 195px;
+.section-footer .title {
+  color: #121212;
+  font-size: 16px;
+  text-transform: uppercase;
+  margin-top: 5px;
+  letter-spacing: 2px;
 }
 
-.carousel-main .carousel-title {
-  padding-bottom: 20px;
+.section-footer .subtitle {
+  font-size: 16px;
 }
 
-.scroll-down {
-  font-family: 'Poppins', sans-serif;
-  font-size: 34px;
+.btn {
+  display: inline-block;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  border: 0;
+  outline: 0;
+  padding: 0;
+  transition: all 200ms ease-in;
+  cursor: pointer;
 }
 
-.scroll-down a {
-  color: #001;
+.btn--invite {
+  background: #90CE81;
+  color: #1c1c1c;
+  font-weight: 500;
+  box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.1);
+  border-radius: 44px;
+  padding: 12px 36px;
+  transition: 0.3s;
+}
+
+.btn--invite:hover {
+  background: #9bd38e;
+  transform: translate(0, -10px);
+}
+
+.level {
+  margin-bottom: 95px;
+}
+
+.level .heading-text {
+  font-size: 24px;
+  font-weight: 750;
+  letter-spacing: 1px;
+  color: #141414;
+}
+
+.level .subtitle-text {
+  font-size: 16px;
+  color: #121212;
+}
+
+.tab {
+  overflow: hidden;
+  border: 1px solid #90CE81;
+  background-color: #90CE81;
+}
+
+.tab button {
+  font-family: 'Heebo', sans-serif;
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+.tab button:hover {
+  background-color: #73a567;
+}
+
+.tab button.active {
+  background-color: #90CE81;
+}
+
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #90CE81;
+  border-top: none;
+}
+
+.object {
+  animation: action 1s infinite  alternate;
+}
+
+@keyframes action {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-10px);
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .custom-shape-divider-top-1611483095 {
+    visibility: hidden;
+    display: none;
+  }
+  .hide-on-mobile {
+    visibility: hidden;
+    display: none;
+  }
+  .curved {
+    height: 60vh;
+  }
+  .hero-body {
+    padding-top: 200px;
+  }
 }
 /*# sourceMappingURL=style.css.map */
