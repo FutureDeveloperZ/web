@@ -1,47 +1,56 @@
 <tbody>
 						<tr>
-<th>cat</th>
+
+				<th>cat</th>
 				<td>Get cute cat pictures!</td>
-				<td>{PREFIX}cat</td>
+				<td>f;cat</td>
 						</tr>
 						
-<th>cuddle</th>
+
+				<th>cuddle</th>
 				<td>Cuddles :3</td>
-				<td>{PREFIX}cuddle <user></td>
+				<td>f;cuddle <user></td>
 						</tr>
 						
-<th>divorce</th>
+
+				<th>divorce</th>
 				<td>Marry your love one</td>
-				<td>{PREFIX}divorce <user></td>
+				<td>f;divorce <user></td>
 						</tr>
 						
-<th>dog</th>
+
+				<th>dog</th>
 				<td>Get cute dogs pictures</td>
-				<td>{PREFIX}dog</td>
+				<td>f;dog</td>
 						</tr>
 						
-<th>hug</th>
+
+				<th>hug</th>
 				<td>Give hugs to people image</td>
-				<td>{PREFIX}hug <user></td>
+				<td>f;hug <user></td>
 						</tr>
 						
-<th>kiss</th>
+
+				<th>kiss</th>
 				<td>Kiss somebody</td>
-				<td>{PREFIX}kiss <user></td>
+				<td>f;kiss <user></td>
 						</tr>
 						
-<th>marry</th>
+
+				<th>marry</th>
 				<td>Marry your wife or husband</td>
-				<td>{PREFIX}marry <user></td>
+				<td>f;marry <user></td>
 						</tr>
 						
-<th>pat</th>
+
+				<th>pat</th>
 				<td>Pat somebody</td>
-				<td>{PREFIX}pat <user></td>
+				<td>f;pat <user></td>
 						</tr>
 						
-<th>wife</th>
+
+				<th>wife</th>
 				<td>Check who's your wife or husband</td>
-				<td>{PREFIX}wife <user></td>
+				<td>f;wife <user></td>
 						</tr>
 						</tbody>
