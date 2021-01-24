@@ -14,7 +14,7 @@
 <!--- LICENSE --->
 ## ⇁ License
 
-   * This project is licensed under the [GPL-3.0 license.](LICENSE)
+   * This project is licensed under the [MIT license.](LICENSE)
 
 <!--- SUPPORT --->
 ## ⇁ Support
