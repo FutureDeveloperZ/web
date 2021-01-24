@@ -1,0 +1,2400 @@
+<tbody>
+						<tr>
+<th>4k (NSFW)</th>
+				<td>Gets nsfw images in 4k resolution</td>
+				<td>{PREFIX}4k</td>
+						</tr>
+<th>amateur (NSFW)</th>
+				<td>Gets nsfw images of Amate</td>
+				<td>{PREFIX}amateur</td>
+						</tr>
+<th>anal (NSFW)</th>
+				<td>Gets nsfw images of Anal</td>
+				<td>{PREFIX}anal</td>
+						</tr>
+<th>ass (NSFW)</th>
+				<td>Gets nsfw images of Ass</td>
+				<td>{PREFIX}ass</td>
+						</tr>
+<th>asshole (NSFW)</th>
+				<td>Gets nsfw images of Asshole</td>
+				<td>{PREFIX}asshole</td>
+						</tr>
+<th>bbw (NSFW)</th>
+				<td>Gets nsfw images of bbw</td>
+				<td>{PREFIX}bbw</td>
+						</tr>
+<th>bdsm (NSFW)</th>
+				<td>Gets nsfw images of bd</td>
+				<td>{PREFIX}bdsm</td>
+						</tr>
+<th>bikinis (NSFW)</th>
+				<td>Gets nsfw images of bikinis</td>
+				<td>{PREFIX}bikinis</td>
+						</tr>
+<th>blonde (NSFW)</th>
+				<td>Gets nsfw images of blonde wammen</td>
+				<td>{PREFIX}blonde</td>
+						</tr>
+<th>bottomless (NSFW)</th>
+				<td>Gets nsfw images of bottomless</td>
+				<td>{PREFIX}bottomless</td>
+						</tr>
+<th>brunette (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}brunette</td>
+						</tr>
+<th>college (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}college</td>
+						</tr>
+<th>cosplay (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}cosplay</td>
+						</tr>
+<th>curvy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}curvy</td>
+						</tr>
+<th>dick (NSFW)</th>
+				<td>Use this command to an image with a hot dick.</td>
+				<td>{PREFIX}dick</td>
+						</tr>
+<th>ecchi (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}ecchi</td>
+						</tr>
+<th>furrynsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}furrynsfw</td>
+						</tr>
+<th>gonewild (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}gonewild</td>
+						</tr>
+<th>lewd (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}lewd</td>
+						</tr>
+<th>milf (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}milf</td>
+						</tr>
+<th>moreporn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}moreporn</td>
+						</tr>
+<th>neko (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}neko</td>
+						</tr>
+<th>nsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nsfw</td>
+						</tr>
+<th>nude (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nude</td>
+						</tr>
+<th>onoff (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}onoff</td>
+						</tr>
+<th>petite (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}petite</td>
+						</tr>
+<th>porn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porn</td>
+						</tr>
+<th>porngif (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porngif</td>
+						</tr>
+<th>public (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}public</td>
+						</tr>
+<th>pussy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}pussy</td>
+						</tr>
+<th>redheads (NSFW)</th>
+				<td>Use this command to an image off of r/redheads.</td>
+				<td>{PREFIX}redheads</td>
+						</tr>
+<th>redtube (NSFW)</th>
+				<td>Use this command to redtube something.</td>
+				<td>{PREFIX}redtube</td>
+						</tr>
+<th>rule34 (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}rule34</td>
+						</tr>
+<th>snapchat (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}snapchat</td>
+						</tr>
+<th>tattoos (NSFW)</th>
+				<td>Use this command to an image off of r/altgonewild.</td>
+				<td>{PREFIX}tattoos</td>
+						</tr>
+<th>tits (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}tits</td>
+						</tr>
+<th>uniform (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}uniform</td>
+						</tr>
+<tbody>
+						<tr>
+<th>4k (NSFW)</th>
+				<td>Gets nsfw images in 4k resolution</td>
+				<td>{PREFIX}4k</td>
+						</tr>
+<th>amateur (NSFW)</th>
+				<td>Gets nsfw images of Amate</td>
+				<td>{PREFIX}amateur</td>
+						</tr>
+<th>anal (NSFW)</th>
+				<td>Gets nsfw images of Anal</td>
+				<td>{PREFIX}anal</td>
+						</tr>
+<th>ass (NSFW)</th>
+				<td>Gets nsfw images of Ass</td>
+				<td>{PREFIX}ass</td>
+						</tr>
+<th>asshole (NSFW)</th>
+				<td>Gets nsfw images of Asshole</td>
+				<td>{PREFIX}asshole</td>
+						</tr>
+<th>bbw (NSFW)</th>
+				<td>Gets nsfw images of bbw</td>
+				<td>{PREFIX}bbw</td>
+						</tr>
+<th>bdsm (NSFW)</th>
+				<td>Gets nsfw images of bd</td>
+				<td>{PREFIX}bdsm</td>
+						</tr>
+<th>bikinis (NSFW)</th>
+				<td>Gets nsfw images of bikinis</td>
+				<td>{PREFIX}bikinis</td>
+						</tr>
+<th>blonde (NSFW)</th>
+				<td>Gets nsfw images of blonde wammen</td>
+				<td>{PREFIX}blonde</td>
+						</tr>
+<th>bottomless (NSFW)</th>
+				<td>Gets nsfw images of bottomless</td>
+				<td>{PREFIX}bottomless</td>
+						</tr>
+<th>brunette (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}brunette</td>
+						</tr>
+<th>college (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}college</td>
+						</tr>
+<th>cosplay (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}cosplay</td>
+						</tr>
+<th>curvy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}curvy</td>
+						</tr>
+<th>dick (NSFW)</th>
+				<td>Use this command to an image with a hot dick.</td>
+				<td>{PREFIX}dick</td>
+						</tr>
+<th>ecchi (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}ecchi</td>
+						</tr>
+<th>furrynsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}furrynsfw</td>
+						</tr>
+<th>gonewild (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}gonewild</td>
+						</tr>
+<th>lewd (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}lewd</td>
+						</tr>
+<th>milf (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}milf</td>
+						</tr>
+<th>moreporn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}moreporn</td>
+						</tr>
+<th>neko (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}neko</td>
+						</tr>
+<th>nsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nsfw</td>
+						</tr>
+<th>nude (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nude</td>
+						</tr>
+<th>onoff (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}onoff</td>
+						</tr>
+<th>petite (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}petite</td>
+						</tr>
+<th>porn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porn</td>
+						</tr>
+<th>porngif (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porngif</td>
+						</tr>
+<th>public (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}public</td>
+						</tr>
+<th>pussy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}pussy</td>
+						</tr>
+<th>redheads (NSFW)</th>
+				<td>Use this command to an image off of r/redheads.</td>
+				<td>{PREFIX}redheads</td>
+						</tr>
+<th>redtube (NSFW)</th>
+				<td>Use this command to redtube something.</td>
+				<td>{PREFIX}redtube</td>
+						</tr>
+<th>rule34 (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}rule34</td>
+						</tr>
+<th>snapchat (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}snapchat</td>
+						</tr>
+<th>tattoos (NSFW)</th>
+				<td>Use this command to an image off of r/altgonewild.</td>
+				<td>{PREFIX}tattoos</td>
+						</tr>
+<th>tits (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}tits</td>
+						</tr>
+<th>uniform (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}uniform</td>
+						</tr>
+<tbody>
+						<tr>
+<th>4k (NSFW)</th>
+				<td>Gets nsfw images in 4k resolution</td>
+				<td>{PREFIX}4k</td>
+						</tr>
+<th>amateur (NSFW)</th>
+				<td>Gets nsfw images of Amate</td>
+				<td>{PREFIX}amateur</td>
+						</tr>
+<th>anal (NSFW)</th>
+				<td>Gets nsfw images of Anal</td>
+				<td>{PREFIX}anal</td>
+						</tr>
+<th>ass (NSFW)</th>
+				<td>Gets nsfw images of Ass</td>
+				<td>{PREFIX}ass</td>
+						</tr>
+<th>asshole (NSFW)</th>
+				<td>Gets nsfw images of Asshole</td>
+				<td>{PREFIX}asshole</td>
+						</tr>
+<th>bbw (NSFW)</th>
+				<td>Gets nsfw images of bbw</td>
+				<td>{PREFIX}bbw</td>
+						</tr>
+<th>bdsm (NSFW)</th>
+				<td>Gets nsfw images of bd</td>
+				<td>{PREFIX}bdsm</td>
+						</tr>
+<th>bikinis (NSFW)</th>
+				<td>Gets nsfw images of bikinis</td>
+				<td>{PREFIX}bikinis</td>
+						</tr>
+<th>blonde (NSFW)</th>
+				<td>Gets nsfw images of blonde wammen</td>
+				<td>{PREFIX}blonde</td>
+						</tr>
+<th>bottomless (NSFW)</th>
+				<td>Gets nsfw images of bottomless</td>
+				<td>{PREFIX}bottomless</td>
+						</tr>
+<th>brunette (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}brunette</td>
+						</tr>
+<th>college (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}college</td>
+						</tr>
+<th>cosplay (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}cosplay</td>
+						</tr>
+<th>curvy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}curvy</td>
+						</tr>
+<th>dick (NSFW)</th>
+				<td>Use this command to an image with a hot dick.</td>
+				<td>{PREFIX}dick</td>
+						</tr>
+<th>ecchi (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}ecchi</td>
+						</tr>
+<th>furrynsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}furrynsfw</td>
+						</tr>
+<th>gonewild (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}gonewild</td>
+						</tr>
+<th>lewd (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}lewd</td>
+						</tr>
+<th>milf (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}milf</td>
+						</tr>
+<th>moreporn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}moreporn</td>
+						</tr>
+<th>neko (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}neko</td>
+						</tr>
+<th>nsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nsfw</td>
+						</tr>
+<th>nude (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nude</td>
+						</tr>
+<th>onoff (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}onoff</td>
+						</tr>
+<th>petite (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}petite</td>
+						</tr>
+<th>porn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porn</td>
+						</tr>
+<th>porngif (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porngif</td>
+						</tr>
+<th>public (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}public</td>
+						</tr>
+<th>pussy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}pussy</td>
+						</tr>
+<th>redheads (NSFW)</th>
+				<td>Use this command to an image off of r/redheads.</td>
+				<td>{PREFIX}redheads</td>
+						</tr>
+<th>redtube (NSFW)</th>
+				<td>Use this command to redtube something.</td>
+				<td>{PREFIX}redtube</td>
+						</tr>
+<th>rule34 (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}rule34</td>
+						</tr>
+<th>snapchat (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}snapchat</td>
+						</tr>
+<th>tattoos (NSFW)</th>
+				<td>Use this command to an image off of r/altgonewild.</td>
+				<td>{PREFIX}tattoos</td>
+						</tr>
+<th>tits (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}tits</td>
+						</tr>
+<th>uniform (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}uniform</td>
+						</tr>
+<tbody>
+						<tr>
+<th>4k (NSFW)</th>
+				<td>Gets nsfw images in 4k resolution</td>
+				<td>{PREFIX}4k</td>
+						</tr>
+<th>amateur (NSFW)</th>
+				<td>Gets nsfw images of Amate</td>
+				<td>{PREFIX}amateur</td>
+						</tr>
+<th>anal (NSFW)</th>
+				<td>Gets nsfw images of Anal</td>
+				<td>{PREFIX}anal</td>
+						</tr>
+<th>ass (NSFW)</th>
+				<td>Gets nsfw images of Ass</td>
+				<td>{PREFIX}ass</td>
+						</tr>
+<th>asshole (NSFW)</th>
+				<td>Gets nsfw images of Asshole</td>
+				<td>{PREFIX}asshole</td>
+						</tr>
+<th>bbw (NSFW)</th>
+				<td>Gets nsfw images of bbw</td>
+				<td>{PREFIX}bbw</td>
+						</tr>
+<th>bdsm (NSFW)</th>
+				<td>Gets nsfw images of bd</td>
+				<td>{PREFIX}bdsm</td>
+						</tr>
+<th>bikinis (NSFW)</th>
+				<td>Gets nsfw images of bikinis</td>
+				<td>{PREFIX}bikinis</td>
+						</tr>
+<th>blonde (NSFW)</th>
+				<td>Gets nsfw images of blonde wammen</td>
+				<td>{PREFIX}blonde</td>
+						</tr>
+<th>bottomless (NSFW)</th>
+				<td>Gets nsfw images of bottomless</td>
+				<td>{PREFIX}bottomless</td>
+						</tr>
+<th>brunette (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}brunette</td>
+						</tr>
+<th>college (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}college</td>
+						</tr>
+<th>cosplay (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}cosplay</td>
+						</tr>
+<th>curvy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}curvy</td>
+						</tr>
+<th>dick (NSFW)</th>
+				<td>Use this command to an image with a hot dick.</td>
+				<td>{PREFIX}dick</td>
+						</tr>
+<th>ecchi (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}ecchi</td>
+						</tr>
+<th>furrynsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}furrynsfw</td>
+						</tr>
+<th>gonewild (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}gonewild</td>
+						</tr>
+<th>lewd (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}lewd</td>
+						</tr>
+<th>milf (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}milf</td>
+						</tr>
+<th>moreporn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}moreporn</td>
+						</tr>
+<th>neko (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}neko</td>
+						</tr>
+<th>nsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nsfw</td>
+						</tr>
+<th>nude (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nude</td>
+						</tr>
+<th>onoff (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}onoff</td>
+						</tr>
+<th>petite (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}petite</td>
+						</tr>
+<th>porn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porn</td>
+						</tr>
+<th>porngif (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porngif</td>
+						</tr>
+<th>public (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}public</td>
+						</tr>
+<th>pussy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}pussy</td>
+						</tr>
+<th>redheads (NSFW)</th>
+				<td>Use this command to an image off of r/redheads.</td>
+				<td>{PREFIX}redheads</td>
+						</tr>
+<th>redtube (NSFW)</th>
+				<td>Use this command to redtube something.</td>
+				<td>{PREFIX}redtube</td>
+						</tr>
+<th>rule34 (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}rule34</td>
+						</tr>
+<th>snapchat (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}snapchat</td>
+						</tr>
+<th>tattoos (NSFW)</th>
+				<td>Use this command to an image off of r/altgonewild.</td>
+				<td>{PREFIX}tattoos</td>
+						</tr>
+<th>tits (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}tits</td>
+						</tr>
+<th>uniform (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}uniform</td>
+						</tr>
+<tbody>
+						<tr>
+<th>4k (NSFW)</th>
+				<td>Gets nsfw images in 4k resolution</td>
+				<td>{PREFIX}4k</td>
+						</tr>
+<th>amateur (NSFW)</th>
+				<td>Gets nsfw images of Amate</td>
+				<td>{PREFIX}amateur</td>
+						</tr>
+<th>anal (NSFW)</th>
+				<td>Gets nsfw images of Anal</td>
+				<td>{PREFIX}anal</td>
+						</tr>
+<th>ass (NSFW)</th>
+				<td>Gets nsfw images of Ass</td>
+				<td>{PREFIX}ass</td>
+						</tr>
+<th>asshole (NSFW)</th>
+				<td>Gets nsfw images of Asshole</td>
+				<td>{PREFIX}asshole</td>
+						</tr>
+<th>bbw (NSFW)</th>
+				<td>Gets nsfw images of bbw</td>
+				<td>{PREFIX}bbw</td>
+						</tr>
+<th>bdsm (NSFW)</th>
+				<td>Gets nsfw images of bd</td>
+				<td>{PREFIX}bdsm</td>
+						</tr>
+<th>bikinis (NSFW)</th>
+				<td>Gets nsfw images of bikinis</td>
+				<td>{PREFIX}bikinis</td>
+						</tr>
+<th>blonde (NSFW)</th>
+				<td>Gets nsfw images of blonde wammen</td>
+				<td>{PREFIX}blonde</td>
+						</tr>
+<th>bottomless (NSFW)</th>
+				<td>Gets nsfw images of bottomless</td>
+				<td>{PREFIX}bottomless</td>
+						</tr>
+<th>brunette (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}brunette</td>
+						</tr>
+<th>college (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}college</td>
+						</tr>
+<th>cosplay (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}cosplay</td>
+						</tr>
+<th>curvy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}curvy</td>
+						</tr>
+<th>dick (NSFW)</th>
+				<td>Use this command to an image with a hot dick.</td>
+				<td>{PREFIX}dick</td>
+						</tr>
+<th>ecchi (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}ecchi</td>
+						</tr>
+<th>furrynsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}furrynsfw</td>
+						</tr>
+<th>gonewild (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}gonewild</td>
+						</tr>
+<th>lewd (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}lewd</td>
+						</tr>
+<th>milf (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}milf</td>
+						</tr>
+<th>moreporn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}moreporn</td>
+						</tr>
+<th>neko (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}neko</td>
+						</tr>
+<th>nsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nsfw</td>
+						</tr>
+<th>nude (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nude</td>
+						</tr>
+<th>onoff (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}onoff</td>
+						</tr>
+<th>petite (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}petite</td>
+						</tr>
+<th>porn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porn</td>
+						</tr>
+<th>porngif (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porngif</td>
+						</tr>
+<th>public (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}public</td>
+						</tr>
+<th>pussy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}pussy</td>
+						</tr>
+<th>redheads (NSFW)</th>
+				<td>Use this command to an image off of r/redheads.</td>
+				<td>{PREFIX}redheads</td>
+						</tr>
+<th>redtube (NSFW)</th>
+				<td>Use this command to redtube something.</td>
+				<td>{PREFIX}redtube</td>
+						</tr>
+<th>rule34 (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}rule34</td>
+						</tr>
+<th>snapchat (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}snapchat</td>
+						</tr>
+<th>tattoos (NSFW)</th>
+				<td>Use this command to an image off of r/altgonewild.</td>
+				<td>{PREFIX}tattoos</td>
+						</tr>
+<th>tits (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}tits</td>
+						</tr>
+<th>uniform (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}uniform</td>
+						</tr>
+<tbody>
+						<tr>
+<th>4k (NSFW)</th>
+				<td>Gets nsfw images in 4k resolution</td>
+				<td>{PREFIX}4k</td>
+						</tr>
+<th>amateur (NSFW)</th>
+				<td>Gets nsfw images of Amate</td>
+				<td>{PREFIX}amateur</td>
+						</tr>
+<th>anal (NSFW)</th>
+				<td>Gets nsfw images of Anal</td>
+				<td>{PREFIX}anal</td>
+						</tr>
+<th>ass (NSFW)</th>
+				<td>Gets nsfw images of Ass</td>
+				<td>{PREFIX}ass</td>
+						</tr>
+<th>asshole (NSFW)</th>
+				<td>Gets nsfw images of Asshole</td>
+				<td>{PREFIX}asshole</td>
+						</tr>
+<th>bbw (NSFW)</th>
+				<td>Gets nsfw images of bbw</td>
+				<td>{PREFIX}bbw</td>
+						</tr>
+<th>bdsm (NSFW)</th>
+				<td>Gets nsfw images of bd</td>
+				<td>{PREFIX}bdsm</td>
+						</tr>
+<th>bikinis (NSFW)</th>
+				<td>Gets nsfw images of bikinis</td>
+				<td>{PREFIX}bikinis</td>
+						</tr>
+<th>blonde (NSFW)</th>
+				<td>Gets nsfw images of blonde wammen</td>
+				<td>{PREFIX}blonde</td>
+						</tr>
+<th>bottomless (NSFW)</th>
+				<td>Gets nsfw images of bottomless</td>
+				<td>{PREFIX}bottomless</td>
+						</tr>
+<th>brunette (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}brunette</td>
+						</tr>
+<th>college (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}college</td>
+						</tr>
+<th>cosplay (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}cosplay</td>
+						</tr>
+<th>curvy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}curvy</td>
+						</tr>
+<th>dick (NSFW)</th>
+				<td>Use this command to an image with a hot dick.</td>
+				<td>{PREFIX}dick</td>
+						</tr>
+<th>ecchi (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}ecchi</td>
+						</tr>
+<th>furrynsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}furrynsfw</td>
+						</tr>
+<th>gonewild (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}gonewild</td>
+						</tr>
+<th>lewd (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}lewd</td>
+						</tr>
+<th>milf (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}milf</td>
+						</tr>
+<th>moreporn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}moreporn</td>
+						</tr>
+<th>neko (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}neko</td>
+						</tr>
+<th>nsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nsfw</td>
+						</tr>
+<th>nude (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nude</td>
+						</tr>
+<th>onoff (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}onoff</td>
+						</tr>
+<th>petite (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}petite</td>
+						</tr>
+<th>porn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porn</td>
+						</tr>
+<th>porngif (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porngif</td>
+						</tr>
+<th>public (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}public</td>
+						</tr>
+<th>pussy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}pussy</td>
+						</tr>
+<th>redheads (NSFW)</th>
+				<td>Use this command to an image off of r/redheads.</td>
+				<td>{PREFIX}redheads</td>
+						</tr>
+<th>redtube (NSFW)</th>
+				<td>Use this command to redtube something.</td>
+				<td>{PREFIX}redtube</td>
+						</tr>
+<th>rule34 (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}rule34</td>
+						</tr>
+<th>snapchat (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}snapchat</td>
+						</tr>
+<th>tattoos (NSFW)</th>
+				<td>Use this command to an image off of r/altgonewild.</td>
+				<td>{PREFIX}tattoos</td>
+						</tr>
+<th>tits (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}tits</td>
+						</tr>
+<th>uniform (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}uniform</td>
+						</tr>
+<tbody>
+						<tr>
+<th>4k (NSFW)</th>
+				<td>Gets nsfw images in 4k resolution</td>
+				<td>{PREFIX}4k</td>
+						</tr>
+<th>amateur (NSFW)</th>
+				<td>Gets nsfw images of Amate</td>
+				<td>{PREFIX}amateur</td>
+						</tr>
+<th>anal (NSFW)</th>
+				<td>Gets nsfw images of Anal</td>
+				<td>{PREFIX}anal</td>
+						</tr>
+<th>ass (NSFW)</th>
+				<td>Gets nsfw images of Ass</td>
+				<td>{PREFIX}ass</td>
+						</tr>
+<th>asshole (NSFW)</th>
+				<td>Gets nsfw images of Asshole</td>
+				<td>{PREFIX}asshole</td>
+						</tr>
+<th>bbw (NSFW)</th>
+				<td>Gets nsfw images of bbw</td>
+				<td>{PREFIX}bbw</td>
+						</tr>
+<th>bdsm (NSFW)</th>
+				<td>Gets nsfw images of bd</td>
+				<td>{PREFIX}bdsm</td>
+						</tr>
+<th>bikinis (NSFW)</th>
+				<td>Gets nsfw images of bikinis</td>
+				<td>{PREFIX}bikinis</td>
+						</tr>
+<th>blonde (NSFW)</th>
+				<td>Gets nsfw images of blonde wammen</td>
+				<td>{PREFIX}blonde</td>
+						</tr>
+<th>bottomless (NSFW)</th>
+				<td>Gets nsfw images of bottomless</td>
+				<td>{PREFIX}bottomless</td>
+						</tr>
+<th>brunette (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}brunette</td>
+						</tr>
+<th>college (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}college</td>
+						</tr>
+<th>cosplay (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}cosplay</td>
+						</tr>
+<th>curvy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}curvy</td>
+						</tr>
+<th>dick (NSFW)</th>
+				<td>Use this command to an image with a hot dick.</td>
+				<td>{PREFIX}dick</td>
+						</tr>
+<th>ecchi (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}ecchi</td>
+						</tr>
+<th>furrynsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}furrynsfw</td>
+						</tr>
+<th>gonewild (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}gonewild</td>
+						</tr>
+<th>lewd (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}lewd</td>
+						</tr>
+<th>milf (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}milf</td>
+						</tr>
+<th>moreporn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}moreporn</td>
+						</tr>
+<th>neko (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}neko</td>
+						</tr>
+<th>nsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nsfw</td>
+						</tr>
+<th>nude (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nude</td>
+						</tr>
+<th>onoff (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}onoff</td>
+						</tr>
+<th>petite (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}petite</td>
+						</tr>
+<th>porn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porn</td>
+						</tr>
+<th>porngif (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porngif</td>
+						</tr>
+<th>public (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}public</td>
+						</tr>
+<th>pussy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}pussy</td>
+						</tr>
+<th>redheads (NSFW)</th>
+				<td>Use this command to an image off of r/redheads.</td>
+				<td>{PREFIX}redheads</td>
+						</tr>
+<th>redtube (NSFW)</th>
+				<td>Use this command to redtube something.</td>
+				<td>{PREFIX}redtube</td>
+						</tr>
+<th>rule34 (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}rule34</td>
+						</tr>
+<th>snapchat (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}snapchat</td>
+						</tr>
+<th>tattoos (NSFW)</th>
+				<td>Use this command to an image off of r/altgonewild.</td>
+				<td>{PREFIX}tattoos</td>
+						</tr>
+<th>tits (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}tits</td>
+						</tr>
+<th>uniform (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}uniform</td>
+						</tr>
+<tbody>
+						<tr>
+<th>4k (NSFW)</th>
+				<td>Gets nsfw images in 4k resolution</td>
+				<td>{PREFIX}4k</td>
+						</tr>
+<th>amateur (NSFW)</th>
+				<td>Gets nsfw images of Amate</td>
+				<td>{PREFIX}amateur</td>
+						</tr>
+<th>anal (NSFW)</th>
+				<td>Gets nsfw images of Anal</td>
+				<td>{PREFIX}anal</td>
+						</tr>
+<th>ass (NSFW)</th>
+				<td>Gets nsfw images of Ass</td>
+				<td>{PREFIX}ass</td>
+						</tr>
+<th>asshole (NSFW)</th>
+				<td>Gets nsfw images of Asshole</td>
+				<td>{PREFIX}asshole</td>
+						</tr>
+<th>bbw (NSFW)</th>
+				<td>Gets nsfw images of bbw</td>
+				<td>{PREFIX}bbw</td>
+						</tr>
+<th>bdsm (NSFW)</th>
+				<td>Gets nsfw images of bd</td>
+				<td>{PREFIX}bdsm</td>
+						</tr>
+<th>bikinis (NSFW)</th>
+				<td>Gets nsfw images of bikinis</td>
+				<td>{PREFIX}bikinis</td>
+						</tr>
+<th>blonde (NSFW)</th>
+				<td>Gets nsfw images of blonde wammen</td>
+				<td>{PREFIX}blonde</td>
+						</tr>
+<th>bottomless (NSFW)</th>
+				<td>Gets nsfw images of bottomless</td>
+				<td>{PREFIX}bottomless</td>
+						</tr>
+<th>brunette (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}brunette</td>
+						</tr>
+<th>college (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}college</td>
+						</tr>
+<th>cosplay (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}cosplay</td>
+						</tr>
+<th>curvy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}curvy</td>
+						</tr>
+<th>dick (NSFW)</th>
+				<td>Use this command to an image with a hot dick.</td>
+				<td>{PREFIX}dick</td>
+						</tr>
+<th>ecchi (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}ecchi</td>
+						</tr>
+<th>furrynsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}furrynsfw</td>
+						</tr>
+<th>gonewild (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}gonewild</td>
+						</tr>
+<th>lewd (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}lewd</td>
+						</tr>
+<th>milf (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}milf</td>
+						</tr>
+<th>moreporn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}moreporn</td>
+						</tr>
+<th>neko (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}neko</td>
+						</tr>
+<th>nsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nsfw</td>
+						</tr>
+<th>nude (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nude</td>
+						</tr>
+<th>onoff (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}onoff</td>
+						</tr>
+<th>petite (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}petite</td>
+						</tr>
+<th>porn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porn</td>
+						</tr>
+<th>porngif (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porngif</td>
+						</tr>
+<th>public (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}public</td>
+						</tr>
+<th>pussy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}pussy</td>
+						</tr>
+<th>redheads (NSFW)</th>
+				<td>Use this command to an image off of r/redheads.</td>
+				<td>{PREFIX}redheads</td>
+						</tr>
+<th>redtube (NSFW)</th>
+				<td>Use this command to redtube something.</td>
+				<td>{PREFIX}redtube</td>
+						</tr>
+<th>rule34 (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}rule34</td>
+						</tr>
+<th>snapchat (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}snapchat</td>
+						</tr>
+<th>tattoos (NSFW)</th>
+				<td>Use this command to an image off of r/altgonewild.</td>
+				<td>{PREFIX}tattoos</td>
+						</tr>
+<th>tits (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}tits</td>
+						</tr>
+<th>uniform (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}uniform</td>
+						</tr>
+<tbody>
+						<tr>
+<th>4k (NSFW)</th>
+				<td>Gets nsfw images in 4k resolution</td>
+				<td>{PREFIX}4k</td>
+						</tr>
+<th>amateur (NSFW)</th>
+				<td>Gets nsfw images of Amate</td>
+				<td>{PREFIX}amateur</td>
+						</tr>
+<th>anal (NSFW)</th>
+				<td>Gets nsfw images of Anal</td>
+				<td>{PREFIX}anal</td>
+						</tr>
+<th>ass (NSFW)</th>
+				<td>Gets nsfw images of Ass</td>
+				<td>{PREFIX}ass</td>
+						</tr>
+<th>asshole (NSFW)</th>
+				<td>Gets nsfw images of Asshole</td>
+				<td>{PREFIX}asshole</td>
+						</tr>
+<th>bbw (NSFW)</th>
+				<td>Gets nsfw images of bbw</td>
+				<td>{PREFIX}bbw</td>
+						</tr>
+<th>bdsm (NSFW)</th>
+				<td>Gets nsfw images of bd</td>
+				<td>{PREFIX}bdsm</td>
+						</tr>
+<th>bikinis (NSFW)</th>
+				<td>Gets nsfw images of bikinis</td>
+				<td>{PREFIX}bikinis</td>
+						</tr>
+<th>blonde (NSFW)</th>
+				<td>Gets nsfw images of blonde wammen</td>
+				<td>{PREFIX}blonde</td>
+						</tr>
+<th>bottomless (NSFW)</th>
+				<td>Gets nsfw images of bottomless</td>
+				<td>{PREFIX}bottomless</td>
+						</tr>
+<th>brunette (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}brunette</td>
+						</tr>
+<th>college (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}college</td>
+						</tr>
+<th>cosplay (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}cosplay</td>
+						</tr>
+<th>curvy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}curvy</td>
+						</tr>
+<th>dick (NSFW)</th>
+				<td>Use this command to an image with a hot dick.</td>
+				<td>{PREFIX}dick</td>
+						</tr>
+<th>ecchi (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}ecchi</td>
+						</tr>
+<th>furrynsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}furrynsfw</td>
+						</tr>
+<th>gonewild (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}gonewild</td>
+						</tr>
+<th>lewd (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}lewd</td>
+						</tr>
+<th>milf (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}milf</td>
+						</tr>
+<th>moreporn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}moreporn</td>
+						</tr>
+<th>neko (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}neko</td>
+						</tr>
+<th>nsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nsfw</td>
+						</tr>
+<th>nude (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nude</td>
+						</tr>
+<th>onoff (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}onoff</td>
+						</tr>
+<th>petite (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}petite</td>
+						</tr>
+<th>porn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porn</td>
+						</tr>
+<th>porngif (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porngif</td>
+						</tr>
+<th>public (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}public</td>
+						</tr>
+<th>pussy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}pussy</td>
+						</tr>
+<th>redheads (NSFW)</th>
+				<td>Use this command to an image off of r/redheads.</td>
+				<td>{PREFIX}redheads</td>
+						</tr>
+<th>redtube (NSFW)</th>
+				<td>Use this command to redtube something.</td>
+				<td>{PREFIX}redtube</td>
+						</tr>
+<th>rule34 (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}rule34</td>
+						</tr>
+<th>snapchat (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}snapchat</td>
+						</tr>
+<th>tattoos (NSFW)</th>
+				<td>Use this command to an image off of r/altgonewild.</td>
+				<td>{PREFIX}tattoos</td>
+						</tr>
+<th>tits (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}tits</td>
+						</tr>
+<th>uniform (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}uniform</td>
+						</tr>
+<tbody>
+						<tr>
+<th>4k (NSFW)</th>
+				<td>Gets nsfw images in 4k resolution</td>
+				<td>{PREFIX}4k</td>
+						</tr>
+<th>amateur (NSFW)</th>
+				<td>Gets nsfw images of Amate</td>
+				<td>{PREFIX}amateur</td>
+						</tr>
+<th>anal (NSFW)</th>
+				<td>Gets nsfw images of Anal</td>
+				<td>{PREFIX}anal</td>
+						</tr>
+<th>ass (NSFW)</th>
+				<td>Gets nsfw images of Ass</td>
+				<td>{PREFIX}ass</td>
+						</tr>
+<th>asshole (NSFW)</th>
+				<td>Gets nsfw images of Asshole</td>
+				<td>{PREFIX}asshole</td>
+						</tr>
+<th>bbw (NSFW)</th>
+				<td>Gets nsfw images of bbw</td>
+				<td>{PREFIX}bbw</td>
+						</tr>
+<th>bdsm (NSFW)</th>
+				<td>Gets nsfw images of bd</td>
+				<td>{PREFIX}bdsm</td>
+						</tr>
+<th>bikinis (NSFW)</th>
+				<td>Gets nsfw images of bikinis</td>
+				<td>{PREFIX}bikinis</td>
+						</tr>
+<th>blonde (NSFW)</th>
+				<td>Gets nsfw images of blonde wammen</td>
+				<td>{PREFIX}blonde</td>
+						</tr>
+<th>bottomless (NSFW)</th>
+				<td>Gets nsfw images of bottomless</td>
+				<td>{PREFIX}bottomless</td>
+						</tr>
+<th>brunette (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}brunette</td>
+						</tr>
+<th>college (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}college</td>
+						</tr>
+<th>cosplay (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}cosplay</td>
+						</tr>
+<th>curvy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}curvy</td>
+						</tr>
+<th>dick (NSFW)</th>
+				<td>Use this command to an image with a hot dick.</td>
+				<td>{PREFIX}dick</td>
+						</tr>
+<th>ecchi (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}ecchi</td>
+						</tr>
+<th>furrynsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}furrynsfw</td>
+						</tr>
+<th>gonewild (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}gonewild</td>
+						</tr>
+<th>lewd (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}lewd</td>
+						</tr>
+<th>milf (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}milf</td>
+						</tr>
+<th>moreporn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}moreporn</td>
+						</tr>
+<th>neko (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}neko</td>
+						</tr>
+<th>nsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nsfw</td>
+						</tr>
+<th>nude (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nude</td>
+						</tr>
+<th>onoff (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}onoff</td>
+						</tr>
+<th>petite (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}petite</td>
+						</tr>
+<th>porn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porn</td>
+						</tr>
+<th>porngif (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porngif</td>
+						</tr>
+<th>public (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}public</td>
+						</tr>
+<th>pussy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}pussy</td>
+						</tr>
+<th>redheads (NSFW)</th>
+				<td>Use this command to an image off of r/redheads.</td>
+				<td>{PREFIX}redheads</td>
+						</tr>
+<th>redtube (NSFW)</th>
+				<td>Use this command to redtube something.</td>
+				<td>{PREFIX}redtube</td>
+						</tr>
+<th>rule34 (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}rule34</td>
+						</tr>
+<th>snapchat (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}snapchat</td>
+						</tr>
+<th>tattoos (NSFW)</th>
+				<td>Use this command to an image off of r/altgonewild.</td>
+				<td>{PREFIX}tattoos</td>
+						</tr>
+<th>tits (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}tits</td>
+						</tr>
+<th>uniform (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}uniform</td>
+						</tr>
+<tbody>
+						<tr>
+<th>4k (NSFW)</th>
+				<td>Gets nsfw images in 4k resolution</td>
+				<td>{PREFIX}4k</td>
+						</tr>
+<th>amateur (NSFW)</th>
+				<td>Gets nsfw images of Amate</td>
+				<td>{PREFIX}amateur</td>
+						</tr>
+<th>anal (NSFW)</th>
+				<td>Gets nsfw images of Anal</td>
+				<td>{PREFIX}anal</td>
+						</tr>
+<th>ass (NSFW)</th>
+				<td>Gets nsfw images of Ass</td>
+				<td>{PREFIX}ass</td>
+						</tr>
+<th>asshole (NSFW)</th>
+				<td>Gets nsfw images of Asshole</td>
+				<td>{PREFIX}asshole</td>
+						</tr>
+<th>bbw (NSFW)</th>
+				<td>Gets nsfw images of bbw</td>
+				<td>{PREFIX}bbw</td>
+						</tr>
+<th>bdsm (NSFW)</th>
+				<td>Gets nsfw images of bd</td>
+				<td>{PREFIX}bdsm</td>
+						</tr>
+<th>bikinis (NSFW)</th>
+				<td>Gets nsfw images of bikinis</td>
+				<td>{PREFIX}bikinis</td>
+						</tr>
+<th>blonde (NSFW)</th>
+				<td>Gets nsfw images of blonde wammen</td>
+				<td>{PREFIX}blonde</td>
+						</tr>
+<th>bottomless (NSFW)</th>
+				<td>Gets nsfw images of bottomless</td>
+				<td>{PREFIX}bottomless</td>
+						</tr>
+<th>brunette (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}brunette</td>
+						</tr>
+<th>college (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}college</td>
+						</tr>
+<th>cosplay (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}cosplay</td>
+						</tr>
+<th>curvy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}curvy</td>
+						</tr>
+<th>dick (NSFW)</th>
+				<td>Use this command to an image with a hot dick.</td>
+				<td>{PREFIX}dick</td>
+						</tr>
+<th>ecchi (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}ecchi</td>
+						</tr>
+<th>furrynsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}furrynsfw</td>
+						</tr>
+<th>gonewild (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}gonewild</td>
+						</tr>
+<th>lewd (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}lewd</td>
+						</tr>
+<th>milf (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}milf</td>
+						</tr>
+<th>moreporn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}moreporn</td>
+						</tr>
+<th>neko (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}neko</td>
+						</tr>
+<th>nsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nsfw</td>
+						</tr>
+<th>nude (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nude</td>
+						</tr>
+<th>onoff (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}onoff</td>
+						</tr>
+<th>petite (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}petite</td>
+						</tr>
+<th>porn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porn</td>
+						</tr>
+<th>porngif (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porngif</td>
+						</tr>
+<th>public (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}public</td>
+						</tr>
+<th>pussy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}pussy</td>
+						</tr>
+<th>redheads (NSFW)</th>
+				<td>Use this command to an image off of r/redheads.</td>
+				<td>{PREFIX}redheads</td>
+						</tr>
+<th>redtube (NSFW)</th>
+				<td>Use this command to redtube something.</td>
+				<td>{PREFIX}redtube</td>
+						</tr>
+<th>rule34 (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}rule34</td>
+						</tr>
+<th>snapchat (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}snapchat</td>
+						</tr>
+<th>tattoos (NSFW)</th>
+				<td>Use this command to an image off of r/altgonewild.</td>
+				<td>{PREFIX}tattoos</td>
+						</tr>
+<th>tits (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}tits</td>
+						</tr>
+<th>uniform (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}uniform</td>
+						</tr>
+<tbody>
+						<tr>
+<th>4k (NSFW)</th>
+				<td>Gets nsfw images in 4k resolution</td>
+				<td>{PREFIX}4k</td>
+						</tr>
+<th>amateur (NSFW)</th>
+				<td>Gets nsfw images of Amate</td>
+				<td>{PREFIX}amateur</td>
+						</tr>
+<th>anal (NSFW)</th>
+				<td>Gets nsfw images of Anal</td>
+				<td>{PREFIX}anal</td>
+						</tr>
+<th>ass (NSFW)</th>
+				<td>Gets nsfw images of Ass</td>
+				<td>{PREFIX}ass</td>
+						</tr>
+<th>asshole (NSFW)</th>
+				<td>Gets nsfw images of Asshole</td>
+				<td>{PREFIX}asshole</td>
+						</tr>
+<th>bbw (NSFW)</th>
+				<td>Gets nsfw images of bbw</td>
+				<td>{PREFIX}bbw</td>
+						</tr>
+<th>bdsm (NSFW)</th>
+				<td>Gets nsfw images of bd</td>
+				<td>{PREFIX}bdsm</td>
+						</tr>
+<th>bikinis (NSFW)</th>
+				<td>Gets nsfw images of bikinis</td>
+				<td>{PREFIX}bikinis</td>
+						</tr>
+<th>blonde (NSFW)</th>
+				<td>Gets nsfw images of blonde wammen</td>
+				<td>{PREFIX}blonde</td>
+						</tr>
+<th>bottomless (NSFW)</th>
+				<td>Gets nsfw images of bottomless</td>
+				<td>{PREFIX}bottomless</td>
+						</tr>
+<th>brunette (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}brunette</td>
+						</tr>
+<th>college (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}college</td>
+						</tr>
+<th>cosplay (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}cosplay</td>
+						</tr>
+<th>curvy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}curvy</td>
+						</tr>
+<th>dick (NSFW)</th>
+				<td>Use this command to an image with a hot dick.</td>
+				<td>{PREFIX}dick</td>
+						</tr>
+<th>ecchi (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}ecchi</td>
+						</tr>
+<th>furrynsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}furrynsfw</td>
+						</tr>
+<th>gonewild (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}gonewild</td>
+						</tr>
+<th>lewd (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}lewd</td>
+						</tr>
+<th>milf (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}milf</td>
+						</tr>
+<th>moreporn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}moreporn</td>
+						</tr>
+<th>neko (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}neko</td>
+						</tr>
+<th>nsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nsfw</td>
+						</tr>
+<th>nude (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nude</td>
+						</tr>
+<th>onoff (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}onoff</td>
+						</tr>
+<th>petite (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}petite</td>
+						</tr>
+<th>porn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porn</td>
+						</tr>
+<th>porngif (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porngif</td>
+						</tr>
+<th>public (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}public</td>
+						</tr>
+<th>pussy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}pussy</td>
+						</tr>
+<th>redheads (NSFW)</th>
+				<td>Use this command to an image off of r/redheads.</td>
+				<td>{PREFIX}redheads</td>
+						</tr>
+<th>redtube (NSFW)</th>
+				<td>Use this command to redtube something.</td>
+				<td>{PREFIX}redtube</td>
+						</tr>
+<th>rule34 (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}rule34</td>
+						</tr>
+<th>snapchat (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}snapchat</td>
+						</tr>
+<th>tattoos (NSFW)</th>
+				<td>Use this command to an image off of r/altgonewild.</td>
+				<td>{PREFIX}tattoos</td>
+						</tr>
+<th>tits (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}tits</td>
+						</tr>
+<th>uniform (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}uniform</td>
+						</tr>
+<tbody>
+						<tr>
+<th>4k (NSFW)</th>
+				<td>Gets nsfw images in 4k resolution</td>
+				<td>{PREFIX}4k</td>
+						</tr>
+<th>amateur (NSFW)</th>
+				<td>Gets nsfw images of Amate</td>
+				<td>{PREFIX}amateur</td>
+						</tr>
+<th>anal (NSFW)</th>
+				<td>Gets nsfw images of Anal</td>
+				<td>{PREFIX}anal</td>
+						</tr>
+<th>ass (NSFW)</th>
+				<td>Gets nsfw images of Ass</td>
+				<td>{PREFIX}ass</td>
+						</tr>
+<th>asshole (NSFW)</th>
+				<td>Gets nsfw images of Asshole</td>
+				<td>{PREFIX}asshole</td>
+						</tr>
+<th>bbw (NSFW)</th>
+				<td>Gets nsfw images of bbw</td>
+				<td>{PREFIX}bbw</td>
+						</tr>
+<th>bdsm (NSFW)</th>
+				<td>Gets nsfw images of bd</td>
+				<td>{PREFIX}bdsm</td>
+						</tr>
+<th>bikinis (NSFW)</th>
+				<td>Gets nsfw images of bikinis</td>
+				<td>{PREFIX}bikinis</td>
+						</tr>
+<th>blonde (NSFW)</th>
+				<td>Gets nsfw images of blonde wammen</td>
+				<td>{PREFIX}blonde</td>
+						</tr>
+<th>bottomless (NSFW)</th>
+				<td>Gets nsfw images of bottomless</td>
+				<td>{PREFIX}bottomless</td>
+						</tr>
+<th>brunette (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}brunette</td>
+						</tr>
+<th>college (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}college</td>
+						</tr>
+<th>cosplay (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}cosplay</td>
+						</tr>
+<th>curvy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}curvy</td>
+						</tr>
+<th>dick (NSFW)</th>
+				<td>Use this command to an image with a hot dick.</td>
+				<td>{PREFIX}dick</td>
+						</tr>
+<th>ecchi (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}ecchi</td>
+						</tr>
+<th>furrynsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}furrynsfw</td>
+						</tr>
+<th>gonewild (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}gonewild</td>
+						</tr>
+<th>lewd (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}lewd</td>
+						</tr>
+<th>milf (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}milf</td>
+						</tr>
+<th>moreporn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}moreporn</td>
+						</tr>
+<th>neko (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}neko</td>
+						</tr>
+<th>nsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nsfw</td>
+						</tr>
+<th>nude (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nude</td>
+						</tr>
+<th>onoff (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}onoff</td>
+						</tr>
+<th>petite (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}petite</td>
+						</tr>
+<th>porn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porn</td>
+						</tr>
+<th>porngif (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porngif</td>
+						</tr>
+<th>public (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}public</td>
+						</tr>
+<th>pussy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}pussy</td>
+						</tr>
+<th>redheads (NSFW)</th>
+				<td>Use this command to an image off of r/redheads.</td>
+				<td>{PREFIX}redheads</td>
+						</tr>
+<th>redtube (NSFW)</th>
+				<td>Use this command to redtube something.</td>
+				<td>{PREFIX}redtube</td>
+						</tr>
+<th>rule34 (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}rule34</td>
+						</tr>
+<th>snapchat (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}snapchat</td>
+						</tr>
+<th>tattoos (NSFW)</th>
+				<td>Use this command to an image off of r/altgonewild.</td>
+				<td>{PREFIX}tattoos</td>
+						</tr>
+<th>tits (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}tits</td>
+						</tr>
+<th>uniform (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}uniform</td>
+						</tr>
+<tbody>
+						<tr>
+<th>4k (NSFW)</th>
+				<td>Gets nsfw images in 4k resolution</td>
+				<td>{PREFIX}4k</td>
+						</tr>
+<th>amateur (NSFW)</th>
+				<td>Gets nsfw images of Amate</td>
+				<td>{PREFIX}amateur</td>
+						</tr>
+<th>anal (NSFW)</th>
+				<td>Gets nsfw images of Anal</td>
+				<td>{PREFIX}anal</td>
+						</tr>
+<th>ass (NSFW)</th>
+				<td>Gets nsfw images of Ass</td>
+				<td>{PREFIX}ass</td>
+						</tr>
+<th>asshole (NSFW)</th>
+				<td>Gets nsfw images of Asshole</td>
+				<td>{PREFIX}asshole</td>
+						</tr>
+<th>bbw (NSFW)</th>
+				<td>Gets nsfw images of bbw</td>
+				<td>{PREFIX}bbw</td>
+						</tr>
+<th>bdsm (NSFW)</th>
+				<td>Gets nsfw images of bd</td>
+				<td>{PREFIX}bdsm</td>
+						</tr>
+<th>bikinis (NSFW)</th>
+				<td>Gets nsfw images of bikinis</td>
+				<td>{PREFIX}bikinis</td>
+						</tr>
+<th>blonde (NSFW)</th>
+				<td>Gets nsfw images of blonde wammen</td>
+				<td>{PREFIX}blonde</td>
+						</tr>
+<th>bottomless (NSFW)</th>
+				<td>Gets nsfw images of bottomless</td>
+				<td>{PREFIX}bottomless</td>
+						</tr>
+<th>brunette (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}brunette</td>
+						</tr>
+<th>college (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}college</td>
+						</tr>
+<th>cosplay (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}cosplay</td>
+						</tr>
+<th>curvy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}curvy</td>
+						</tr>
+<th>dick (NSFW)</th>
+				<td>Use this command to an image with a hot dick.</td>
+				<td>{PREFIX}dick</td>
+						</tr>
+<th>ecchi (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}ecchi</td>
+						</tr>
+<th>furrynsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}furrynsfw</td>
+						</tr>
+<th>gonewild (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}gonewild</td>
+						</tr>
+<th>lewd (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}lewd</td>
+						</tr>
+<th>milf (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}milf</td>
+						</tr>
+<th>moreporn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}moreporn</td>
+						</tr>
+<th>neko (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}neko</td>
+						</tr>
+<th>nsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nsfw</td>
+						</tr>
+<th>nude (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nude</td>
+						</tr>
+<th>onoff (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}onoff</td>
+						</tr>
+<th>petite (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}petite</td>
+						</tr>
+<th>porn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porn</td>
+						</tr>
+<th>porngif (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porngif</td>
+						</tr>
+<th>public (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}public</td>
+						</tr>
+<th>pussy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}pussy</td>
+						</tr>
+<th>redheads (NSFW)</th>
+				<td>Use this command to an image off of r/redheads.</td>
+				<td>{PREFIX}redheads</td>
+						</tr>
+<th>redtube (NSFW)</th>
+				<td>Use this command to redtube something.</td>
+				<td>{PREFIX}redtube</td>
+						</tr>
+<th>rule34 (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}rule34</td>
+						</tr>
+<th>snapchat (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}snapchat</td>
+						</tr>
+<th>tattoos (NSFW)</th>
+				<td>Use this command to an image off of r/altgonewild.</td>
+				<td>{PREFIX}tattoos</td>
+						</tr>
+<th>tits (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}tits</td>
+						</tr>
+<th>uniform (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}uniform</td>
+						</tr>
+<tbody>
+						<tr>
+<th>4k (NSFW)</th>
+				<td>Gets nsfw images in 4k resolution</td>
+				<td>{PREFIX}4k</td>
+						</tr>
+<th>amateur (NSFW)</th>
+				<td>Gets nsfw images of Amate</td>
+				<td>{PREFIX}amateur</td>
+						</tr>
+<th>anal (NSFW)</th>
+				<td>Gets nsfw images of Anal</td>
+				<td>{PREFIX}anal</td>
+						</tr>
+<th>ass (NSFW)</th>
+				<td>Gets nsfw images of Ass</td>
+				<td>{PREFIX}ass</td>
+						</tr>
+<th>asshole (NSFW)</th>
+				<td>Gets nsfw images of Asshole</td>
+				<td>{PREFIX}asshole</td>
+						</tr>
+<th>bbw (NSFW)</th>
+				<td>Gets nsfw images of bbw</td>
+				<td>{PREFIX}bbw</td>
+						</tr>
+<th>bdsm (NSFW)</th>
+				<td>Gets nsfw images of bd</td>
+				<td>{PREFIX}bdsm</td>
+						</tr>
+<th>bikinis (NSFW)</th>
+				<td>Gets nsfw images of bikinis</td>
+				<td>{PREFIX}bikinis</td>
+						</tr>
+<th>blonde (NSFW)</th>
+				<td>Gets nsfw images of blonde wammen</td>
+				<td>{PREFIX}blonde</td>
+						</tr>
+<th>bottomless (NSFW)</th>
+				<td>Gets nsfw images of bottomless</td>
+				<td>{PREFIX}bottomless</td>
+						</tr>
+<th>brunette (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}brunette</td>
+						</tr>
+<th>college (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}college</td>
+						</tr>
+<th>cosplay (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}cosplay</td>
+						</tr>
+<th>curvy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}curvy</td>
+						</tr>
+<th>dick (NSFW)</th>
+				<td>Use this command to an image with a hot dick.</td>
+				<td>{PREFIX}dick</td>
+						</tr>
+<th>ecchi (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}ecchi</td>
+						</tr>
+<th>furrynsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}furrynsfw</td>
+						</tr>
+<th>gonewild (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}gonewild</td>
+						</tr>
+<th>lewd (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}lewd</td>
+						</tr>
+<th>milf (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}milf</td>
+						</tr>
+<th>moreporn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}moreporn</td>
+						</tr>
+<th>neko (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}neko</td>
+						</tr>
+<th>nsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nsfw</td>
+						</tr>
+<th>nude (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nude</td>
+						</tr>
+<th>onoff (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}onoff</td>
+						</tr>
+<th>petite (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}petite</td>
+						</tr>
+<th>porn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porn</td>
+						</tr>
+<th>porngif (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porngif</td>
+						</tr>
+<th>public (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}public</td>
+						</tr>
+<th>pussy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}pussy</td>
+						</tr>
+<th>redheads (NSFW)</th>
+				<td>Use this command to an image off of r/redheads.</td>
+				<td>{PREFIX}redheads</td>
+						</tr>
+<th>redtube (NSFW)</th>
+				<td>Use this command to redtube something.</td>
+				<td>{PREFIX}redtube</td>
+						</tr>
+<th>rule34 (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}rule34</td>
+						</tr>
+<th>snapchat (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}snapchat</td>
+						</tr>
+<th>tattoos (NSFW)</th>
+				<td>Use this command to an image off of r/altgonewild.</td>
+				<td>{PREFIX}tattoos</td>
+						</tr>
+<th>tits (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}tits</td>
+						</tr>
+<th>uniform (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}uniform</td>
+						</tr>
+<tbody>
+						<tr>
+<th>4k (NSFW)</th>
+				<td>Gets nsfw images in 4k resolution</td>
+				<td>{PREFIX}4k</td>
+						</tr>
+<th>amateur (NSFW)</th>
+				<td>Gets nsfw images of Amate</td>
+				<td>{PREFIX}amateur</td>
+						</tr>
+<th>anal (NSFW)</th>
+				<td>Gets nsfw images of Anal</td>
+				<td>{PREFIX}anal</td>
+						</tr>
+<th>ass (NSFW)</th>
+				<td>Gets nsfw images of Ass</td>
+				<td>{PREFIX}ass</td>
+						</tr>
+<th>asshole (NSFW)</th>
+				<td>Gets nsfw images of Asshole</td>
+				<td>{PREFIX}asshole</td>
+						</tr>
+<th>bbw (NSFW)</th>
+				<td>Gets nsfw images of bbw</td>
+				<td>{PREFIX}bbw</td>
+						</tr>
+<th>bdsm (NSFW)</th>
+				<td>Gets nsfw images of bd</td>
+				<td>{PREFIX}bdsm</td>
+						</tr>
+<th>bikinis (NSFW)</th>
+				<td>Gets nsfw images of bikinis</td>
+				<td>{PREFIX}bikinis</td>
+						</tr>
+<th>blonde (NSFW)</th>
+				<td>Gets nsfw images of blonde wammen</td>
+				<td>{PREFIX}blonde</td>
+						</tr>
+<th>bottomless (NSFW)</th>
+				<td>Gets nsfw images of bottomless</td>
+				<td>{PREFIX}bottomless</td>
+						</tr>
+<th>brunette (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}brunette</td>
+						</tr>
+<th>college (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}college</td>
+						</tr>
+<th>cosplay (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}cosplay</td>
+						</tr>
+<th>curvy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}curvy</td>
+						</tr>
+<th>dick (NSFW)</th>
+				<td>Use this command to an image with a hot dick.</td>
+				<td>{PREFIX}dick</td>
+						</tr>
+<th>ecchi (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}ecchi</td>
+						</tr>
+<th>furrynsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}furrynsfw</td>
+						</tr>
+<th>gonewild (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}gonewild</td>
+						</tr>
+<th>lewd (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}lewd</td>
+						</tr>
+<th>milf (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}milf</td>
+						</tr>
+<th>moreporn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}moreporn</td>
+						</tr>
+<th>neko (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}neko</td>
+						</tr>
+<th>nsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nsfw</td>
+						</tr>
+<th>nude (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}nude</td>
+						</tr>
+<th>onoff (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}onoff</td>
+						</tr>
+<th>petite (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}petite</td>
+						</tr>
+<th>porn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porn</td>
+						</tr>
+<th>porngif (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}porngif</td>
+						</tr>
+<th>public (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}public</td>
+						</tr>
+<th>pussy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}pussy</td>
+						</tr>
+<th>redheads (NSFW)</th>
+				<td>Use this command to an image off of r/redheads.</td>
+				<td>{PREFIX}redheads</td>
+						</tr>
+<th>redtube (NSFW)</th>
+				<td>Use this command to redtube something.</td>
+				<td>{PREFIX}redtube</td>
+						</tr>
+<th>rule34 (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}rule34</td>
+						</tr>
+<th>snapchat (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}snapchat</td>
+						</tr>
+<th>tattoos (NSFW)</th>
+				<td>Use this command to an image off of r/altgonewild.</td>
+				<td>{PREFIX}tattoos</td>
+						</tr>
+<th>tits (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}tits</td>
+						</tr>
+<th>uniform (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>{PREFIX}uniform</td>
+						</tr>
