@@ -1,62 +1,74 @@
 <tbody>
 						<tr>
-<th>loop</th>
+
+				<th>loop</th>
 				<td>Loops your playlist</td>
-				<td>{PREFIX}loop</td>
+				<td>f;loop</td>
 						</tr>
 						
-<th>np</th>
+
+				<th>np</th>
 				<td>Checks what is currently playing</td>
-				<td>{PREFIX}np</td>
+				<td>f;np</td>
 						</tr>
 						
-<th>pause</th>
+
+				<th>pause</th>
 				<td>Pauses the currently track</td>
-				<td>{PREFIX}pause</td>
+				<td>f;pause</td>
 						</tr>
 						
-<th>play</th>
+
+				<th>play</th>
 				<td>Play music.</td>
-				<td>{PREFIX}play <song></td>
+				<td>f;play <song></td>
 						</tr>
 						
-<th>queue</th>
+
+				<th>queue</th>
 				<td>View your Queue</td>
-				<td>{PREFIX}queue</td>
+				<td>f;queue</td>
 						</tr>
 						
-<th>remove</th>
+
+				<th>remove</th>
 				<td>View your Queue</td>
-				<td>{PREFIX}remove <queue number></td>
+				<td>f;remove <queue number></td>
 						</tr>
 						
-<th>resume</th>
+
+				<th>resume</th>
 				<td>Resume the currently track</td>
-				<td>{PREFIX}resume</td>
+				<td>f;resume</td>
 						</tr>
 						
-<th>shuffle</th>
+
+				<th>shuffle</th>
 				<td>View your Queue</td>
-				<td>{PREFIX}shuffle</td>
+				<td>f;shuffle</td>
 						</tr>
 						
-<th>skip</th>
+
+				<th>skip</th>
 				<td>Skips the current track</td>
-				<td>{PREFIX}skip</td>
+				<td>f;skip</td>
 						</tr>
 						
-<th>skipto</th>
+
+				<th>skipto</th>
 				<td>View your Queue</td>
-				<td>{PREFIX}skipto <skipto></td>
+				<td>f;skipto <skipto></td>
 						</tr>
 						
-<th>stop</th>
+
+				<th>stop</th>
 				<td>Stops playing the current track.</td>
-				<td>{PREFIX}stop</td>
+				<td>f;stop</td>
 						</tr>
 						
-<th>volume</th>
+
+				<th>volume</th>
 				<td>Change the current volume of the music</td>
-				<td>{PREFIX}volume <number></td>
+				<td>f;volume <number></td>
 						</tr>
 						</tbody>
