@@ -1,32 +1,38 @@
 <tbody>
 						<tr>
-<th>command</th>
+
+				<th>command</th>
 				<td>Custom Commands</td>
-				<td>{PREFIX}command command remove|edit|add [command]</td>
+				<td>f;command remove|edit|add [command]</td>
 						</tr>
 						
-<th>disable</th>
+
+				<th>disable</th>
 				<td>Configuration For server</td>
-				<td>{PREFIX}disable</td>
+				<td>f;disable</td>
 						</tr>
 						
-<th>enable</th>
+
+				<th>enable</th>
 				<td>Configuration For server</td>
-				<td>{PREFIX}enable</td>
+				<td>f;enable</td>
 						</tr>
 						
-<th>prefix</th>
+
+				<th>prefix</th>
 				<td>Change prefix of a guild</td>
-				<td>{PREFIX}prefix <new prefix></td>
+				<td>f;prefix <new prefix></td>
 						</tr>
 						
-<th>settings</th>
+
+				<th>settings</th>
 				<td>View your server configuration</td>
-				<td>{PREFIX}settings</td>
+				<td>f;settings</td>
 						</tr>
 						
-<th>youtubers</th>
+
+				<th>youtubers</th>
 				<td>Adds youtubers notification to your server</td>
-				<td>{PREFIX}youtubers</td>
+				<td>f;youtubers</td>
 						</tr>
 						</tbody>
