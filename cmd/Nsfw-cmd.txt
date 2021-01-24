@@ -1,187 +1,224 @@
 <tbody>
 						<tr>
-<th>4k (NSFW)</th>
+
+				<th>4k (NSFW)</th>
 				<td>Gets nsfw images in 4k resolution</td>
-				<td>{PREFIX}4k</td>
+				<td>f;4k</td>
 						</tr>
 						
-<th>amateur (NSFW)</th>
+
+				<th>amateur (NSFW)</th>
 				<td>Gets nsfw images of Amate</td>
-				<td>{PREFIX}amateur</td>
+				<td>f;amateur</td>
 						</tr>
 						
-<th>anal (NSFW)</th>
+
+				<th>anal (NSFW)</th>
 				<td>Gets nsfw images of Anal</td>
-				<td>{PREFIX}anal</td>
+				<td>f;anal</td>
 						</tr>
 						
-<th>ass (NSFW)</th>
+
+				<th>ass (NSFW)</th>
 				<td>Gets nsfw images of Ass</td>
-				<td>{PREFIX}ass</td>
+				<td>f;ass</td>
 						</tr>
 						
-<th>asshole (NSFW)</th>
+
+				<th>asshole (NSFW)</th>
 				<td>Gets nsfw images of Asshole</td>
-				<td>{PREFIX}asshole</td>
+				<td>f;asshole</td>
 						</tr>
 						
-<th>bbw (NSFW)</th>
+
+				<th>bbw (NSFW)</th>
 				<td>Gets nsfw images of bbw</td>
-				<td>{PREFIX}bbw</td>
+				<td>f;bbw</td>
 						</tr>
 						
-<th>bdsm (NSFW)</th>
+
+				<th>bdsm (NSFW)</th>
 				<td>Gets nsfw images of bd</td>
-				<td>{PREFIX}bdsm</td>
+				<td>f;bdsm</td>
 						</tr>
 						
-<th>bikinis (NSFW)</th>
+
+				<th>bikinis (NSFW)</th>
 				<td>Gets nsfw images of bikinis</td>
-				<td>{PREFIX}bikinis</td>
+				<td>f;bikinis</td>
 						</tr>
 						
-<th>blonde (NSFW)</th>
+
+				<th>blonde (NSFW)</th>
 				<td>Gets nsfw images of blonde wammen</td>
-				<td>{PREFIX}blonde</td>
+				<td>f;blonde</td>
 						</tr>
 						
-<th>bottomless (NSFW)</th>
+
+				<th>bottomless (NSFW)</th>
 				<td>Gets nsfw images of bottomless</td>
-				<td>{PREFIX}bottomless</td>
+				<td>f;bottomless</td>
 						</tr>
 						
-<th>brunette (NSFW)</th>
+
+				<th>brunette (NSFW)</th>
 				<td>Use this command to an image with a hot mom.</td>
-				<td>{PREFIX}brunette</td>
+				<td>f;brunette</td>
 						</tr>
 						
-<th>college (NSFW)</th>
+
+				<th>college (NSFW)</th>
 				<td>Use this command to an image with a hot mom.</td>
-				<td>{PREFIX}college</td>
+				<td>f;college</td>
 						</tr>
 						
-<th>cosplay (NSFW)</th>
+
+				<th>cosplay (NSFW)</th>
 				<td>Use this command to an image with a hot mom.</td>
-				<td>{PREFIX}cosplay</td>
+				<td>f;cosplay</td>
 						</tr>
 						
-<th>curvy (NSFW)</th>
+
+				<th>curvy (NSFW)</th>
 				<td>Use this command to an image with a hot mom.</td>
-				<td>{PREFIX}curvy</td>
+				<td>f;curvy</td>
 						</tr>
 						
-<th>dick (NSFW)</th>
+
+				<th>dick (NSFW)</th>
 				<td>Use this command to an image with a hot dick.</td>
-				<td>{PREFIX}dick</td>
+				<td>f;dick</td>
 						</tr>
 						
-<th>ecchi (NSFW)</th>
+
+				<th>ecchi (NSFW)</th>
 				<td>Use this command to an image with a hot mom.</td>
-				<td>{PREFIX}ecchi</td>
+				<td>f;ecchi</td>
 						</tr>
 						
-<th>furrynsfw (NSFW)</th>
+
+				<th>furrynsfw (NSFW)</th>
 				<td>Use this command to an image with a hot mom.</td>
-				<td>{PREFIX}furrynsfw</td>
+				<td>f;furrynsfw</td>
 						</tr>
 						
-<th>gonewild (NSFW)</th>
+
+				<th>gonewild (NSFW)</th>
 				<td>Use this command to an image with a hot mom.</td>
-				<td>{PREFIX}gonewild</td>
+				<td>f;gonewild</td>
 						</tr>
 						
-<th>lewd (NSFW)</th>
+
+				<th>lewd (NSFW)</th>
 				<td>Use this command to an image with a hot mom.</td>
-				<td>{PREFIX}lewd</td>
+				<td>f;lewd</td>
 						</tr>
 						
-<th>milf (NSFW)</th>
+
+				<th>milf (NSFW)</th>
 				<td>Use this command to an image with a hot mom.</td>
-				<td>{PREFIX}milf</td>
+				<td>f;milf</td>
 						</tr>
 						
-<th>moreporn (NSFW)</th>
+
+				<th>moreporn (NSFW)</th>
 				<td>Use this command to an image with a hot mom.</td>
-				<td>{PREFIX}moreporn</td>
+				<td>f;moreporn</td>
 						</tr>
 						
-<th>neko (NSFW)</th>
+
+				<th>neko (NSFW)</th>
 				<td>Use this command to an image with a hot mom.</td>
-				<td>{PREFIX}neko</td>
+				<td>f;neko</td>
 						</tr>
 						
-<th>nsfw (NSFW)</th>
+
+				<th>nsfw (NSFW)</th>
 				<td>Use this command to an image with a hot mom.</td>
-				<td>{PREFIX}nsfw</td>
+				<td>f;nsfw</td>
 						</tr>
 						
-<th>nude (NSFW)</th>
+
+				<th>nude (NSFW)</th>
 				<td>Use this command to an image with a hot mom.</td>
-				<td>{PREFIX}nude</td>
+				<td>f;nude</td>
 						</tr>
 						
-<th>onoff (NSFW)</th>
+
+				<th>onoff (NSFW)</th>
 				<td>Use this command to an image with a hot mom.</td>
-				<td>{PREFIX}onoff</td>
+				<td>f;onoff</td>
 						</tr>
 						
-<th>petite (NSFW)</th>
+
+				<th>petite (NSFW)</th>
 				<td>Use this command to an image with a hot mom.</td>
-				<td>{PREFIX}petite</td>
+				<td>f;petite</td>
 						</tr>
 						
-<th>porn (NSFW)</th>
+
+				<th>porn (NSFW)</th>
 				<td>Use this command to an image with a hot mom.</td>
-				<td>{PREFIX}porn</td>
+				<td>f;porn</td>
 						</tr>
 						
-<th>porngif (NSFW)</th>
+
+				<th>porngif (NSFW)</th>
 				<td>Use this command to an image with a hot mom.</td>
-				<td>{PREFIX}porngif</td>
+				<td>f;porngif</td>
 						</tr>
 						
-<th>public (NSFW)</th>
+
+				<th>public (NSFW)</th>
 				<td>Use this command to an image with a hot mom.</td>
-				<td>{PREFIX}public</td>
+				<td>f;public</td>
 						</tr>
 						
-<th>pussy (NSFW)</th>
+
+				<th>pussy (NSFW)</th>
 				<td>Use this command to an image with a hot mom.</td>
-				<td>{PREFIX}pussy</td>
+				<td>f;pussy</td>
 						</tr>
 						
-<th>redheads (NSFW)</th>
+
+				<th>redheads (NSFW)</th>
 				<td>Use this command to an image off of r/redheads.</td>
-				<td>{PREFIX}redheads</td>
+				<td>f;redheads</td>
 						</tr>
 						
-<th>redtube (NSFW)</th>
+
+				<th>redtube (NSFW)</th>
 				<td>Use this command to redtube something.</td>
-				<td>{PREFIX}redtube</td>
+				<td>f;redtube</td>
 						</tr>
 						
-<th>rule34 (NSFW)</th>
+
+				<th>rule34 (NSFW)</th>
 				<td>Use this command to an image with a hot mom.</td>
-				<td>{PREFIX}rule34</td>
+				<td>f;rule34</td>
 						</tr>
 						
-<th>snapchat (NSFW)</th>
+
+				<th>snapchat (NSFW)</th>
 				<td>Use this command to an image with a hot mom.</td>
-				<td>{PREFIX}snapchat</td>
+				<td>f;snapchat</td>
 						</tr>
 						
-<th>tattoos (NSFW)</th>
+
+				<th>tattoos (NSFW)</th>
 				<td>Use this command to an image off of r/altgonewild.</td>
-				<td>{PREFIX}tattoos</td>
+				<td>f;tattoos</td>
 						</tr>
 						
-<th>tits (NSFW)</th>
+
+				<th>tits (NSFW)</th>
 				<td>Use this command to an image with a hot mom.</td>
-				<td>{PREFIX}tits</td>
+				<td>f;tits</td>
 						</tr>
 						
-<th>uniform (NSFW)</th>
+
+				<th>uniform (NSFW)</th>
 				<td>Use this command to an image with a hot mom.</td>
-				<td>{PREFIX}uniform</td>
+				<td>f;uniform</td>
 						</tr>
 						</tbody>
