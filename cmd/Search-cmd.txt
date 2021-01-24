@@ -1,72 +1,86 @@
 <tbody>
 						<tr>
-<th>fortnite</th>
+
+				<th>fortnite</th>
 				<td>Get info of your Fortnite Stats</td>
-				<td>{PREFIX}fortnite <username></td>
+				<td>f;fortnite <username></td>
 						</tr>
 						
-<th>googleplay</th>
+
+				<th>googleplay</th>
 				<td>Get Info from google play apps</td>
-				<td>{PREFIX}googleplay <app></td>
+				<td>f;googleplay <app></td>
 						</tr>
 						
-<th>hypixel</th>
+
+				<th>hypixel</th>
 				<td>Displays your hypixel stats</td>
-				<td>{PREFIX}hypixel <username></td>
+				<td>f;hypixel <username></td>
 						</tr>
 						
-<th>imdb</th>
+
+				<th>imdb</th>
 				<td>Get info about series and movies from imdb</td>
-				<td>{PREFIX}imdb <movie></td>
+				<td>f;imdb <movie></td>
 						</tr>
 						
-<th>lyrics</th>
+
+				<th>lyrics</th>
 				<td>Search Lyrics of songs</td>
-				<td>{PREFIX}lyrics <song>, [cancer]</td>
+				<td>f;lyrics <song>, [cancer]</td>
 						</tr>
 						
-<th>ng</th>
+
+				<th>ng</th>
 				<td>Search up your nethergames stats</td>
-				<td>{PREFIX}ng <username></td>
+				<td>f;ng <username></td>
 						</tr>
 						
-<th>osu</th>
+
+				<th>osu</th>
 				<td>Search Osu profile</td>
-				<td>{PREFIX}osu <user></td>
+				<td>f;osu <user></td>
 						</tr>
 						
-<th>query</th>
+
+				<th>query</th>
 				<td>Displays your minecraft server info only bedrock editon </td>
-				<td>{PREFIX}query <ip> [port]</td>
+				<td>f;query <ip> [port]</td>
 						</tr>
 						
-<th>recent</th>
+
+				<th>recent</th>
 				<td>Search recent players games</td>
-				<td>{PREFIX}recent <user></td>
+				<td>f;recent <user></td>
 						</tr>
 						
-<th>roblox</th>
+
+				<th>roblox</th>
 				<td>Search up your roblox profile</td>
-				<td>{PREFIX}roblox <username></td>
+				<td>f;roblox <username></td>
 						</tr>
 						
-<th>skyblock</th>
+
+				<th>skyblock</th>
 				<td>Search up your skyblock(hypixel) stats</td>
-				<td>{PREFIX}skyblock <username></td>
+				<td>f;skyblock <username></td>
 						</tr>
 						
-<th>translate</th>
+
+				<th>translate</th>
 				<td>Translate Stuff for u</td>
-				<td>{PREFIX}translate <your words></td>
+				<td>f;translate <your words></td>
 						</tr>
 						
-<th>urban</th>
+
+				<th>urban</th>
 				<td>Searches up Urban Dictionary</td>
-				<td>{PREFIX}urban <your search></td>
+				<td>f;urban <your search></td>
 						</tr>
 						
-<th>wiki</th>
+
+				<th>wiki</th>
 				<td>Search Stuff on the wikipedia</td>
-				<td>{PREFIX}wiki <term></td>
+				<td>f;wiki <term></td>
 						</tr>
 						</tbody>
