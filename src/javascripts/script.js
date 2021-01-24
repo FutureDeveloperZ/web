@@ -19,7 +19,6 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
 
-
 $('a[href*="#"]')
   .not('[href="#"]')
   .not('[href="#0"]')

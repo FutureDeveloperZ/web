@@ -1,16 +1,22 @@
-# ★ Obama Bot Website
+<!--- TITLE --->
+# ★ Obama
+> Official Website for Obama
 
-<img align="right" src="https://images-ext-1.discordapp.net/external/ot0MSM01GVrxBNY25Qy26kVM_lx79aYMwEo4wB3TgVA/%3Fsize%3D256/https/cdn.discordapp.com/avatars/444463875908304901/9a9a51f86e0562fafda973f8693036d5.webp" width=30%>
+<!--- IMAGE --->
+<img src="https://images-ext-1.discordapp.net/external/YLcyf_Z2kZqAjhsxyvu8oT0VvsVFBFxG4FkP8wzNX5k/https/cdn.discordapp.com/avatars/444463875908304901/c80877e5cfcce9c4b3884ee24c95fa25.webp" width=30% align="right">
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-<img src="https://bulma.io/images/made-with-bulma.png" width=96 height=20>
+<!--- KEY INFORMATION --->
+## ⇁ Information
 
-## ー Information
+   * Official Website for Obama
+   * Maintained by [@LichKing112](https://github.com/LichKing112)
 
-* Official Source Code for Obama Bot Website
-* Made and possibly maintained by [@LichKing112](https://github.com/LichKing112)
+<!--- LICENSE --->
+## ⇁ License
 
-## ー License
+   * This project is licensed under the [GPL-3.0 license.](LICENSE)
 
-This project is licensed under the [MIT license](https://github.com/FutureDeveloperZ/ObamaBot-Website/blob/master/LICENSE)
+<!--- SUPPORT --->
+## ⇁ Support
 
+   * Having troubles setting up the site? Join our Discord server [here.](https://discord.gg/ZU8zFx8)
