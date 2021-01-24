@@ -106,6 +106,10 @@ hr {
         letter-spacing: 1px;
         transition: all .3s ease-in-out;
     }
+
+    a {
+        color: inherit;
+    }
 }
 
 // Nav
@@ -238,7 +242,16 @@ hr {
     display: none;
     padding: 6px 12px;
     border: 1px solid #90CE81;
-    border-top: none;
+}
+
+.table {
+    font-family: 'Heebo', sans-serif;
+    background-color: #f1f1f1;
+    border: 1px solid #90CE81;
+
+    tr, th, td {
+        background-color: #f2f2f2;
+    }
 }
 
 .object {

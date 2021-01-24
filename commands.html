@@ -21,6 +21,8 @@
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.4/dist/css/bulma-carousel.min.css">
         <link rel="stylesheet" type="text/css" href="src/stylesheets/style.css">
         <script src="https://discordbotlist.com/widget/index.js" async></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
     </head>
     <body>
 
@@ -52,7 +54,21 @@
                     </div>
                 </nav>
             </div>
-            <div class="hero-body commands has-text-centered">
+            <div class="hero-body commands">
+                <header class="header">
+                    <div class="header-textarea">
+                        <h4 class="subtitle">
+                            Need help with a command? Ask for help on our <span class="highlight"><a href="support-server.html">Discord</a></span>!
+                        </h4>
+                        <h3 class="title">
+                            View <span class="highlight">Obama's command list </span> by clicking on a category!
+                        </h3>
+                        <h5 class="subtitle">
+                            Kindly report for <span class="highlight">typos or missing commands</span> in our <span class="highlight"><a href="support-server.html">Discord</a></span> too! :3
+                        </h5>
+                    </div>
+                </header>
+                <br>
                 <div class="tab">
                     <button class="tablinks" onclick="openCity(event, 'Anime')">Anime</button>
                     <button class="tablinks" onclick="openCity(event, 'Automation')">Automation</button>
@@ -72,8 +88,162 @@
                     <button class="tablinks" onclick="openCity(event, 'Settings')">Settings</button>
                 </div>
 
-                <div id="Anime" class="tabcontent">
-                    <table class="table is-fullwidth is-scrollable is-narrow is-hoverable">
+                <script>
+                    axios.get('/cmd/Anime-cmd.txt')
+                    .then(function (response) {
+                        $(".table-anime").append(response.data)
+                    })
+                    .catch(function (error) {
+                        console.log(error);
+                    })
+                    .then(function () {
+                    });
+
+                    axios.get('/cmd/Automation-cmd.txt')
+                    .then(function (response) {
+                        $(".table-automation").append(response.data)
+                    })
+                    .catch(function (error) {
+                        console.log(error);
+                    })
+                    .then(function () {
+                    });
+
+                    axios.get('/cmd/Images-cmd.txt')
+                    .then(function (response) {
+                        $(".table-images").append(response.data)
+                    })
+                    .catch(function (error) {
+                        console.log(error);
+                    }) 
+                    .then(function () {
+                    });
+
+                    axios.get('/cmd/Utilities-cmd.txt')
+                    .then(function (response) {
+                        $(".table-utilities").append(response.data)
+                    })
+                    .catch(function (error) {
+                        console.log(error);
+                    }) 
+                    .then(function () {
+                    });
+
+                    axios.get('/cmd/Memes-cmd.txt')
+                    .then(function (response) {
+                        $(".table-memes").append(response.data)
+                    })
+                    .catch(function (error) {
+                        console.log(error);
+                    }) 
+                    .then(function () {
+                    });
+
+                    axios.get('/cmd/Moderation-cmd.txt')
+                    .then(function (response) {
+                        $(".table-moderation").append(response.data)
+                    })
+                    .catch(function (error) {
+                        console.log(error);
+                    }) 
+                    .then(function () {
+                    });
+
+                    axios.get('/cmd/Music-cmd.txt')
+                    .then(function (response) {
+                        $(".table-music").append(response.data)
+                    })
+                    .catch(function (error) {
+                        console.log(error);
+                    }) 
+                    .then(function () {
+                    });
+
+                    axios.get('/cmd/roleplay-cmd.txt')
+                    .then(function (response) {
+                        $(".table-roleplay").append(response.data)
+                    })
+                    .catch(function (error) {
+                        console.log(error);
+                    }) 
+                    .then(function () {
+                    });
+
+                    axios.get('/cmd/Search-cmd.txt')
+                    .then(function (response) {
+                        $(".table-search").append(response.data)
+                    })
+                    .catch(function (error) {
+                        console.log(error);
+                    }) 
+                    .then(function () {
+                    });
+
+                    axios.get('/cmd/Fun-cmd.txt')
+                    .then(function (response) {
+                        $(".table-fun").append(response.data)
+                    })
+                    .catch(function (error) {
+                        console.log(error);
+                    }) 
+                    .then(function () {
+                    });
+
+                    axios.get('/cmd/XP-cmd.txt')
+                    .then(function (response) {
+                        $(".table-xp").append(response.data)
+                    })
+                    .catch(function (error) {
+                        console.log(error);
+                    }) 
+                    .then(function () {
+                    });
+
+                    axios.get('/cmd/Economy-cmd.txt')
+                    .then(function (response) {
+                        $(".table-economy").append(response.data)
+                    })
+                    .catch(function (error) {
+                        console.log(error);
+                    }) 
+                    .then(function () {
+                    });
+
+                    axios.get('/cmd/Games-cmd.txt')
+                    .then(function (response) {
+                        $(".table-games").append(response.data)
+                    })
+                    .catch(function (error) {
+                        console.log(error);
+                    }) 
+                    .then(function () {
+                    });
+
+                    axios.get('/cmd/Nsfw-cmd.txt')
+                    .then(function (response) {
+                        $(".table-nsfw").append(response.data)
+                    })
+                    .catch(function (error) {
+                        console.log(error);
+                    }) 
+                    .then(function () {
+                    });
+
+                    axios.get('/cmd/settings-cmd.txt')
+                    .then(function (response) {
+                        $(".table-settings").append(response.data)
+                    })
+                    .catch(function (error) {
+                        console.log(error);
+                    }) 
+                    .then(function () {
+                    });
+                </script>
+
+                
+
+                <div id="Anime" class="tabcontent table-container">
+                    <table class="table table-anime is-fullwidth is-scrollable">
                         <thead>
                             <tr>
                             <th>Command</th>
@@ -84,8 +254,8 @@
 
                     </table>
                 </div>
-                <div id="Automation" class="tabcontent">
-                    <table class="table is-fullwidth is-scrollable is-narrow is-hoverable">
+                <div id="Automation" class="tabcontent table-container">
+                    <table class="table table-automation is-fullwidth is-scrollable is-narrow is-hoverable">
                         <thead>
                             <tr>
                             <th>Command</th>
@@ -96,8 +266,8 @@
 
                     </table>
                 </div>
-                <div id="Images" class="tabcontent">
-                    <table class="table is-fullwidth is-scrollable is-narrow is-hoverable">
+                <div id="Images" class="tabcontent table-container">
+                    <table class="table table-images is-fullwidth is-scrollable is-narrow is-hoverable">
                         <thead>
                             <tr>
                             <th>Command</th>
@@ -108,8 +278,8 @@
 
                     </table>
                 </div>
-                <div id="Utilities" class="tabcontent">
-                    <table class="table is-fullwidth is-scrollable is-narrow is-hoverable">
+                <div id="Utilities" class="tabcontent table-container">
+                    <table class="table table-utilities is-fullwidth is-scrollable is-narrow is-hoverable">
                         <thead>
                             <tr>
                             <th>Command</th>
@@ -120,8 +290,8 @@
 
                     </table>
                 </div>
-                <div id="Memes" class="tabcontent">
-                    <table class="table is-fullwidth is-scrollable is-narrow is-hoverable">
+                <div id="Memes" class="tabcontent table-container">
+                    <table class="table table-memes is-fullwidth is-scrollable is-narrow is-hoverable">
                         <thead>
                             <tr>
                             <th>Command</th>
@@ -132,8 +302,8 @@
 
                     </table>
                 </div>
-                <div id="Moderation" class="tabcontent">
-                    <table class="table is-fullwidth is-scrollable is-narrow is-hoverable">
+                <div id="Moderation" class="tabcontent table-container">
+                    <table class="table table-moderation is-fullwidth is-scrollable is-narrow is-hoverable">
                         <thead>
                             <tr>
                             <th>Command</th>
@@ -144,8 +314,8 @@
 
                     </table>
                 </div>
-                <div id="Music" class="tabcontent">
-                    <table class="table is-fullwidth is-scrollable is-narrow is-hoverable">
+                <div id="Music" class="tabcontent table-container">
+                    <table class="table table-music is-fullwidth is-scrollable is-narrow is-hoverable">
                         <thead>
                             <tr>
                             <th>Command</th>
@@ -156,8 +326,20 @@
 
                     </table>
                 </div>
-                <div id="Owner" class="tabcontent">
-                    <table class="table is-fullwidth is-scrollable is-narrow is-hoverable">
+                <!-- <div id="Owner" class="tabcontent table-container">
+                    <table class="table table-owner is-fullwidth is-scrollable is-narrow is-hoverable">
+                        <thead>
+                            <tr>
+                            <th>Command</th>
+                            <th>Description</th>
+                            <th>Usage</th>
+                            </tr>
+                        </thead>
+
+                    </table>
+                </div> -->
+                <div id="Roleplay" class="tabcontent table-container">
+                    <table class="table table-roleplay is-fullwidth is-scrollable is-narrow is-hoverable">
                         <thead>
                             <tr>
                             <th>Command</th>
@@ -168,8 +350,8 @@
 
                     </table>
                 </div>
-                <div id="Roleplay" class="tabcontent">
-                    <table class="table is-fullwidth is-scrollable is-narrow is-hoverable">
+                <div id="Search" class="tabcontent table-container">
+                    <table class="table table-search is-fullwidth is-scrollable is-narrow is-hoverable">
                         <thead>
                             <tr>
                             <th>Command</th>
@@ -180,8 +362,8 @@
 
                     </table>
                 </div>
-                <div id="Search" class="tabcontent">
-                    <table class="table is-fullwidth is-scrollable is-narrow is-hoverable">
+                <div id="Fun" class="tabcontent table-container">
+                    <table class="table table-fun is-fullwidth is-scrollable is-narrow is-hoverable">
                         <thead>
                             <tr>
                             <th>Command</th>
@@ -192,8 +374,8 @@
 
                     </table>
                 </div>
-                <div id="Fun" class="tabcontent">
-                    <table class="table is-fullwidth is-scrollable is-narrow is-hoverable">
+                <div id="XP" class="tabcontent table-container">
+                    <table class="table table-xp is-fullwidth is-scrollable is-narrow is-hoverable">
                         <thead>
                             <tr>
                             <th>Command</th>
@@ -204,8 +386,8 @@
 
                     </table>
                 </div>
-                <div id="XP" class="tabcontent">
-                    <table class="table is-fullwidth is-scrollable is-narrow is-hoverable">
+                <div id="Economy" class="tabcontent table-container">
+                    <table class="table table-economy is-fullwidth is-scrollable is-narrow is-hoverable">
                         <thead>
                             <tr>
                             <th>Command</th>
@@ -216,8 +398,8 @@
 
                     </table>
                 </div>
-                <div id="Economy" class="tabcontent">
-                    <table class="table is-fullwidth is-scrollable is-narrow is-hoverable">
+                <div id="Games" class="tabcontent table-container">
+                    <table class="table table-games is-fullwidth is-scrollable is-narrow is-hoverable">
                         <thead>
                             <tr>
                             <th>Command</th>
@@ -228,8 +410,8 @@
 
                     </table>
                 </div>
-                <div id="Games" class="tabcontent">
-                    <table class="table is-fullwidth is-scrollable is-narrow is-hoverable">
+                <div id="NSFW" class="tabcontent table-container">
+                    <table class="table table-nsfw is-fullwidth is-scrollable is-narrow is-hoverable">
                         <thead>
                             <tr>
                             <th>Command</th>
@@ -240,20 +422,8 @@
 
                     </table>
                 </div>
-                <div id="NSFW" class="tabcontent">
-                    <table class="table is-fullwidth is-scrollable is-narrow is-hoverable">
-                        <thead>
-                            <tr>
-                            <th>Command</th>
-                            <th>Description</th>
-                            <th>Usage</th>
-                            </tr>
-                        </thead>
-
-                    </table>
-                </div>
-                <div id="Settings" class="tabcontent">
-                    <table class="table is-fullwidth is-scrollable is-narrow is-hoverable">
+                <div id="Settings" class="tabcontent table-container">
+                    <table class="table table-settings is-fullwidth is-scrollable is-narrow is-hoverable">
                         <thead>
                             <tr>
                             <th>Command</th>
@@ -306,7 +476,7 @@
             </div>
         </div>
  
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+        
         <script src="src/javascripts/script.js"></script>
     </body>
 </html>
