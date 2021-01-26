@@ -211,6 +211,12 @@
 						</tr>
 						
 
+				<th>thighs</th>
+				<td>Get Hot Thighs</td>
+				<td>f;thighs</td>
+						</tr>
+						
+
 				<th>tits (NSFW)</th>
 				<td>Use this command to an image with a hot mom.</td>
 				<td>f;tits</td>
