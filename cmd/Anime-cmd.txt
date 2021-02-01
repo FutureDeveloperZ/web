@@ -3,31 +3,31 @@
 
 				<th>anime</th>
 				<td>Shows Anime Info</td>
-				<td>f;anime <anime name></td>
+				<td>f;anime &lt;name&gt;</td>
 						</tr>
 						
 
 				<th>character</th>
 				<td>Shows Anime Character Info</td>
-				<td>f;character <name></td>
+				<td>f;character &lt;name&gt;</td>
 						</tr>
 						
 
 				<th>doujin (NSFW)</th>
 				<td>Search for good sauce</td>
-				<td>f;doujin <number></td>
+				<td>f;doujin &lt;number&gt;</td>
 						</tr>
 						
 
 				<th>genre</th>
 				<td>Search up Genres of Anime or Manga</td>
-				<td>f;genre <anime | manga></td>
+				<td>f;genre &lt;anime | manga&gt;</td>
 						</tr>
 						
 
 				<th>genshin</th>
 				<td>Search Genshin Impact stuff releated</td>
-				<td>f;genshin <weapons/characters> <names></td>
+				<td>f;genshin &lt;weapons/characters&gt; <names></td>
 						</tr>
 						
 
@@ -37,26 +37,14 @@
 						</tr>
 						
 
-				<th>kitsulink</th>
-				<td>Links your Kitsu Profile</td>
-				<td>f;kitsulink <slug></td>
-						</tr>
-						
-
 				<th>manga</th>
 				<td>Shows Manga Info</td>
-				<td>f;manga <Manga name></td>
+				<td>f;manga &lt;Manga name&gt;</td>
 						</tr>
 						
 
 				<th>scrap (Owner-Only)</th>
 				<td>Scrap any anime direct link from gogoanime</td>
-				<td>f;scrap scrap <anime | episode number></td>
-						</tr>
-						
-
-				<th>osulink</th>
-				<td>Link OSU Account</td>
-				<td>f;osulink <slug></td>
+				<td>f;scrap &lt;anime | episode number&gt;</td>
 						</tr>
 						</tbody>
