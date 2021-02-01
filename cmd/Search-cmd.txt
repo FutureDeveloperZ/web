@@ -3,84 +3,78 @@
 
 				<th>fortnite</th>
 				<td>Get info of your Fortnite Stats</td>
-				<td>f;fortnite <username></td>
+				<td>f;fortnite &lt;username&gt;</td>
 						</tr>
 						
 
 				<th>googleplay</th>
 				<td>Get Info from google play apps</td>
-				<td>f;googleplay <app></td>
+				<td>f;googleplay &lt;app&gt;</td>
 						</tr>
 						
 
 				<th>hypixel</th>
 				<td>Displays your hypixel stats</td>
-				<td>f;hypixel <username></td>
+				<td>f;hypixel &lt;username&gt;</td>
 						</tr>
 						
 
 				<th>imdb</th>
 				<td>Get info about series and movies from imdb</td>
-				<td>f;imdb <movie></td>
-						</tr>
-						
-
-				<th>lyrics</th>
-				<td>Search Lyrics of songs</td>
-				<td>f;lyrics <song>, [cancer]</td>
+				<td>f;imdb &lt;movie&gt;</td>
 						</tr>
 						
 
 				<th>ng</th>
 				<td>Search up your nethergames stats</td>
-				<td>f;ng <username></td>
+				<td>f;ng &lt;username&gt;</td>
 						</tr>
 						
 
 				<th>osu</th>
 				<td>Search Osu profile</td>
-				<td>f;osu <user></td>
+				<td>f;osu &lt;user&gt;</td>
 						</tr>
 						
 
 				<th>query</th>
 				<td>Displays your minecraft server info only bedrock editon </td>
-				<td>f;query <ip> [port]</td>
+				<td>f;query &lt;ip&gt; [port]</td>
 						</tr>
 						
 
 				<th>recent</th>
 				<td>Search recent players games</td>
-				<td>f;recent <user></td>
+				<td>f;recent &lt;user&gt;</td>
 						</tr>
 						
 
 				<th>roblox</th>
 				<td>Search up your roblox profile</td>
-				<td>f;roblox <username></td>
+				<td>f;roblox &lt;username&gt;</td>
 						</tr>
 						
 
 				<th>skyblock</th>
 				<td>Search up your skyblock(hypixel) stats</td>
-				<td>f;skyblock <username></td>
+				<td>f;skyblock &lt;username&gt;</td>
 						</tr>
 						
 
 				<th>translate</th>
 				<td>Translate Stuff for u</td>
-				<td>f;translate <your words></td>
+				<td>f;translate &lt;your words&gt;</td>
 						</tr>
 						
 
 				<th>urban</th>
 				<td>Searches up Urban Dictionary</td>
-				<td>f;urban <your search></td>
+				<td>f;urban &lt;your search&gt;</td>
 						</tr>
 						
 
 				<th>wiki</th>
 				<td>Search Stuff on the wikipedia</td>
-				<td>f;wiki <term></td>
+				<td>f;wiki &lt;term&gt;</td>
 						</tr>
 						</tbody>
