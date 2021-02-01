@@ -3,19 +3,19 @@
 
 				<th>ban</th>
 				<td>Ban a user</td>
-				<td>f;ban <user> [reason]</td>
+				<td>f;ban &lt;user&gt; [reason]</td>
 						</tr>
 						
 
 				<th>kick</th>
 				<td>Kick a Member</td>
-				<td>f;kick <user> [reason]</td>
+				<td>f;kick &lt;user&gt; [reason]</td>
 						</tr>
 						
 
 				<th>mute</th>
 				<td>Mute a user</td>
-				<td>f;mute <user> [reason]</td>
+				<td>f;mute &lt;user&gt; [reason]</td>
 						</tr>
 						
 
@@ -33,36 +33,36 @@
 
 				<th>purge</th>
 				<td>Purges messages from chat</td>
-				<td>f;purge <number></td>
+				<td>f;purge &lt;number&gt;</td>
 						</tr>
 						
 
 				<th>role</th>
 				<td>Adds a role to a user or removes role from user</td>
-				<td>f;role <user> <role></td>
+				<td>f;role &lt;user&gt; <role></td>
 						</tr>
 						
 
 				<th>ticket (Owner-Only)</th>
 				<td>Make a Ticket</td>
-				<td>f;ticket <reason></td>
+				<td>f;ticket &lt;reason&gt;</td>
 						</tr>
 						
 
 				<th>unmute</th>
 				<td>Unmute a user</td>
-				<td>f;unmute <user> [reason]</td>
+				<td>f;unmute &lt;user&gt; [reason]</td>
 						</tr>
 						
 
 				<th>warn</th>
 				<td>Warn/Report someone body</td>
-				<td>f;warn <user> [reason]</td>
+				<td>f;warn &lt;user&gt; [reason]</td>
 						</tr>
 						
 
 				<th>warnings</th>
 				<td>Get List of Warnings of a user</td>
-				<td>f;warnings <user></td>
+				<td>f;warnings &lt;user&gt;</td>
 						</tr>
 						</tbody>
