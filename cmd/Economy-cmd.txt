@@ -1,7 +1,7 @@
 <tbody>
 						<tr>
 
-				<th>account</th>
+				<th>account (Owner-Only)</th>
 				<td>Check your account</td>
 				<td>f;account</td>
 						</tr>
@@ -19,55 +19,49 @@
 						</tr>
 						
 
-				<th>coinbet</th>
+				<th>coinbet (Owner-Only)</th>
 				<td>Bet coins with another user</td>
-				<td>f;coinbet <user> <bet> <heads/tail></td>
+				<td>f;coinbet &lt;user&gt; <bet> <heads/tail></td>
 						</tr>
 						
 
-				<th>create</th>
+				<th>create (Owner-Only)</th>
 				<td>Create a Account</td>
 				<td>f;create</td>
 						</tr>
 						
 
-				<th>daily</th>
+				<th>daily (Owner-Only)</th>
 				<td>Get your daily money</td>
 				<td>f;daily</td>
 						</tr>
 						
 
-				<th>gamble</th>
+				<th>gamble (Owner-Only)</th>
 				<td>Gamble your money for more money</td>
-				<td>f;gamble <bet></td>
+				<td>f;gamble &lt;bet&gt;</td>
 						</tr>
 						
 
-				<th>leaderboard</th>
+				<th>leaderboard (Owner-Only)</th>
 				<td>Checks the leaderboard</td>
 				<td>f;leaderboard</td>
 						</tr>
 						
 
-				<th>pay</th>
+				<th>pay (Owner-Only)</th>
 				<td>Pay a user</td>
-				<td>f;pay <user> <money></td>
+				<td>f;pay &lt;user&gt; <money></td>
 						</tr>
 						
 
-				<th>profile</th>
-				<td>Check your Profile</td>
-				<td>f;profile</td>
-						</tr>
-						
-
-				<th>shop</th>
+				<th>shop (Owner-Only)</th>
 				<td>Shop to buy skins</td>
 				<td>f;shop</td>
 						</tr>
 						
 
-				<th>work</th>
+				<th>work (Owner-Only)</th>
 				<td>Get your daily money</td>
 				<td>f;work</td>
 						</tr>
