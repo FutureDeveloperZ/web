@@ -21,18 +21,12 @@
 
 				<th>prefix</th>
 				<td>Change prefix of a guild</td>
-				<td>f;prefix <new prefix></td>
+				<td>f;prefix &lt;new prefix&gt;</td>
 						</tr>
 						
 
 				<th>settings</th>
 				<td>View your server configuration</td>
 				<td>f;settings</td>
-						</tr>
-						
-
-				<th>youtubers</th>
-				<td>Adds youtubers notification to your server</td>
-				<td>f;youtubers</td>
 						</tr>
 						</tbody>
