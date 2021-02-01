@@ -3,36 +3,36 @@
 
 				<th>goodbye</th>
 				<td>Enable the Goodbye plugin to be able to post your own goodbye message</td>
-				<td>f;goodbye <on|off|channel|text> <channel|text></td>
+				<td>f;goodbye &lt;on|off|channel|text&gt; <channel|text></td>
 						</tr>
 						
 
 				<th>antilink</th>
 				<td>Configuration For server</td>
-				<td>f;antilink <on/off/enable/disable></td>
+				<td>f;antilink &lt;on/off/enable/disable&gt;</td>
 						</tr>
 						
 
 				<th>chatbot</th>
 				<td>chat witht he bot</td>
-				<td>f;chatbot <on/off/enable/disable/channel> <channelID></td>
+				<td>f;chatbot &lt;on/off/enable/disable/channel&gt; <channelID></td>
 						</tr>
 						
 
 				<th>invitechannel (Owner-Only)</th>
 				<td>Configuration For server</td>
-				<td>f;invitechannel <on|off|enable|disable|channel> <channel></td>
+				<td>f;invitechannel &lt;on|off|enable|disable|channel&gt; <channel></td>
 						</tr>
 						
 
 				<th>logchannel</th>
 				<td>Configuration For server</td>
-				<td>f;logchannel <on|off|enable|disable|channel> <channel></td>
+				<td>f;logchannel &lt;on|off|enable|disable|channel&gt; <channel></td>
 						</tr>
 						
 
 				<th>welcome</th>
 				<td>Enable the Welcome plugin to be able to post your own welcome message</td>
-				<td>f;welcome <on/off/channel/text> <text></td>
+				<td>f;welcome &lt;on/off/channel/text&gt; <text></td>
 						</tr>
 						</tbody>
