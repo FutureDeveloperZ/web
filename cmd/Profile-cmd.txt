@@ -1,0 +1,26 @@
+<tbody>
+						<tr>
+
+				<th>kitsulink</th>
+				<td>Links your Kitsu Profile</td>
+				<td>f;kitsulink &lt;slug&gt;</td>
+						</tr>
+						
+
+				<th>osulink</th>
+				<td>Link OSU Account</td>
+				<td>f;osulink &lt;name&gt;</td>
+						</tr>
+						
+
+				<th>profile</th>
+				<td>Check your Profile</td>
+				<td>f;profile</td>
+						</tr>
+						
+
+				<th>rep</th>
+				<td>Give Reputation to a friend or amigo</td>
+				<td>f;rep &lt;mention|ID&gt;</td>
+						</tr>
+						</tbody>
