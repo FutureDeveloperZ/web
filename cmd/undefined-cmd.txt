@@ -1,3 +1,1413 @@
 <tbody>
 						<tr>
-</tbody>
+
+				<th>anime</th>
+				<td>Shows Anime Info</td>
+				<td>f;anime &lt;name&gt;</td>
+						</tr>
+						
+
+				<th>character</th>
+				<td>Shows Anime Character Info</td>
+				<td>f;character &lt;name&gt;</td>
+						</tr>
+						
+
+				<th>doujin (NSFW)</th>
+				<td>Search for good sauce</td>
+				<td>f;doujin &lt;number&gt;</td>
+						</tr>
+						
+
+				<th>genre</th>
+				<td>Search up Genres of Anime or Manga</td>
+				<td>f;genre &lt;anime | manga&gt;</td>
+						</tr>
+						
+
+				<th>genshin</th>
+				<td>Search Genshin Impact stuff releated</td>
+				<td>f;genshin &lt;weapons/characters&gt; <names></td>
+						</tr>
+						
+
+				<th>kitsu</th>
+				<td>Shows Kitsu Profile Info</td>
+				<td>f;kitsu [name]</td>
+						</tr>
+						
+
+				<th>manga</th>
+				<td>Shows Manga Info</td>
+				<td>f;manga &lt;Manga name&gt;</td>
+						</tr>
+						
+
+				<th>scrap (Owner-Only)</th>
+				<td>Scrap any anime direct link from gogoanime</td>
+				<td>f;scrap &lt;anime | episode number&gt;</td>
+						</tr>
+						
+
+				<th>antilink</th>
+				<td>Configuration For server</td>
+				<td>f;antilink &lt;on/off/enable/disable&gt;</td>
+						</tr>
+						
+
+				<th>chatbot</th>
+				<td>chat witht he bot</td>
+				<td>f;chatbot &lt;on/off/enable/disable/channel&gt; <channelID></td>
+						</tr>
+						
+
+				<th>goodbye</th>
+				<td>Enable the Goodbye plugin to be able to post your own goodbye message</td>
+				<td>f;goodbye &lt;on|off|channel|text&gt; <channel|text></td>
+						</tr>
+						
+
+				<th>invitechannel (Owner-Only)</th>
+				<td>Configuration For server</td>
+				<td>f;invitechannel &lt;on|off|enable|disable|channel&gt; <channel></td>
+						</tr>
+						
+
+				<th>logchannel</th>
+				<td>Configuration For server</td>
+				<td>f;logchannel &lt;on|off|enable|disable|channel&gt; <channel></td>
+						</tr>
+						
+
+				<th>welcome</th>
+				<td>Enable the Welcome plugin to be able to post your own welcome message</td>
+				<td>f;welcome &lt;on/off/channel/text&gt; <text></td>
+						</tr>
+						
+
+				<th>account (Owner-Only)</th>
+				<td>Check your account</td>
+				<td>f;account</td>
+						</tr>
+						
+
+				<th>adminpay (Owner-Only)</th>
+				<td>I pay someone</td>
+				<td>f;adminpay</td>
+						</tr>
+						
+
+				<th>block (Owner-Only)</th>
+				<td>ME blocky</td>
+				<td>f;block</td>
+						</tr>
+						
+
+				<th>coinbet (Owner-Only)</th>
+				<td>Bet coins with another user</td>
+				<td>f;coinbet &lt;user&gt; <bet> <heads/tail></td>
+						</tr>
+						
+
+				<th>create (Owner-Only)</th>
+				<td>Create a Account</td>
+				<td>f;create</td>
+						</tr>
+						
+
+				<th>daily (Owner-Only)</th>
+				<td>Get your daily money</td>
+				<td>f;daily</td>
+						</tr>
+						
+
+				<th>gamble (Owner-Only)</th>
+				<td>Gamble your money for more money</td>
+				<td>f;gamble &lt;bet&gt;</td>
+						</tr>
+						
+
+				<th>leaderboard (Owner-Only)</th>
+				<td>Checks the leaderboard</td>
+				<td>f;leaderboard</td>
+						</tr>
+						
+
+				<th>pay (Owner-Only)</th>
+				<td>Pay a user</td>
+				<td>f;pay &lt;user&gt; <money></td>
+						</tr>
+						
+
+				<th>shop (Owner-Only)</th>
+				<td>Shop to buy skins</td>
+				<td>f;shop</td>
+						</tr>
+						
+
+				<th>work (Owner-Only)</th>
+				<td>Get your daily money</td>
+				<td>f;work</td>
+						</tr>
+						
+
+				<th>8ball</th>
+				<td>Ask a question and get and answer</td>
+				<td>f;8ball &lt;question&gt;</td>
+						</tr>
+						
+
+				<th>advice</th>
+				<td>get and advice from me</td>
+				<td>f;advice</td>
+						</tr>
+						
+
+				<th>age</th>
+				<td>get you're age from me</td>
+				<td>f;age</td>
+						</tr>
+						
+
+				<th>ash</th>
+				<td>sus</td>
+				<td>f;ash</td>
+						</tr>
+						
+
+				<th>avatar</th>
+				<td>Displays the avatar of a user</td>
+				<td>f;avatar [user]</td>
+						</tr>
+						
+
+				<th>bond</th>
+				<td>Bond with you're wify</td>
+				<td>f;bond [user]</td>
+						</tr>
+						
+
+				<th>clap</th>
+				<td>Clap Between your text</td>
+				<td>f;clap &lt;Text&gt;</td>
+						</tr>
+						
+
+				<th>coinflip</th>
+				<td>Coinflip and wait for the coin to flip</td>
+				<td>f;coinflip</td>
+						</tr>
+						
+
+				<th>cowsay</th>
+				<td>Makes cow say</td>
+				<td>f;cowsay [text]</td>
+						</tr>
+						
+
+				<th>discrim</th>
+				<td>Displays Discrim from users</td>
+				<td>f;discrim &lt;number&gt;</td>
+						</tr>
+						
+
+				<th>editsnipe</th>
+				<td>Get a edited message lol</td>
+				<td>f;editsnipe</td>
+						</tr>
+						
+
+				<th>emoji</th>
+				<td>Expand emoji</td>
+				<td>f;emoji &lt;emoji&gt;</td>
+						</tr>
+						
+
+				<th>emojify</th>
+				<td>Make your text into emojis</td>
+				<td>f;emojify &lt;Text&gt;</td>
+						</tr>
+						
+
+				<th>fban</th>
+				<td>Fake ban a user lol</td>
+				<td>f;fban [user]</td>
+						</tr>
+						
+
+				<th>gayrate</th>
+				<td>How gay are u or your friend</td>
+				<td>f;gayrate [user]</td>
+						</tr>
+						
+
+				<th>hack</th>
+				<td>Hack a user</td>
+				<td>f;hack &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>heightcalculator</th>
+				<td>Calculate your height only supports cm!</td>
+				<td>f;heightcalculator</td>
+						</tr>
+						
+
+				<th>image</th>
+				<td>Search images in the internet</td>
+				<td>f;image &lt;search&gt;</td>
+						</tr>
+						
+
+				<th>joke</th>
+				<td>Tells u a dad joke</td>
+				<td>f;joke</td>
+						</tr>
+						
+
+				<th>oompa</th>
+				<td>sus</td>
+				<td>f;oompa</td>
+						</tr>
+						
+
+				<th>pp</th>
+				<td>How big is pp</td>
+				<td>f;pp [user]</td>
+						</tr>
+						
+
+				<th>qr</th>
+				<td>Make a qr</td>
+				<td>f;qr &lt;text&gt;</td>
+						</tr>
+						
+
+				<th>quiz</th>
+				<td>start a quiz</td>
+				<td>f;quiz</td>
+						</tr>
+						
+
+				<th>rate</th>
+				<td>Rate something idk</td>
+				<td>f;rate &lt;something&gt;</td>
+						</tr>
+						
+
+				<th>reverse</th>
+				<td>Reverse Text boi</td>
+				<td>f;reverse [text]</td>
+						</tr>
+						
+
+				<th>roast</th>
+				<td>Roats your haters</td>
+				<td>f;roast &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>sacrifice</th>
+				<td>Sacrifice a friend or someone</td>
+				<td>f;sacrifice &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>screenshot</th>
+				<td>Takes a screenshot from a website</td>
+				<td>f;screenshot &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>snipe</th>
+				<td>Get a delete message lol</td>
+				<td>f;snipe</td>
+						</tr>
+						
+
+				<th>twig</th>
+				<td>SECRET</td>
+				<td>f;twig SECRET</td>
+						</tr>
+						
+
+				<th>yomama</th>
+				<td>get a yomama joke</td>
+				<td>f;yomama</td>
+						</tr>
+						
+
+				<th>akinator</th>
+				<td>Play Connect4 With friends</td>
+				<td>f;akinator</td>
+						</tr>
+						
+
+				<th>connect4</th>
+				<td>Play Connect4 With friends</td>
+				<td>f;connect4</td>
+						</tr>
+						
+
+				<th>fight</th>
+				<td>Fight to the death with your enemy</td>
+				<td>f;fight [opponent]</td>
+						</tr>
+						
+
+				<th>guess</th>
+				<td>guessing game</td>
+				<td>f;guess</td>
+						</tr>
+						
+
+				<th>gunfight</th>
+				<td>Engage in a western gunfight against another user. High noon.</td>
+				<td>f;gunfight &lt;opponent&gt;</td>
+						</tr>
+						
+
+				<th>imposter</th>
+				<td>Fight to the death with your enemy</td>
+				<td>f;imposter</td>
+						</tr>
+						
+
+				<th>island</th>
+				<td>Who will be the final two left on the island after a series of vote-kicks?</td>
+				<td>f;island</td>
+						</tr>
+						
+
+				<th>mafia</th>
+				<td>Setup a mafia game, must have at least 4 reactors.</td>
+				<td>f;mafia</td>
+						</tr>
+						
+
+				<th>poker</th>
+				<td>Fight to the death with your enemy</td>
+				<td>f;poker</td>
+						</tr>
+						
+
+				<th>rps</th>
+				<td>Play Rock Paper and Scissors with the bot</td>
+				<td>f;rps</td>
+						</tr>
+						
+
+				<th>rr</th>
+				<td>play a game of Rousian Roullete</td>
+				<td>f;rr [user]</td>
+						</tr>
+						
+
+				<th>typingrace</th>
+				<td>Race a user to see who can type a sentence faster.</td>
+				<td>f;typingrace &lt;opponent&gt;</td>
+						</tr>
+						
+
+				<th>3000</th>
+				<td>Is been 3,000 Years</td>
+				<td>f;3000 &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>achievement</th>
+				<td>Get a Achievement image</td>
+				<td>f;achievement &lt;text&gt;</td>
+						</tr>
+						
+
+				<th>approved</th>
+				<td>Get a approved overlay image</td>
+				<td>f;approved [user]</td>
+						</tr>
+						
+
+				<th>beautiful</th>
+				<td>Are u beautiful?</td>
+				<td>f;beautiful &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>brazzers</th>
+				<td>Get a Brazzers overlay image</td>
+				<td>f;brazzers [user]</td>
+						</tr>
+						
+
+				<th>caption</th>
+				<td>Generates a meme in form of a caption</td>
+				<td>f;caption &lt;text&gt;</td>
+						</tr>
+						
+
+				<th>cat</th>
+				<td>Get cute cat pictures!</td>
+				<td>f;cat</td>
+						</tr>
+						
+
+				<th>challenger</th>
+				<td>Get a Challenger image</td>
+				<td>f;challenger [user]</td>
+						</tr>
+						
+
+				<th>crush</th>
+				<td>He's you're crush </td>
+				<td>f;crush &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>deepfry</th>
+				<td>Deepfry a Image</td>
+				<td>f;deepfry &lt;image&gt;</td>
+						</tr>
+						
+
+				<th>demotivational</th>
+				<td>Get a Demotivational image</td>
+				<td>f;demotivational demotivational &lt;title | text&gt;</td>
+						</tr>
+						
+
+				<th>dexter</th>
+				<td>Get a Dexter image</td>
+				<td>f;dexter dexter [user]</td>
+						</tr>
+						
+
+				<th>dog</th>
+				<td>Get cute dogs pictures</td>
+				<td>f;dog</td>
+						</tr>
+						
+
+				<th>drip</th>
+				<td>Eject your Friend</td>
+				<td>f;drip &lt;user | image&gt;</td>
+						</tr>
+						
+
+				<th>eject</th>
+				<td>Eject your Friend</td>
+				<td>f;eject &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>gruplan</th>
+				<td>Make a meme with the Gru Plan Template</td>
+				<td>f;gruplan &lt;text | text | text&gt;</td>
+						</tr>
+						
+
+				<th>horny</th>
+				<td>Get your own License to be horny</td>
+				<td>f;horny &lt;image/avatar&gt;</td>
+						</tr>
+						
+
+				<th>jar</th>
+				<td>Is just a Jar</td>
+				<td>f;jar &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>kyon</th>
+				<td>Get a get kyon gun pointed at a image</td>
+				<td>f;kyon [user]</td>
+						</tr>
+						
+
+				<th>lisa</th>
+				<td>Make a presentation with lisa template</td>
+				<td>f;lisa &lt;text&gt;</td>
+						</tr>
+						
+
+				<th>machine</th>
+				<td>Is it a machine?</td>
+				<td>f;machine &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>meme</th>
+				<td>Generates a meme from an image (separate top/bottom text with a comma)</td>
+				<td>f;meme &lt;top text&gt;, [bottom text]</td>
+						</tr>
+						
+
+				<th>paint</th>
+				<td>Bobross made your profile?</td>
+				<td>f;paint &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>petpet</th>
+				<td>petpet someone :D</td>
+				<td>f;petpet &lt;image&gt;</td>
+						</tr>
+						
+
+				<th>photograph</th>
+				<td>Look at my Photograph</td>
+				<td>f;photograph &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>plankton</th>
+				<td>Make a meme with the Plankton Plan Template</td>
+				<td>f;plankton &lt;text | text | text&gt;</td>
+						</tr>
+						
+
+				<th>rejected</th>
+				<td>Get a rejected overlay image</td>
+				<td>f;rejected [user]</td>
+						</tr>
+						
+
+				<th>stickbug</th>
+				<td>Get stick bug or something idk</td>
+				<td>f;stickbug &lt;image&gt;</td>
+						</tr>
+						
+
+				<th>yousuck</th>
+				<td>Basically u just suck</td>
+				<td>f;yousuck &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>youtube</th>
+				<td>Make a youtube image</td>
+				<td>f;youtube &lt;text&gt;</td>
+						</tr>
+						
+
+				<th>afk</th>
+				<td>Make yourself afk</td>
+				<td>f;afk &lt;text&gt;</td>
+						</tr>
+						
+
+				<th>changelog</th>
+				<td>Check latest change logs</td>
+				<td>f;changelog &lt;text&gt;</td>
+						</tr>
+						
+
+				<th>donate</th>
+				<td>Donate for the bot</td>
+				<td>f;donate</td>
+						</tr>
+						
+
+				<th>embed</th>
+				<td>Make and embed customizable</td>
+				<td>f;embed embed</td>
+						</tr>
+						
+
+				<th>help</th>
+				<td>Displays all the commands in the bot</td>
+				<td>f;help [command]</td>
+						</tr>
+						
+
+				<th>invite</th>
+				<td>Invite the Bot to your server</td>
+				<td>f;invite</td>
+						</tr>
+						
+
+				<th>ping</th>
+				<td>Check the Latency of the bot</td>
+				<td>f;ping</td>
+						</tr>
+						
+
+				<th>say</th>
+				<td>Makes the bot says stuff</td>
+				<td>f;say &lt;text&gt;</td>
+						</tr>
+						
+
+				<th>scan</th>
+				<td>Scan URLs for malware or etc</td>
+				<td>f;scan [url]</td>
+						</tr>
+						
+
+				<th>server</th>
+				<td>Displays the server Information</td>
+				<td>f;server</td>
+						</tr>
+						
+
+				<th>spotify</th>
+				<td>Get what song the user is lisenting too</td>
+				<td>f;spotify</td>
+						</tr>
+						
+
+				<th>stats</th>
+				<td>Check the Stats of bot</td>
+				<td>f;stats</td>
+						</tr>
+						
+
+				<th>suggestion</th>
+				<td>suggestion</td>
+				<td>f;suggestion &lt;fun idea&gt;</td>
+						</tr>
+						
+
+				<th>upvote</th>
+				<td>Upvote the bot will help out alot</td>
+				<td>f;upvote</td>
+						</tr>
+						
+
+				<th>usage</th>
+				<td>Get List of Commands That has been used</td>
+				<td>f;usage</td>
+						</tr>
+						
+
+				<th>user</th>
+				<td>Displays User Information</td>
+				<td>f;user [user]</td>
+						</tr>
+						
+
+				<th>animemes</th>
+				<td>Send Anime Memes!</td>
+				<td>f;animemes</td>
+						</tr>
+						
+
+				<th>cursedcomments</th>
+				<td>Send Cursed Comments!</td>
+				<td>f;cursedcomments</td>
+						</tr>
+						
+
+				<th>dankmemes</th>
+				<td>send Dank Memes!</td>
+				<td>f;dankmemes</td>
+						</tr>
+						
+
+				<th>history</th>
+				<td>Send History memes!</td>
+				<td>f;history</td>
+						</tr>
+						
+
+				<th>jokes</th>
+				<td>Send Jokes memes!</td>
+				<td>f;jokes</td>
+						</tr>
+						
+
+				<th>necro</th>
+				<td>Send Comedy Necromacy!</td>
+				<td>f;necro</td>
+						</tr>
+						
+
+				<th>popular</th>
+				<td>Send Popular Memes!</td>
+				<td>f;popular</td>
+						</tr>
+						
+
+				<th>programmerhumor</th>
+				<td>Send Programmer Humor!</td>
+				<td>f;programmerhumor</td>
+						</tr>
+						
+
+				<th>reddit</th>
+				<td>Gives u top meme from a big subreddit!</td>
+				<td>f;reddit</td>
+						</tr>
+						
+
+				<th>showerthoughts</th>
+				<td>Send Shower Thoughts!</td>
+				<td>f;showerthoughts</td>
+						</tr>
+						
+
+				<th>til</th>
+				<td>Today I Learned!</td>
+				<td>f;til</td>
+						</tr>
+						
+
+				<th>ban</th>
+				<td>Ban a user</td>
+				<td>f;ban &lt;user&gt; [reason]</td>
+						</tr>
+						
+
+				<th>kick</th>
+				<td>Kick a Member</td>
+				<td>f;kick &lt;user&gt; [reason]</td>
+						</tr>
+						
+
+				<th>mute</th>
+				<td>Mute a user</td>
+				<td>f;mute &lt;user&gt; [reason]</td>
+						</tr>
+						
+
+				<th>nuke</th>
+				<td>Nukes the channel and makes a new one</td>
+				<td>f;nuke nuke</td>
+						</tr>
+						
+
+				<th>poll</th>
+				<td>Create a poll. Max is 9</td>
+				<td>f;poll "option 1" "option 2" "option 3"</td>
+						</tr>
+						
+
+				<th>purge</th>
+				<td>Purges messages from chat</td>
+				<td>f;purge &lt;number&gt;</td>
+						</tr>
+						
+
+				<th>role</th>
+				<td>Adds a role to a user or removes role from user</td>
+				<td>f;role &lt;user&gt; <role></td>
+						</tr>
+						
+
+				<th>ticket (Owner-Only)</th>
+				<td>Make a Ticket</td>
+				<td>f;ticket &lt;reason&gt;</td>
+						</tr>
+						
+
+				<th>unmute</th>
+				<td>Unmute a user</td>
+				<td>f;unmute &lt;user&gt; [reason]</td>
+						</tr>
+						
+
+				<th>warn</th>
+				<td>Warn/Report someone body</td>
+				<td>f;warn &lt;user&gt; [reason]</td>
+						</tr>
+						
+
+				<th>warnings</th>
+				<td>Get List of Warnings of a user</td>
+				<td>f;warnings &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>fast-forward</th>
+				<td>Fast forwards the player by your specified amount</td>
+				<td>f;fast-forward &lt;time&gt;</td>
+						</tr>
+						
+
+				<th>join</th>
+				<td>Makes the bot join your voice channel.</td>
+				<td>f;join</td>
+						</tr>
+						
+
+				<th>loop</th>
+				<td>Loops your playlist</td>
+				<td>f;loop</td>
+						</tr>
+						
+
+				<th>lyrics</th>
+				<td>Search Lyrics of songs</td>
+				<td>f;lyrics &lt;song&gt;</td>
+						</tr>
+						
+
+				<th>nightcore</th>
+				<td>Toggles Nightcore audio affect.</td>
+				<td>f;nightcore &lt;time&gt;</td>
+						</tr>
+						
+
+				<th>np</th>
+				<td>Checks what is currently playing</td>
+				<td>f;np</td>
+						</tr>
+						
+
+				<th>play</th>
+				<td>Play music.</td>
+				<td>f;play &lt;song&gt;</td>
+						</tr>
+						
+
+				<th>queue</th>
+				<td>View your Queue</td>
+				<td>f;queue</td>
+						</tr>
+						
+
+				<th>resume</th>
+				<td>Resume the currently track</td>
+				<td>f;resume</td>
+						</tr>
+						
+
+				<th>rewind</th>
+				<td>Rewinds the player by your specified amount.</td>
+				<td>f;rewind</td>
+						</tr>
+						
+
+				<th>shuffle</th>
+				<td>View your Queue</td>
+				<td>f;shuffle</td>
+						</tr>
+						
+
+				<th>skip</th>
+				<td>Skips the current track</td>
+				<td>f;skip</td>
+						</tr>
+						
+
+				<th>stop</th>
+				<td>Stops playing the current track.</td>
+				<td>f;stop</td>
+						</tr>
+						
+
+				<th>volume</th>
+				<td>Change the current volume of the music</td>
+				<td>f;volume &lt;number&gt;</td>
+						</tr>
+						
+
+				<th>4k (NSFW)</th>
+				<td>Gets nsfw images in 4k resolution</td>
+				<td>f;4k</td>
+						</tr>
+						
+
+				<th>amateur (NSFW)</th>
+				<td>Gets nsfw images of Amate</td>
+				<td>f;amateur</td>
+						</tr>
+						
+
+				<th>anal (NSFW)</th>
+				<td>Gets nsfw images of Anal</td>
+				<td>f;anal</td>
+						</tr>
+						
+
+				<th>ass (NSFW)</th>
+				<td>Gets nsfw images of Ass</td>
+				<td>f;ass</td>
+						</tr>
+						
+
+				<th>asshole (NSFW)</th>
+				<td>Gets nsfw images of Asshole</td>
+				<td>f;asshole</td>
+						</tr>
+						
+
+				<th>bbw (NSFW)</th>
+				<td>Gets nsfw images of bbw</td>
+				<td>f;bbw</td>
+						</tr>
+						
+
+				<th>bdsm (NSFW)</th>
+				<td>Gets nsfw images of bd</td>
+				<td>f;bdsm</td>
+						</tr>
+						
+
+				<th>bikinis (NSFW)</th>
+				<td>Gets nsfw images of bikinis</td>
+				<td>f;bikinis</td>
+						</tr>
+						
+
+				<th>blonde (NSFW)</th>
+				<td>Gets nsfw images of blonde wammen</td>
+				<td>f;blonde</td>
+						</tr>
+						
+
+				<th>bottomless (NSFW)</th>
+				<td>Gets nsfw images of bottomless</td>
+				<td>f;bottomless</td>
+						</tr>
+						
+
+				<th>brunette (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>f;brunette</td>
+						</tr>
+						
+
+				<th>college (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>f;college</td>
+						</tr>
+						
+
+				<th>cosplay (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>f;cosplay</td>
+						</tr>
+						
+
+				<th>curvy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>f;curvy</td>
+						</tr>
+						
+
+				<th>dick (NSFW)</th>
+				<td>Use this command to an image with a hot dick.</td>
+				<td>f;dick</td>
+						</tr>
+						
+
+				<th>ecchi (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>f;ecchi</td>
+						</tr>
+						
+
+				<th>furrynsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>f;furrynsfw</td>
+						</tr>
+						
+
+				<th>gonewild (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>f;gonewild</td>
+						</tr>
+						
+
+				<th>lewd (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>f;lewd</td>
+						</tr>
+						
+
+				<th>milf (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>f;milf</td>
+						</tr>
+						
+
+				<th>moreporn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>f;moreporn</td>
+						</tr>
+						
+
+				<th>neko (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>f;neko</td>
+						</tr>
+						
+
+				<th>nsfw (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>f;nsfw</td>
+						</tr>
+						
+
+				<th>nude (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>f;nude</td>
+						</tr>
+						
+
+				<th>onoff (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>f;onoff</td>
+						</tr>
+						
+
+				<th>petite (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>f;petite</td>
+						</tr>
+						
+
+				<th>porn (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>f;porn</td>
+						</tr>
+						
+
+				<th>porngif (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>f;porngif</td>
+						</tr>
+						
+
+				<th>public (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>f;public</td>
+						</tr>
+						
+
+				<th>pussy (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>f;pussy</td>
+						</tr>
+						
+
+				<th>redheads (NSFW)</th>
+				<td>Use this command to an image off of r/redheads.</td>
+				<td>f;redheads</td>
+						</tr>
+						
+
+				<th>redtube (NSFW)</th>
+				<td>Use this command to redtube something.</td>
+				<td>f;redtube</td>
+						</tr>
+						
+
+				<th>rule34 (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>f;rule34</td>
+						</tr>
+						
+
+				<th>snapchat (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>f;snapchat</td>
+						</tr>
+						
+
+				<th>tattoos (NSFW)</th>
+				<td>Use this command to an image off of r/altgonewild.</td>
+				<td>f;tattoos</td>
+						</tr>
+						
+
+				<th>thighs</th>
+				<td>Get Hot Thighs</td>
+				<td>f;thighs</td>
+						</tr>
+						
+
+				<th>tits (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>f;tits</td>
+						</tr>
+						
+
+				<th>uniform (NSFW)</th>
+				<td>Use this command to an image with a hot mom.</td>
+				<td>f;uniform</td>
+						</tr>
+						
+
+				<th>activity (Owner-Only)</th>
+				<td>Set the Activity of the bot</td>
+				<td>f;activity [evaluation]</td>
+						</tr>
+						
+
+				<th>docs (Owner-Only)</th>
+				<td>docs</td>
+				<td>f;docs [Something from the docs]</td>
+						</tr>
+						
+
+				<th>eval (Owner-Only)</th>
+				<td>Evaluates any stuff i send</td>
+				<td>f;eval [evaluation]</td>
+						</tr>
+						
+
+				<th>execute (Owner-Only)</th>
+				<td>Execute stuff any stuff i send</td>
+				<td>f;execute</td>
+						</tr>
+						
+
+				<th>generate-commands (Owner-Only)</th>
+				<td>Generate a Command List in a ReadMe File</td>
+				<td>f;generate-commands</td>
+						</tr>
+						
+
+				<th>globalblock (Owner-Only)</th>
+				<td>Block users from the bot itself</td>
+				<td>f;globalblock &lt;@mention|ID&gt;</td>
+						</tr>
+						
+
+				<th>leave (Owner-Only)</th>
+				<td>he leaves the server</td>
+				<td>f;leave</td>
+						</tr>
+						
+
+				<th>reload (Owner-Only)</th>
+				<td>Reloads the Commands</td>
+				<td>f;reload</td>
+						</tr>
+						
+
+				<th>shutdown (Owner-Only)</th>
+				<td>shutdowns the bot</td>
+				<td>f;shutdown</td>
+						</tr>
+						
+
+				<th>kitsulink</th>
+				<td>Links your Kitsu Profile</td>
+				<td>f;kitsulink &lt;slug&gt;</td>
+						</tr>
+						
+
+				<th>osulink</th>
+				<td>Link OSU Account</td>
+				<td>f;osulink &lt;name&gt;</td>
+						</tr>
+						
+
+				<th>profile</th>
+				<td>Check your Profile</td>
+				<td>f;profile</td>
+						</tr>
+						
+
+				<th>rep</th>
+				<td>Give Reputation to a friend or amigo</td>
+				<td>f;rep &lt;mention|ID&gt;</td>
+						</tr>
+						
+
+				<th>cuddle</th>
+				<td>Cuddles :3</td>
+				<td>f;cuddle &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>divorce</th>
+				<td>Marry your love one</td>
+				<td>f;divorce &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>hug</th>
+				<td>Give hugs to people image</td>
+				<td>f;hug &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>kiss</th>
+				<td>Kiss somebody</td>
+				<td>f;kiss &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>marry</th>
+				<td>Marry your wife or husband</td>
+				<td>f;marry &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>pat</th>
+				<td>Pat somebody</td>
+				<td>f;pat &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>wife</th>
+				<td>Check who's your wife or husband</td>
+				<td>f;wife &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>fortnite</th>
+				<td>Get info of your Fortnite Stats</td>
+				<td>f;fortnite &lt;username&gt;</td>
+						</tr>
+						
+
+				<th>googleplay</th>
+				<td>Get Info from google play apps</td>
+				<td>f;googleplay &lt;app&gt;</td>
+						</tr>
+						
+
+				<th>hypixel</th>
+				<td>Displays your hypixel stats</td>
+				<td>f;hypixel &lt;username&gt;</td>
+						</tr>
+						
+
+				<th>imdb</th>
+				<td>Get info about series and movies from imdb</td>
+				<td>f;imdb &lt;movie&gt;</td>
+						</tr>
+						
+
+				<th>instagram (Owner-Only)</th>
+				<td>Find out some nice instagram statistics</td>
+				<td>f;instagram &lt;username&gt;</td>
+						</tr>
+						
+
+				<th>ng</th>
+				<td>Search up your nethergames stats</td>
+				<td>f;ng &lt;username&gt;</td>
+						</tr>
+						
+
+				<th>osu</th>
+				<td>Search Osu profile</td>
+				<td>f;osu &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>query</th>
+				<td>Displays your minecraft server info only bedrock editon </td>
+				<td>f;query &lt;ip&gt; [port]</td>
+						</tr>
+						
+
+				<th>recent</th>
+				<td>Search recent players games</td>
+				<td>f;recent &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>roblox</th>
+				<td>Search up your roblox profile</td>
+				<td>f;roblox &lt;username&gt;</td>
+						</tr>
+						
+
+				<th>skyblock</th>
+				<td>Search up your skyblock(hypixel) stats</td>
+				<td>f;skyblock &lt;username&gt;</td>
+						</tr>
+						
+
+				<th>translate</th>
+				<td>Translate Stuff for u</td>
+				<td>f;translate &lt;your words&gt;</td>
+						</tr>
+						
+
+				<th>urban</th>
+				<td>Searches up Urban Dictionary</td>
+				<td>f;urban &lt;your search&gt;</td>
+						</tr>
+						
+
+				<th>wiki</th>
+				<td>Search Stuff on the wikipedia</td>
+				<td>f;wiki &lt;term&gt;</td>
+						</tr>
+						
+
+				<th>command</th>
+				<td>Custom Commands</td>
+				<td>f;command remove|edit|add [command]</td>
+						</tr>
+						
+
+				<th>disable</th>
+				<td>Configuration For server</td>
+				<td>f;disable</td>
+						</tr>
+						
+
+				<th>enable</th>
+				<td>Configuration For server</td>
+				<td>f;enable</td>
+						</tr>
+						
+
+				<th>prefix</th>
+				<td>Change prefix of a guild</td>
+				<td>f;prefix &lt;new prefix&gt;</td>
+						</tr>
+						
+
+				<th>settings</th>
+				<td>View your server configuration</td>
+				<td>f;settings</td>
+						</tr>
+						
+
+				<th>addxp</th>
+				<td>Add XP to user.</td>
+				<td>f;addxp &lt;@user|userID&gt; <amount></td>
+						</tr>
+						
+
+				<th>getxp</th>
+				<td>Get xp of a user</td>
+				<td>f;getxp [user]</td>
+						</tr>
+						
+
+				<th>rankchannel</th>
+				<td>set rank channel or disable rank channel.
+ U can use `{user}` an `{level}` inside your message</td>
+				<td>f;rankchannel &lt;reply|channel|disable&gt; <channel></td>
+						</tr>
+						
+
+				<th>removexp</th>
+				<td>Remove XP from user.</td>
+				<td>f;removexp &lt;@user|userID&gt; <amount></td>
+						</tr>
+						
+
+				<th>removexprole</th>
+				<td>Remove XP from user.</td>
+				<td>f;removexprole &lt;@user|userID&gt; <amount></td>
+						</tr>
+						
+
+				<th>setmultiplier</th>
+				<td>Set Multiplier to your server</td>
+				<td>f;setmultiplier &lt;number&gt;</td>
+						</tr>
+						
+
+				<th>togglexpsystem</th>
+				<td>Turn on your system or turn off it</td>
+				<td>f;togglexpsystem &lt;on/off/enable/disable&gt;</td>
+						</tr>
+						
+
+				<th>xpleaderboard</th>
+				<td>Shows the top level users out of the server. if u want to show global leaderboard do -gl</td>
+				<td>f;xpleaderboard [-gl]</td>
+						</tr>
+						</tbody>
