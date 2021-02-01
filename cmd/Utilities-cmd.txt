@@ -3,13 +3,13 @@
 
 				<th>afk</th>
 				<td>Make yourself afk</td>
-				<td>f;afk <text></td>
+				<td>f;afk &lt;text&gt;</td>
 						</tr>
 						
 
 				<th>changelog</th>
 				<td>Check latest change logs</td>
-				<td>f;changelog <text></td>
+				<td>f;changelog &lt;text&gt;</td>
 						</tr>
 						
 
@@ -45,7 +45,7 @@
 
 				<th>say</th>
 				<td>Makes the bot says stuff</td>
-				<td>f;say <text></td>
+				<td>f;say &lt;text&gt;</td>
 						</tr>
 						
 
@@ -63,7 +63,7 @@
 
 				<th>suggestion</th>
 				<td>suggestion</td>
-				<td>f;suggestion <fun idea></td>
+				<td>f;suggestion &lt;fun idea&gt;</td>
 						</tr>
 						
 
