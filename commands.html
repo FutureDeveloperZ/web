@@ -137,6 +137,7 @@
                     <button class="tablinks" onclick="openCity(event, 'Fun')">Fun</button>
                     <button class="tablinks" onclick="openCity(event, 'XP')">XP</button>
                     <button class="tablinks" onclick="openCity(event, 'Economy')">Economy</button>
+                    <button class="tablinks" onclick="openCity(event, 'Profile')">Profile</button>
                     <button class="tablinks" onclick="openCity(event, 'Games')">Games</button>
                     <button class="tablinks" onclick="openCity(event, 'NSFW')">NSFW</button>
                     <button class="tablinks" onclick="openCity(event, 'Settings')">Settings</button>
@@ -284,6 +285,16 @@
                     });
 
                     axios.get('/cmd/settings-cmd.txt')
+                    .then(function (response) {
+                        $(".table-settings").append(response.data);
+                    })
+                    .catch(function (error) {
+                        console.log(error);
+                    }) 
+                    .then(function () {
+                    });
+                    
+                    axios.get('/cmd/Profile-cmd.txt')
                     .then(function (response) {
                         $(".table-settings").append(response.data);
                     })
@@ -442,6 +453,18 @@
                 </div>
                 <div id="Economy" class="tabcontent table-container">
                     <table class="table table-economy is-fullwidth is-scrollable is-narrow is-hoverable">
+                        <thead>
+                            <tr>
+                            <th>Command</th>
+                            <th>Description</th>
+                            <th>Usage</th>
+                            </tr>
+                        </thead>
+
+                    </table>
+                </div>
+                <div id="Profile" class="tabcontent table-container">
+                    <table class="table table-profile is-fullwidth is-scrollable">
                         <thead>
                             <tr>
                             <th>Command</th>
