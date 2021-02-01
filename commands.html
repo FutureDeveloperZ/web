@@ -296,7 +296,7 @@
                     
                     axios.get('/cmd/Profile-cmd.txt')
                     .then(function (response) {
-                        $(".table-settings").append(response.data);
+                        $(".table-profile").append(response.data);
                     })
                     .catch(function (error) {
                         console.log(error);
