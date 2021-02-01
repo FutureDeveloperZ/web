@@ -3,13 +3,13 @@
 
 				<th>instagram (Owner-Only)</th>
 				<td>Find out some nice instagram statistics</td>
-				<td>f;instagram <username></td>
+				<td>f;instagram &lt;username&gt;</td>
 						</tr>
 						
 
 				<th>8ball</th>
 				<td>Ask a question and get and answer</td>
-				<td>f;8ball <question></td>
+				<td>f;8ball &lt;question&gt;</td>
 						</tr>
 						
 
@@ -43,6 +43,12 @@
 						</tr>
 						
 
+				<th>clap</th>
+				<td>Clap Between your text</td>
+				<td>f;clap &lt;Text&gt;</td>
+						</tr>
+						
+
 				<th>coinflip</th>
 				<td>Coinflip and wait for the coin to flip</td>
 				<td>f;coinflip</td>
@@ -57,7 +63,7 @@
 
 				<th>discrim</th>
 				<td>Displays Discrim from users</td>
-				<td>f;discrim <number></td>
+				<td>f;discrim &lt;number&gt;</td>
 						</tr>
 						
 
@@ -69,7 +75,13 @@
 
 				<th>emoji</th>
 				<td>Expand emoji</td>
-				<td>f;emoji <emoji></td>
+				<td>f;emoji &lt;emoji&gt;</td>
+						</tr>
+						
+
+				<th>emojify</th>
+				<td>Make your text into emojis</td>
+				<td>f;emojify &lt;Text&gt;</td>
 						</tr>
 						
 
@@ -87,7 +99,7 @@
 
 				<th>hack</th>
 				<td>Hack a user</td>
-				<td>f;hack <user></td>
+				<td>f;hack &lt;user&gt;</td>
 						</tr>
 						
 
@@ -99,7 +111,7 @@
 
 				<th>image</th>
 				<td>Search images in the internet</td>
-				<td>f;image <search></td>
+				<td>f;image &lt;search&gt;</td>
 						</tr>
 						
 
@@ -123,7 +135,7 @@
 
 				<th>qr</th>
 				<td>Make a qr</td>
-				<td>f;qr <text></td>
+				<td>f;qr &lt;text&gt;</td>
 						</tr>
 						
 
@@ -135,7 +147,7 @@
 
 				<th>rate</th>
 				<td>Rate something idk</td>
-				<td>f;rate <something></td>
+				<td>f;rate &lt;something&gt;</td>
 						</tr>
 						
 
@@ -147,19 +159,19 @@
 
 				<th>roast</th>
 				<td>Roats your haters</td>
-				<td>f;roast <user></td>
+				<td>f;roast &lt;user&gt;</td>
 						</tr>
 						
 
 				<th>sacrifice</th>
 				<td>Sacrifice a friend or someone</td>
-				<td>f;sacrifice <user></td>
+				<td>f;sacrifice &lt;user&gt;</td>
 						</tr>
 						
 
 				<th>screenshot</th>
 				<td>Takes a screenshot from a website</td>
-				<td>f;screenshot <user></td>
+				<td>f;screenshot &lt;user&gt;</td>
 						</tr>
 						
 
