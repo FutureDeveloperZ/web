@@ -1,56 +1,44 @@
 <tbody>
 						<tr>
 
-				<th>cat</th>
-				<td>Get cute cat pictures!</td>
-				<td>f;cat</td>
-						</tr>
-						
-
 				<th>cuddle</th>
 				<td>Cuddles :3</td>
-				<td>f;cuddle <user></td>
+				<td>f;cuddle &lt;user&gt;</td>
 						</tr>
 						
 
 				<th>divorce</th>
 				<td>Marry your love one</td>
-				<td>f;divorce <user></td>
-						</tr>
-						
-
-				<th>dog</th>
-				<td>Get cute dogs pictures</td>
-				<td>f;dog</td>
+				<td>f;divorce &lt;user&gt;</td>
 						</tr>
 						
 
 				<th>hug</th>
 				<td>Give hugs to people image</td>
-				<td>f;hug <user></td>
+				<td>f;hug &lt;user&gt;</td>
 						</tr>
 						
 
 				<th>kiss</th>
 				<td>Kiss somebody</td>
-				<td>f;kiss <user></td>
+				<td>f;kiss &lt;user&gt;</td>
 						</tr>
 						
 
 				<th>marry</th>
 				<td>Marry your wife or husband</td>
-				<td>f;marry <user></td>
+				<td>f;marry &lt;user&gt;</td>
 						</tr>
 						
 
 				<th>pat</th>
 				<td>Pat somebody</td>
-				<td>f;pat <user></td>
+				<td>f;pat &lt;user&gt;</td>
 						</tr>
 						
 
 				<th>wife</th>
 				<td>Check who's your wife or husband</td>
-				<td>f;wife <user></td>
+				<td>f;wife &lt;user&gt;</td>
 						</tr>
 						</tbody>
