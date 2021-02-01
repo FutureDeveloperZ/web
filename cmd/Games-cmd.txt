@@ -27,7 +27,7 @@
 
 				<th>gunfight</th>
 				<td>Engage in a western gunfight against another user. High noon.</td>
-				<td>f;gunfight <opponent></td>
+				<td>f;gunfight &lt;opponent&gt;</td>
 						</tr>
 						
 
@@ -69,6 +69,6 @@
 
 				<th>typingrace</th>
 				<td>Race a user to see who can type a sentence faster.</td>
-				<td>f;typingrace <opponent></td>
+				<td>f;typingrace &lt;opponent&gt;</td>
 						</tr>
 						</tbody>
