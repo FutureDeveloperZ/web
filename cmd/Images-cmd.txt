@@ -3,13 +3,13 @@
 
 				<th>3000</th>
 				<td>Is been 3,000 Years</td>
-				<td>f;3000 <user></td>
+				<td>f;3000 &lt;user&gt;</td>
 						</tr>
 						
 
 				<th>achievement</th>
 				<td>Get a Achievement image</td>
-				<td>f;achievement <text></td>
+				<td>f;achievement &lt;text&gt;</td>
 						</tr>
 						
 
@@ -21,7 +21,7 @@
 
 				<th>beautiful</th>
 				<td>Are u beautiful?</td>
-				<td>f;beautiful <user></td>
+				<td>f;beautiful &lt;user&gt;</td>
 						</tr>
 						
 
@@ -32,8 +32,14 @@
 						
 
 				<th>caption</th>
-				<td>Generates a meme from an image (separate top/bottom text with a comma)</td>
-				<td>f;caption [text]</td>
+				<td>Generates a meme in form of a caption</td>
+				<td>f;caption &lt;text&gt;</td>
+						</tr>
+						
+
+				<th>cat</th>
+				<td>Get cute cat pictures!</td>
+				<td>f;cat</td>
 						</tr>
 						
 
@@ -45,19 +51,19 @@
 
 				<th>crush</th>
 				<td>He's you're crush </td>
-				<td>f;crush <user></td>
+				<td>f;crush &lt;user&gt;</td>
 						</tr>
 						
 
 				<th>deepfry</th>
 				<td>Deepfry a Image</td>
-				<td>f;deepfry <image></td>
+				<td>f;deepfry &lt;image&gt;</td>
 						</tr>
 						
 
 				<th>demotivational</th>
 				<td>Get a Demotivational image</td>
-				<td>f;demotivational demotivational <title | text></td>
+				<td>f;demotivational demotivational &lt;title | text&gt;</td>
 						</tr>
 						
 
@@ -67,33 +73,39 @@
 						</tr>
 						
 
+				<th>dog</th>
+				<td>Get cute dogs pictures</td>
+				<td>f;dog</td>
+						</tr>
+						
+
 				<th>drip</th>
 				<td>Eject your Friend</td>
-				<td>f;drip <user | image></td>
+				<td>f;drip &lt;user | image&gt;</td>
 						</tr>
 						
 
 				<th>eject</th>
 				<td>Eject your Friend</td>
-				<td>f;eject <user></td>
+				<td>f;eject &lt;user&gt;</td>
 						</tr>
 						
 
 				<th>gruplan</th>
 				<td>Make a meme with the Gru Plan Template</td>
-				<td>f;gruplan <text | text | text></td>
+				<td>f;gruplan &lt;text | text | text&gt;</td>
 						</tr>
 						
 
 				<th>horny</th>
 				<td>Get your own License to be horny</td>
-				<td>f;horny <image/avatar></td>
+				<td>f;horny &lt;image/avatar&gt;</td>
 						</tr>
 						
 
 				<th>jar</th>
 				<td>Is just a Jar</td>
-				<td>f;jar <user></td>
+				<td>f;jar &lt;user&gt;</td>
 						</tr>
 						
 
@@ -105,43 +117,43 @@
 
 				<th>lisa</th>
 				<td>Make a presentation with lisa template</td>
-				<td>f;lisa <text></td>
+				<td>f;lisa &lt;text&gt;</td>
 						</tr>
 						
 
 				<th>machine</th>
 				<td>Is it a machine?</td>
-				<td>f;machine <user></td>
+				<td>f;machine &lt;user&gt;</td>
 						</tr>
 						
 
 				<th>meme</th>
 				<td>Generates a meme from an image (separate top/bottom text with a comma)</td>
-				<td>f;meme [top text], {bottom text}</td>
+				<td>f;meme &lt;top text&gt;, [bottom text]</td>
 						</tr>
 						
 
 				<th>paint</th>
 				<td>Bobross made your profile?</td>
-				<td>f;paint <user></td>
+				<td>f;paint &lt;user&gt;</td>
 						</tr>
 						
 
 				<th>petpet</th>
 				<td>petpet someone :D</td>
-				<td>f;petpet <image></td>
+				<td>f;petpet &lt;image&gt;</td>
 						</tr>
 						
 
 				<th>photograph</th>
 				<td>Look at my Photograph</td>
-				<td>f;photograph <user></td>
+				<td>f;photograph &lt;user&gt;</td>
 						</tr>
 						
 
 				<th>plankton</th>
 				<td>Make a meme with the Plankton Plan Template</td>
-				<td>f;plankton <text | text | text></td>
+				<td>f;plankton &lt;text | text | text&gt;</td>
 						</tr>
 						
 
@@ -153,18 +165,18 @@
 
 				<th>stickbug</th>
 				<td>Get stick bug or something idk</td>
-				<td>f;stickbug <image></td>
+				<td>f;stickbug &lt;image&gt;</td>
 						</tr>
 						
 
 				<th>yousuck</th>
 				<td>Basically u just suck</td>
-				<td>f;yousuck <user></td>
+				<td>f;yousuck &lt;user&gt;</td>
 						</tr>
 						
 
 				<th>youtube</th>
 				<td>Make a youtube image</td>
-				<td>f;youtube <text></td>
+				<td>f;youtube &lt;text&gt;</td>
 						</tr>
 						</tbody>
