@@ -3,7 +3,7 @@
 
 				<th>addxp</th>
 				<td>Add XP to user.</td>
-				<td>f;addxp <@user|userID> <amount></td>
+				<td>f;addxp &lt;@user|userID&gt; <amount></td>
 						</tr>
 						
 
@@ -16,31 +16,31 @@
 				<th>rankchannel</th>
 				<td>set rank channel or disable rank channel.
  U can use `{user}` an `{level}` inside your message</td>
-				<td>f;rankchannel <reply|channel|disable> <channel></td>
+				<td>f;rankchannel &lt;reply|channel|disable&gt; <channel></td>
 						</tr>
 						
 
 				<th>removexp</th>
 				<td>Remove XP from user.</td>
-				<td>f;removexp <@user|userID> <amount></td>
+				<td>f;removexp &lt;@user|userID&gt; <amount></td>
 						</tr>
 						
 
 				<th>removexprole</th>
 				<td>Remove XP from user.</td>
-				<td>f;removexprole <@user|userID> <amount></td>
+				<td>f;removexprole &lt;@user|userID&gt; <amount></td>
 						</tr>
 						
 
 				<th>setmultiplier</th>
 				<td>Set Multiplier to your server</td>
-				<td>f;setmultiplier <number></td>
+				<td>f;setmultiplier &lt;number&gt;</td>
 						</tr>
 						
 
 				<th>togglexpsystem</th>
 				<td>Turn on your system or turn off it</td>
-				<td>f;togglexpsystem <on/off/enable/disable></td>
+				<td>f;togglexpsystem &lt;on/off/enable/disable&gt;</td>
 						</tr>
 						
 
