@@ -1,9 +1,33 @@
 <tbody>
 						<tr>
 
+				<th>fast-forward</th>
+				<td>Fast forwards the player by your specified amount</td>
+				<td>f;fast-forward &lt;time&gt;</td>
+						</tr>
+						
+
+				<th>join</th>
+				<td>Makes the bot join your voice channel.</td>
+				<td>f;join</td>
+						</tr>
+						
+
 				<th>loop</th>
 				<td>Loops your playlist</td>
 				<td>f;loop</td>
+						</tr>
+						
+
+				<th>lyrics</th>
+				<td>Search Lyrics of songs</td>
+				<td>f;lyrics &lt;song&gt;</td>
+						</tr>
+						
+
+				<th>nightcore</th>
+				<td>Toggles Nightcore audio affect.</td>
+				<td>f;nightcore &lt;time&gt;</td>
 						</tr>
 						
 
@@ -13,15 +37,9 @@
 						</tr>
 						
 
-				<th>pause</th>
-				<td>Pauses the currently track</td>
-				<td>f;pause</td>
-						</tr>
-						
-
 				<th>play</th>
 				<td>Play music.</td>
-				<td>f;play <song></td>
+				<td>f;play &lt;song&gt;</td>
 						</tr>
 						
 
@@ -31,15 +49,15 @@
 						</tr>
 						
 
-				<th>remove</th>
-				<td>View your Queue</td>
-				<td>f;remove <queue number></td>
-						</tr>
-						
-
 				<th>resume</th>
 				<td>Resume the currently track</td>
 				<td>f;resume</td>
+						</tr>
+						
+
+				<th>rewind</th>
+				<td>Rewinds the player by your specified amount.</td>
+				<td>f;rewind</td>
 						</tr>
 						
 
@@ -55,12 +73,6 @@
 						</tr>
 						
 
-				<th>skipto</th>
-				<td>View your Queue</td>
-				<td>f;skipto <skipto></td>
-						</tr>
-						
-
 				<th>stop</th>
 				<td>Stops playing the current track.</td>
 				<td>f;stop</td>
@@ -69,6 +81,6 @@
 
 				<th>volume</th>
 				<td>Change the current volume of the music</td>
-				<td>f;volume <number></td>
+				<td>f;volume &lt;number&gt;</td>
 						</tr>
 						</tbody>
