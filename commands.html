@@ -92,21 +92,6 @@
 
     <body>
 
-        <!-- <script>
-            if ('serviceWorker' in navigator) {
-                window.addEventListener('load', () => {
-                    navigator.serviceWorker.register('/service-worker.js').then(
-                        registration => {
-                            console.log(`ServiceWorker registration successful with scope: ${registration.scope}`);
-                        },
-                        error => {
-                            console.log(`ServiceWorker registration failed: ${error}`);
-                        }
-                    );
-                });
-            }
-        </script> -->
-
         <div class="custom-shape-divider-top-1611483095">
             <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120"
                 preserveAspectRatio="none">
@@ -209,9 +194,9 @@
 
                                 return ret;
                             }
-                            let lol = replaceParallel(["<th>doujin (NSFW)</th", "<td>Search for good sauce</td>", "<td>f;doujin &lt;number&gt;</td>"], "", "");
+                            let removeNSFW = replaceParallel(["<th>doujin (NSFW)</th", "<td>Search for good sauce</td>", "<td>f;doujin &lt;number&gt;</td>"], "", responses);
 
-                            $(".table-anime").append(lol);
+                            $(".table-anime").append(removeNSFW);
                         })
                         .catch(function (error) {
                             console.log(error);
