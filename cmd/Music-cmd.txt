@@ -1,6 +1,12 @@
 <tbody>
 						<tr>
 
+				<th>247</th>
+				<td>Stays in the voice channel even if no one is in it.</td>
+				<td>f;247</td>
+						</tr>
+						
+
 				<th>fast-forward</th>
 				<td>Fast forwards the player by your specified amount</td>
 				<td>f;fast-forward &lt;time&gt;</td>
@@ -15,7 +21,7 @@
 
 				<th>loop</th>
 				<td>Loops your playlist</td>
-				<td>f;loop</td>
+				<td>f;loop &lt;song | queue&gt;</td>
 						</tr>
 						
 
@@ -27,7 +33,7 @@
 
 				<th>nightcore</th>
 				<td>Toggles Nightcore audio affect.</td>
-				<td>f;nightcore &lt;time&gt;</td>
+				<td>f;nightcore &lt;off/on&gt;</td>
 						</tr>
 						
 
@@ -37,9 +43,15 @@
 						</tr>
 						
 
+				<th>pause</th>
+				<td>Pause the currently track</td>
+				<td>f;pause</td>
+						</tr>
+						
+
 				<th>play</th>
 				<td>Play music.</td>
-				<td>f;play &lt;song&gt;</td>
+				<td>f;play &lt;link | attachment | song name&gt;</td>
 						</tr>
 						
 
@@ -74,7 +86,7 @@
 						
 
 				<th>stop</th>
-				<td>Stops playing the current track.</td>
+				<td>Disconnects from Voice Channel.</td>
 				<td>f;stop</td>
 						</tr>
 						
