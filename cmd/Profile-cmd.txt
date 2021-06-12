@@ -21,6 +21,6 @@
 
 				<th>rep</th>
 				<td>Give Reputation to a friend or amigo</td>
-				<td>f;rep &lt;mention|ID&gt;</td>
+				<td>f;rep &lt;@mention&gt;</td>
 						</tr>
 						</tbody>
