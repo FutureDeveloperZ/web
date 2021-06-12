@@ -43,15 +43,39 @@
 						</tr>
 						
 
+				<th>privacy</th>
+				<td>Privacy of the bot</td>
+				<td>f;privacy</td>
+						</tr>
+						
+
+				<th>rules</th>
+				<td>Rules for the bot</td>
+				<td>f;rules</td>
+						</tr>
+						
+
 				<th>say</th>
 				<td>Makes the bot says stuff</td>
 				<td>f;say &lt;text&gt;</td>
 						</tr>
 						
 
+				<th>scan (Owner-Only)</th>
+				<td>Scan URLs for malware or etc</td>
+				<td>f;scan [url]</td>
+						</tr>
+						
+
 				<th>server</th>
 				<td>Displays the server Information</td>
 				<td>f;server</td>
+						</tr>
+						
+
+				<th>spotify (Owner-Only)</th>
+				<td>Get what song the user is lisenting too</td>
+				<td>f;spotify</td>
 						</tr>
 						
 
