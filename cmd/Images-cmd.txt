@@ -55,21 +55,15 @@
 						</tr>
 						
 
-				<th>deepfry</th>
-				<td>Deepfry a Image</td>
-				<td>f;deepfry &lt;image&gt;</td>
-						</tr>
-						
-
 				<th>demotivational</th>
 				<td>Get a Demotivational image</td>
-				<td>f;demotivational demotivational &lt;title | text&gt;</td>
+				<td>f;demotivational &lt;title | text&gt;</td>
 						</tr>
 						
 
 				<th>dexter</th>
 				<td>Get a Dexter image</td>
-				<td>f;dexter dexter [user]</td>
+				<td>f;dexter [user]</td>
 						</tr>
 						
 
