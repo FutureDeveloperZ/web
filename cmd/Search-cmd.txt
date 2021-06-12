@@ -13,15 +13,27 @@
 						</tr>
 						
 
+				<th>hive</th>
+				<td>Displays your Hive stats</td>
+				<td>f;hive &lt;sky|hide|wars|dr|murder&gt; <username></td>
+						</tr>
+						
+
 				<th>hypixel</th>
 				<td>Displays your hypixel stats</td>
-				<td>f;hypixel &lt;username&gt;</td>
+				<td>f;hypixel &lt;ign&gt; [skywars/duels/bedwars/guild]</td>
 						</tr>
 						
 
 				<th>imdb</th>
 				<td>Get info about series and movies from imdb</td>
 				<td>f;imdb &lt;movie&gt;</td>
+						</tr>
+						
+
+				<th>namemc</th>
+				<td>Displays your NameMC stats</td>
+				<td>f;namemc &lt;ign&gt;</td>
 						</tr>
 						
 
@@ -34,6 +46,12 @@
 				<th>osu</th>
 				<td>Search Osu profile</td>
 				<td>f;osu &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>potter</th>
+				<td>Search PotterWorld profile</td>
+				<td>f;potter &lt;user&gt;</td>
 						</tr>
 						
 
