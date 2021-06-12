@@ -1,57 +1,51 @@
 <tbody>
 						<tr>
 
-				<th>account (Owner-Only)</th>
-				<td>Check your account</td>
-				<td>f;account</td>
-						</tr>
-						
-
 				<th>adminpay (Owner-Only)</th>
 				<td>I pay someone</td>
 				<td>f;adminpay</td>
 						</tr>
 						
 
-				<th>block (Owner-Only)</th>
-				<td>ME blocky</td>
-				<td>f;block</td>
-						</tr>
-						
-
-				<th>coinbet (Owner-Only)</th>
+				<th>coinbet</th>
 				<td>Bet coins with another user</td>
 				<td>f;coinbet &lt;user&gt; <bet> <heads/tail></td>
 						</tr>
 						
 
-				<th>create (Owner-Only)</th>
-				<td>Create a Account</td>
-				<td>f;create</td>
-						</tr>
-						
-
-				<th>daily (Owner-Only)</th>
+				<th>daily</th>
 				<td>Get your daily money</td>
 				<td>f;daily</td>
 						</tr>
 						
 
-				<th>gamble (Owner-Only)</th>
+				<th>deposit</th>
+				<td>Deposit your money to the Bank</td>
+				<td>f;deposit &lt;all | number&gt;</td>
+						</tr>
+						
+
+				<th>gamble</th>
 				<td>Gamble your money for more money</td>
 				<td>f;gamble &lt;bet&gt;</td>
 						</tr>
 						
 
-				<th>leaderboard (Owner-Only)</th>
+				<th>leaderboard</th>
 				<td>Checks the leaderboard</td>
 				<td>f;leaderboard</td>
 						</tr>
 						
 
-				<th>pay (Owner-Only)</th>
+				<th>pay</th>
 				<td>Pay a user</td>
 				<td>f;pay &lt;user&gt; <money></td>
+						</tr>
+						
+
+				<th>rob</th>
+				<td>Rob someone for free money</td>
+				<td>f;rob &lt;user&gt;</td>
 						</tr>
 						
 
@@ -61,7 +55,13 @@
 						</tr>
 						
 
-				<th>work (Owner-Only)</th>
+				<th>withdraw</th>
+				<td>Deposit your money to the Bank</td>
+				<td>f;withdraw &lt;all | number&gt;</td>
+						</tr>
+						
+
+				<th>work</th>
 				<td>Get your daily money</td>
 				<td>f;work</td>
 						</tr>
