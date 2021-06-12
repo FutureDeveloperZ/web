@@ -2,14 +2,32 @@
 						<tr>
 
 				<th>akinator</th>
-				<td>Play Connect4 With friends</td>
+				<td>Akinator game</td>
 				<td>f;akinator</td>
+						</tr>
+						
+
+				<th>bingo</th>
+				<td>Play Bingo With friends</td>
+				<td>f;bingo</td>
+						</tr>
+						
+
+				<th>car-race</th>
+				<td>Play Car Race With friends</td>
+				<td>f;car-race &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>chess</th>
+				<td>Play Chess With friends</td>
+				<td>f;chess &lt;user&gt;</td>
 						</tr>
 						
 
 				<th>connect4</th>
 				<td>Play Connect4 With friends</td>
-				<td>f;connect4</td>
+				<td>f;connect4 &lt;user&gt;</td>
 						</tr>
 						
 
@@ -43,6 +61,12 @@
 						</tr>
 						
 
+				<th>jenga</th>
+				<td>Play Jenga With friends</td>
+				<td>f;jenga</td>
+						</tr>
+						
+
 				<th>mafia</th>
 				<td>Setup a mafia game, must have at least 4 reactors.</td>
 				<td>f;mafia</td>
@@ -64,6 +88,12 @@
 				<th>rr</th>
 				<td>play a game of Rousian Roullete</td>
 				<td>f;rr [user]</td>
+						</tr>
+						
+
+				<th>typing-test</th>
+				<td>See how fast you can type a sentence.</td>
+				<td>f;typing-test</td>
 						</tr>
 						
 
