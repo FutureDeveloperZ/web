@@ -1,15 +1,219 @@
 <tbody>
 						<tr>
 
+				<th>bite</th>
+				<td>Bites >:3</td>
+				<td>f;bite [user]</td>
+						</tr>
+						
+
+				<th>cry</th>
+				<td>Cry :3</td>
+				<td>f;cry [user]</td>
+						</tr>
+						
+
+				<th>die</th>
+				<td>Die :3</td>
+				<td>f;die [user]</td>
+						</tr>
+						
+
+				<th>hate</th>
+				<td>Hate >:3</td>
+				<td>f;hate [user]</td>
+						</tr>
+						
+
+				<th>kill</th>
+				<td>Kill >:3</td>
+				<td>f;kill [user]</td>
+						</tr>
+						
+
+				<th>shoot</th>
+				<td>Shoot >:3</td>
+				<td>f;shoot [user]</td>
+						</tr>
+						
+
+				<th>slap</th>
+				<td>Slap >:3</td>
+				<td>f;slap [user]</td>
+						</tr>
+						
+
+				<th>stab</th>
+				<td>Shoot >:3</td>
+				<td>f;stab [user]</td>
+						</tr>
+						
+
+				<th>bonk</th>
+				<td>Bonk :3</td>
+				<td>f;bonk [user]</td>
+						</tr>
+						
+
+				<th>bored</th>
+				<td>Bored :3</td>
+				<td>f;bored [user]</td>
+						</tr>
+						
+
+				<th>chase</th>
+				<td>Chase :3</td>
+				<td>f;chase [user]</td>
+						</tr>
+						
+
+				<th>cringe</th>
+				<td>cringe :3</td>
+				<td>f;cringe [user]</td>
+						</tr>
+						
+
+				<th>dab</th>
+				<td>dab :3</td>
+				<td>f;dab [user]</td>
+						</tr>
+						
+
+				<th>facepalm</th>
+				<td>facepalm :3</td>
+				<td>f;facepalm [user]</td>
+						</tr>
+						
+
+				<th>nervous</th>
+				<td>nervous :3</td>
+				<td>f;nervous [user]</td>
+						</tr>
+						
+
+				<th>no</th>
+				<td>no :3</td>
+				<td>f;no [user]</td>
+						</tr>
+						
+
+				<th>panic</th>
+				<td>panic :3</td>
+				<td>f;panic [user]</td>
+						</tr>
+						
+
+				<th>rage</th>
+				<td>Rage :3</td>
+				<td>f;rage [user]</td>
+						</tr>
+						
+
+				<th>run</th>
+				<td>run :3</td>
+				<td>f;run [user]</td>
+						</tr>
+						
+
+				<th>sip</th>
+				<td>sip :3</td>
+				<td>f;sip [user]</td>
+						</tr>
+						
+
+				<th>smug</th>
+				<td>smug :3</td>
+				<td>f;smug [user]</td>
+						</tr>
+						
+
+				<th>stare</th>
+				<td>stare :3</td>
+				<td>f;stare [user]</td>
+						</tr>
+						
+
+				<th>tease</th>
+				<td>tease :3</td>
+				<td>f;tease [user]</td>
+						</tr>
+						
+
+				<th>think</th>
+				<td>Think :3</td>
+				<td>f;think [user]</td>
+						</tr>
+						
+
+				<th>wink</th>
+				<td>Wink :3</td>
+				<td>f;wink [user]</td>
+						</tr>
+						
+
+				<th>yes</th>
+				<td>YEs :3</td>
+				<td>f;yes [user]</td>
+						</tr>
+						
+
+				<th>blush</th>
+				<td>Blush :3</td>
+				<td>f;blush [user]</td>
+						</tr>
+						
+
+				<th>boop</th>
+				<td>Boop someone nose :3</td>
+				<td>f;boop [user]</td>
+						</tr>
+						
+
+				<th>cheer</th>
+				<td>Cheer :3</td>
+				<td>f;cheer [user]</td>
+						</tr>
+						
+
 				<th>cuddle</th>
 				<td>Cuddles :3</td>
 				<td>f;cuddle &lt;user&gt;</td>
 						</tr>
 						
 
-				<th>divorce</th>
-				<td>Marry your love one</td>
-				<td>f;divorce &lt;user&gt;</td>
+				<th>dance</th>
+				<td>Dance :3</td>
+				<td>f;dance &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>feed</th>
+				<td>Feed :3</td>
+				<td>f;feed &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>glomp</th>
+				<td>Glomp :3</td>
+				<td>f;glomp [user]</td>
+						</tr>
+						
+
+				<th>handhold</th>
+				<td>handHold :3</td>
+				<td>f;handhold [user]</td>
+						</tr>
+						
+
+				<th>happy</th>
+				<td>Happy :3</td>
+				<td>f;happy &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>highfive</th>
+				<td>HighFive :3</td>
+				<td>f;highfive [user]</td>
 						</tr>
 						
 
@@ -25,15 +229,105 @@
 						</tr>
 						
 
-				<th>marry</th>
-				<td>Marry your wife or husband</td>
-				<td>f;marry &lt;user&gt;</td>
+				<th>laugh</th>
+				<td>Laugh :3</td>
+				<td>f;laugh &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>lick</th>
+				<td>Lick :3</td>
+				<td>f;lick &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>love</th>
+				<td>love :3</td>
+				<td>f;love &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>lurk</th>
+				<td>Lurk :3</td>
+				<td>f;lurk &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>nom</th>
+				<td>Nom on things :3</td>
+				<td>f;nom &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>nuzzle</th>
+				<td>Nuzzle on that bulgy UwU</td>
+				<td>f;nuzzle &lt;user&gt;</td>
 						</tr>
 						
 
 				<th>pat</th>
 				<td>Pat somebody</td>
 				<td>f;pat &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>peck</th>
+				<td>peck :3</td>
+				<td>f;peck &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>poke</th>
+				<td>Poke :3</td>
+				<td>f;poke &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>pout</th>
+				<td>Pout :3</td>
+				<td>f;pout &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>sleep</th>
+				<td>Sleep :3</td>
+				<td>f;sleep &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>thumbsup</th>
+				<td>Thumbsup :3</td>
+				<td>f;thumbsup &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>tickle</th>
+				<td>Tickle :3</td>
+				<td>f;tickle &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>wag</th>
+				<td>Wag :3</td>
+				<td>f;wag &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>wave</th>
+				<td>Wave :3</td>
+				<td>f;wave &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>divorce</th>
+				<td>Divorce your love one</td>
+				<td>f;divorce &lt;user&gt;</td>
+						</tr>
+						
+
+				<th>marry</th>
+				<td>Marry your wife or husband</td>
+				<td>f;marry &lt;user&gt;</td>
 						</tr>
 						
 
