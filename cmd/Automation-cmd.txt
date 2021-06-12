@@ -3,19 +3,13 @@
 
 				<th>goodbye</th>
 				<td>Enable the Goodbye plugin to be able to post your own goodbye message</td>
-				<td>f;goodbye &lt;on|off|channel|text&gt; <channel|text></td>
-						</tr>
-						
-
-				<th>antilink</th>
-				<td>Configuration For server</td>
-				<td>f;antilink &lt;on/off/enable/disable&gt;</td>
+				<td>f;goodbye &lt;toggle|channel|text&gt; <channel|text></td>
 						</tr>
 						
 
 				<th>chatbot</th>
 				<td>chat witht he bot</td>
-				<td>f;chatbot &lt;on/off/enable/disable/channel&gt; <channelID></td>
+				<td>f;chatbot &lt;toggle|uwuify|channel&gt; <channelID></td>
 						</tr>
 						
 
@@ -27,12 +21,12 @@
 
 				<th>logchannel</th>
 				<td>Configuration For server</td>
-				<td>f;logchannel &lt;on|off|enable|disable|channel&gt; <channel></td>
+				<td>f;logchannel &lt;toggle|channel&gt; <channel></td>
 						</tr>
 						
 
 				<th>welcome</th>
 				<td>Enable the Welcome plugin to be able to post your own welcome message</td>
-				<td>f;welcome &lt;on/off/channel/text&gt; <text></td>
+				<td>f;welcome &lt;toggle|test|channel|text&gt; <text></td>
 						</tr>
 						</tbody>
